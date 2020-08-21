@@ -1,7 +1,7 @@
 # Jekyll configuration
 
-name: Blog Name
-description: Software Developer
+name: Takuan
+description: Philosophie ist das Rüstzeug über tief verankerte und versteckte Dinge zu denken. 
 
 # Url is currently only used only for the RSS feed in feed.xml
 url: takuan.de
@@ -10,24 +10,24 @@ url: takuan.de
 # For a project page here should be a project name. Otherwise (for user's/organization's page leave it empty)
 baseurl: ''
 
-author: Pavel Makhov
-copyright: 2015-2018
+author: Testibal Meier
+copyright: 2020
 
 share:
-  facebook: true
-  twitter: true
-  gplus: true
-  linkedin: true
-  pinterest: true
-  email: true
+  facebook: false
+  twitter: false
+  gplus: false
+  linkedin: false
+  pinterest: false
+  email: false
 
 social:
-  github: streetturtle
+  github: ''
   stackoverflow: ''
   linkedin:
   instagram: ''
   lastfm: ''
-  rss: feed.xml
+  rss: ''
 
 # Google Analytics key, leave blank to ignore
 google_analytics_key:
@@ -38,7 +38,7 @@ yandex_metrica:
 # Set this to your disqus shortname to enable comments. Note that the 'comments'
 # setting below must also be true. Individual posts can override 'comments' to
 # disable on a post-by-post basis
-disqus: streetturtle
+disqus: ''
 comments: false
 
 permalink: /:year/:month/:title/
