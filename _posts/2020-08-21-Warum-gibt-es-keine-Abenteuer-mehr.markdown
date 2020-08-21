@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Warum gibt es keine Abenteuer mehr"
+title:  "Warum gibt es keine Abenteuer mehr?"
 date:   2020-08-21 11:39:00 +0200
 categories: Philosophie
 tags: Philosophie
