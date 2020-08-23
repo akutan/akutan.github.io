@@ -2,8 +2,8 @@
 layout: post
 title:  "Warum gibt es keine Abenteuer mehr?"
 date:   2020-08-21 11:39:00 +0200
-categories: Philosophie
-tags: Philosophie
+categories: philosophie
+tags: philosophie
 ---
 
 > Das einzig lebenswerte Abenteuer kann für den modernen Menschen nur noch innen zu finden sein.

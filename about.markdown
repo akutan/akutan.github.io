@@ -11,3 +11,5 @@ Ein Leben, das nicht kritisch untersucht wird, ist es nicht wert, gelebt zu werd
 takuuuaaan (at) gmail (dot) com
 
 Testibal Meier © 2020
+
+<img src='/assets/images/mask.png' style="background:none; border:none; box-shadow:none;">
