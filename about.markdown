@@ -8,6 +8,8 @@ Philosophie hat für mich einen konkreten Wert. Sie bietet eine Sprache über Di
 
 Ein Leben, das nicht kritisch untersucht wird, ist es nicht wert, gelebt zu werden. -Sokrates
 
+Austausch gerne:
+
 takuuuaaan (at) gmail (dot) com
 
 Testibal Meier © 2020
