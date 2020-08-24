@@ -12,4 +12,4 @@ Austausch gerne:
 
 takuuuaaan (at) gmail (dot) com
 
-Testibal Meier © 2020
+Takuan © 2020
