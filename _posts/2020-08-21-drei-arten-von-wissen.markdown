@@ -3,7 +3,7 @@ layout: post
 title:  "Drei Stufen von Wissen"
 date:   2020-08-21 13:39:00 +0200
 categories: philosophie
-tags: philosophie wissen
+tags: wissen
 ---
 
 Ideen oder Informationen haben einen Lebenszyklus sobald das Subjekt mit ihnen in Kontakt kommt. Man kann ihn in drei Stufen einteilen [^1]
@@ -16,6 +16,9 @@ Ideen oder Informationen haben einen Lebenszyklus sobald das Subjekt mit ihnen i
 3. Die eigene Erfahrung der Idee.
 
 Es hängt von der individuellen Offenheit der Person ab, wieviele neue Ideen sie registriert. Hypersensible Menschen finden sich im normalen Leben einen regelrechten Bombardement an Ideen ausgesetzt und verspüren oft den Wunsch sich dessen zu entziehen. Zumindest wenn zu diesem Zeitpunkt anderen Ideen 'in Verarbeitung' sind, d.h. auf den Weg zu Stufe 3. Ist die Pipeline frei suchen sie durchaus neue Ideen.
+
+![]({{'/assets/images/three_states.jpg'}}){: .center-image }{:width="400px"}*Drei Stufen des Wissens*
+
 
 Man kann nicht für alle Ideen denen man ausgesetzt ist diesen Vorgang durchlaufen. Zu Beginn von Phase zwei kann man abwägen wie wahrscheinlich es ist, dass sich die mentale Energie, die man durch Reflexion in die Idee steckt, auszahlt. Für das Abwägen sind mehrere Faktoren wichtig:
  - Ist die Idee neu? Oder eine schon reflektierte Idee in neuem Gewand? Es gibt gar nicht so viele neue Ideen wie man vielleicht meinen könnte.
