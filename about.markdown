@@ -15,5 +15,3 @@ Austausch gerne:
 takuuuaaan (at) gmail (dot) com
 
 Takuan © 2020
-
-Bloglayout: [jekyll](https://jekyllrb.com) [clean dark](https://github.com/streetturtle/jekyll-clean-dark)
