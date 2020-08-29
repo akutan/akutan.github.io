@@ -14,3 +14,5 @@ permalink: /images/
 [![]({{'/assets/images/leere_search.jpg'}}){: .center-image }{:width="400px"}*Herausfordern der Leere*]({% post_url 2020-08-24-leere %})
 [![]({{'/assets/images/ebenen.jpg'}}){: .center-image }{:width="500px"}*Ebenen mit Konus*]({% post_url 2020-08-24-ueber-drachen %})
 [![]({{'https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/iss063e074377.jpg'}}){: .center-image }{:width="500px"}*Station Crew Spots Hurricane Genevieve (nasa.gov)*]({% post_url 2020-08-26-extinction-burst-des-nationalismus %})
+[![]({{'/assets/images/bamboozle.jpg'}}){: .center-image }{:width="300px"}*Karte aus Grainstore Gallery Omaru*]({% post_url 2020-08-28-Warum-sind-drogen-verboten %})
+[![]({{'/assets/images/carljung.jpg'}}){: .center-image }{:width="300px"}*We cannot change anything unless we accept it. Condemnation does not liberate; it oppresses. --Carl Jung*]({% post_url 2020-08-28-Warum-sind-drogen-verboten %})
