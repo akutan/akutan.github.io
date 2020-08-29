@@ -10,6 +10,8 @@ Ein Leben, das nicht kritisch untersucht wird, ist es nicht wert, gelebt zu werd
 
 Ist ein falscher Gedanke nur einmal kühn und klar ausgedrückt, so ist damit schon viel gewonnen. -Ludwig Wittgenstein
 
+Ein Wanderer ohne Ideal und ohne das Gefühl der Dankbarkeit dafür, unabhängig zu sein, ist nicht mehr als ein Bettler. -Musashi
+
 Austausch gerne:
 
 takuuuaaan (at) gmail (dot) com
