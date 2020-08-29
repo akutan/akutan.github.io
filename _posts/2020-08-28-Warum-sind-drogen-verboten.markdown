@@ -17,7 +17,7 @@ Offizielle Antworten:
 
 Mehr Hintergrund:
 
-Es gibt zwei weitere Gründe, die ich interessant finde. Erstens haben einige Substanzen die Eigenschaft einen festgefahrenen Standpunkt aufzuweichen und einen überhaupt erkennen zu lassen was es ist, woran man sich da festhält. Das ist gefährlich für ein System, das auf Säulen steht deren Legitimität nicht über jeden Zweifel erhaben ist.
+Es gibt drei weitere Gründe, die ich interessant finde. Erstens haben einige Substanzen die Eigenschaft einen festgefahrenen Standpunkt aufzuweichen und einen überhaupt erkennen zu lassen was es ist, woran man sich da festhält. Das ist gefährlich für ein System, das auf Säulen steht deren Legitimität nicht über jeden Zweifel erhaben ist.
 
 >Probleme kann man niemals mit derselben Denkweise lösen, durch die sie entstanden sind.
 >
