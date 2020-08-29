@@ -5,7 +5,6 @@ permalink: /images/
 ---
 
 [![]({{'/assets/images/alleinsein.jpg'}}){: .center-image }{:width="300px"}*Alleinsein*]({% post_url 2020-08-19-Ein-Lob-auf-das-Alleinsein %})
-[![]({{'/assets/images/ebenen_pastell.jpg'}}){: .center-image }{:width="400px"}*Verschiedene Ebenen in Pastellkreide*]({% post_url 2020-08-21-denken-im-zen %})
 [![]({{'/assets/images/three_states.jpg'}}){: .center-image }{:width="400px"}*Drei Stufen des Wissens*]({% post_url 2020-08-21-drei-arten-von-wissen %})
 [![]({{'/assets/images/hungry_mind.jpg'}}){: .center-image }{:width="300px"}*Hunger nach neuen Ideen*]({% post_url 2020-08-21-drei-arten-von-wissen %})
 [![img]({{'/assets/images/keine-abenteuer.jpg' | relative_url }}){: .center-image }{:width="400px"}*source: Pixar*]({% post_url 2020-08-21-Warum-gibt-es-keine-Abenteuer-mehr %})
@@ -17,3 +16,4 @@ permalink: /images/
 [![]({{'https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/iss063e074377.jpg'}}){: .center-image }{:width="500px"}*Station Crew Spots Hurricane Genevieve (nasa.gov)*]({% post_url 2020-08-26-extinction-burst-des-nationalismus %})
 [![]({{'/assets/images/bamboozle.jpg'}}){: .center-image }{:width="300px"}*Karte aus Grainstore Gallery Omaru*]({% post_url 2020-08-28-Warum-sind-drogen-verboten %})
 [![]({{'/assets/images/carljung.jpg'}}){: .center-image }{:width="300px"}*We cannot change anything unless we accept it. Condemnation does not liberate; it oppresses. --Carl Jung*]({% post_url 2020-08-28-Warum-sind-drogen-verboten %})
+[![]({{'/assets/images/ebenen_pastell.jpg'}}){: .center-image }{:width="400px"}*Verschiedene Ebenen in Pastellkreide*]({% post_url 2020-08-29-denken-im-zen %})
