@@ -35,4 +35,4 @@ Der Schritt von 2 nach 3 ist von der rein subjektiven Welt in die Intersubjektiv
 Erst wenn die Idee den 3. Zustand erreicht hat ist sie verinnerlicht. Dann lebt man sie auch ohne aktive Reflexion, etwa wenn man sich im Flow (no mind) Zustand befindet. Ein weiteres Reflektieren erübrigt sich. Alan Watts würde sagen:
  > If you get the message, hang up the phone.
 
-Die Idee ist vom Podest des Neuen, auf das man Ideen stellt, sobald man sich entschieden hat sie zu reflektieren, genommen. Der Weg kann dann weitergegangen werden (oder ein neuer angefangen). Jetzt besteht eine Affinität für Ideen die darauf aufbauen. Das heisst es wird unwahrscheinlicher Ideen die in einer andere Richtung zeigen zu reflektieren. Man ist empfänglicher für ähnliche Ideen. 
+Die Idee ist vom Podest des Neuen, auf das man Ideen stellt sobald man sich entschieden hat sie zu reflektieren, genommen. Der Weg kann dann weitergegangen werden (oder ein neuer angefangen). Jetzt besteht eine Affinität für Ideen die darauf aufbauen. Das heißt es wird unwahrscheinlicher Ideen, die in einer andere Richtung zeigen zu reflektieren. Man ist empfänglicher für ähnliche Ideen. 
