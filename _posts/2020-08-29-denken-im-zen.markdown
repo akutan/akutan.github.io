@@ -13,7 +13,7 @@ Das ist ein guter Einstieg in östliche Philosophie und zurecht ist 'Jetzt' (gep
 
 Auf Dauer, nachdem man den Schock über die Erkenntniss und vor allem das Erleben (Satori) des 'Jetzt' verdaut hat, ist es aber zu eindimensional. 'Denken' ist ein wertvolles und nützliches Werkzeug vor dem man keine Angst haben muss. Es stimmt zwar, umso länger eine Gedankenkette wird, umso weiter kommt man vom 'Jetzt' weg, aber das ist nicht schlimm. Es kommt viel mehr darauf an wie man denkt, da gibt es Fallstricke.
 
-Analog zum bewussten Ausführen **einer** Handlung, ohne in Gedanken wo anders zu sein, kann man bewusst über eine Sache denken, ohne in anderen Gedanken über das denken abzudriften. Selber Mechanismus. Schade das es dafür kein anderes Wort gibt, das ist ein Mangel in der Sprache. Ab der ersten Ebene ist alles nur noch 'Denken'.
+Analog zum bewussten Ausführen **einer** Handlung, ohne in Gedanken wo anders zu sein, kann man bewusst über eine Sache denken, ohne in anderen Gedanken über das Denken abzudriften. Selber Mechanismus. Schade das es dafür kein anderes Wort gibt, das ist ein Mangel in der Sprache. Ab der ersten Ebene ist alles nur noch 'Denken'.
 
 Handeln -> Denken^(1) -> Denken^(2) -> ... -> Denken^(N)
 

@@ -12,7 +12,7 @@ tags: abenteuer
 
 Es gibt keine externen Abenteuer mehr, keine weißen Stellen mehr auf der Karte. Der letzte Nagel im Sarg war das der Kapitalismus das 'Erleben' als ein Produkt entdeckt hat. 
 
-![img]({{'/assets/images/keine-abenteuer.jpg' | relative_url }}){: .center-image }{:width="400px"}*source: Pixar*
+![img]({{'/assets/images/keine-abenteuer.jpg' | relative_url }}){: .center-image }{:width="400px"}*Menschenbild in Wall-E (2008). (Quelle: Pixar)*
 
 Ein Abenteuer muss mit Gefahr einhergehen, mitunter auch für das Leben. Macht man aus Abenteuern ein Produkt, so muss der Hersteller auch die Haftung übernehmen. Dadurch werden die Situationen im Abenteuer zwangsweise entschärft, langweiliger, alles ist in Watte eingepackt. Die für das Abenteuer unter Umständen  nötige Gefahr tritt nicht mehr ein. Das Erlebniss ist eine flache, oberflächliche Kopie. Die Intensität des Erlebnisses ist mit der vorhandenen Gefahr korreliert. Wenn der Hersteller das Sicherheitsnetz jedoch so geschickt verwebt, dass der Abenteurer nicht merkt das es da ist macht das vielleicht nichts und der Effekt des Abenteuers (etwa eine Karthasis) tritt genauso ein wie ohne Netz. [^1]
 
@@ -24,3 +24,7 @@ Ohne Abenteuer gibt es auch keine Prüfungen, keine Initiationsrituale mehr. Mit
 
 Dieses Sicherheitsbedürfnis findet auch seinen Weg ins Denken. Es wird klein, gemein, auf sich selbst bezogen. Das ist das Ende jeglicher Entwicklung; das kopieren von Kopien wird endlos weitergeführt. Lieber nicht zu genau hinsehen, man könnte ja dieses kleines bisschen Sicherheit das man sich hart erarbeitet hat verlieren. Ungereimtheiten finden so ihren Weg in die Gesellschaft und werden zur Norm. Man tut niemanden einen Dienst wenn man wegschaut und schweigt. Chuck Palahniuk dazu:
 >People don't want their lives fixed. Nobody wants their problems solved. Their dramas. their distractions. Their stories resolved. Their messes cleaned up. Because what would they have left? Just the big scary unknown.
+
+------------------------
+### Anmerkungen
+

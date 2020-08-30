@@ -27,8 +27,12 @@ Ihre Agenten verkleiden sich als Zauberer um das ganze zu verschleiern. In der H
 Mischkonsum von Substanzen und Religion ist gefährlich , einige Sekten basieren wohl darauf. (Serie dazu: The Path, 2016).
 Vielleicht ist der Machtverlust und Bedeutungsverlust von Religionen mit der liberaleren Drogenpolitik, die zur Zeit umgesetzt wird, korrelliert. 
 
-Am Ende muss man ein System danach beurteilen welche Gesellschaft es hervorbringt und nicht nach dem objektiven Wahrheitsgehalt seiner Aussagen. Der Zweck heiligt die Mittel. Deshalb hat wohl (wenn man nur die beiden Sachen zur Auswahl hat) Religion doch die Nase vorne.
+Am Ende muss man ein System danach beurteilen welche Gesellschaft es hervorbringt und nicht nach dem objektiven Wahrheitsgehalt seiner Aussagen. Der Zweck heiligt die Mittel. Deshalb hat wohl (wenn man nur die beiden Sachen zur Auswahl hat) Religion noch[^3] die Nase vorne.
 
+[^3]: In Aldous Huxley's dystopischen Roman Schöne neue Welt von 1932 (!) hat die Droge Soma die Religion ersetzt. 
+
+------------------------
+### Anmerkungen
 
 
 

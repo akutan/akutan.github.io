@@ -6,7 +6,7 @@ categories: philosophie
 tags: wissen
 ---
 
-Ideen oder Informationen haben einen Lebenszyklus sobald das Subjekt mit ihnen in Kontakt kommt. Man kann ihn in drei Stufen einteilen [^1]
+Ideen oder Informationen haben einen Lebenszyklus sobald das Subjekt mit ihnen in Kontakt kommt. Man kann ihn in drei Stufen einteilen[^1]:
 
 [^1]: Pali hat für die drei Arten des Wissens die Bezeichnungen: Sutta-maya panna, Cinta-maya panna und Bhavana-maya panna.  Der erste Schritt ist dort ein Kontakt mit dem Dhamma, etwa durch einem Lehrer hört. Der zweite Schritt ist darüber zu reflektieren. Im 3. Schritt erfährt man die Auswirkungen direkt. Erst im 3. Schritt werden Kleshas (Verunreinigung) abgebaut.
 
@@ -36,3 +36,7 @@ Erst wenn die Idee den 3. Zustand erreicht hat ist sie verinnerlicht. Dann lebt 
  > If you get the message, hang up the phone.
 
 Die Idee ist vom Podest des Neuen, auf das man Ideen stellt sobald man sich entschieden hat sie zu reflektieren, genommen. Der Weg kann dann weitergegangen werden (oder ein neuer angefangen). Jetzt besteht eine Affinität für Ideen die darauf aufbauen. Das heißt es wird unwahrscheinlicher Ideen, die in einer andere Richtung zeigen zu reflektieren. Man ist empfänglicher für ähnliche Ideen. 
+
+------------------------
+### Anmerkungen
+
