@@ -5,6 +5,7 @@ permalink: /images/
 ---
 
 [![]({{'/assets/images/alleinsein.jpg'}}){: .center-image }{:width="300px"}*Alleinsein*]({% post_url 2020-08-19-Ein-Lob-auf-das-Alleinsein %})
+[![]({{'/assets/images/simple_rick.jpg'}}){: .center-image }{:width="400px"}*We captured that Moment and run it on a loop through simple Rick's mind. (Rick and Morty, Tales From the Citadel)*]({% post_url 2020-08-19-Ein-Lob-auf-das-Alleinsein %})
 [![]({{'/assets/images/three_states.jpg'}}){: .center-image }{:width="400px"}*Drei Stufen des Wissens*]({% post_url 2020-08-21-drei-arten-von-wissen %})
 [![]({{'/assets/images/hungry_mind.jpg'}}){: .center-image }{:width="300px"}*Hunger nach neuen Ideen*]({% post_url 2020-08-21-drei-arten-von-wissen %})
 [![img]({{'/assets/images/keine-abenteuer.jpg' | relative_url }}){: .center-image }{:width="400px"}*Menschenbild in Wall-E (2008). (Quelle: Pixar)*]({% post_url 2020-08-21-Warum-gibt-es-keine-Abenteuer-mehr %})
