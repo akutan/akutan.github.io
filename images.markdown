@@ -14,7 +14,7 @@ permalink: /images/
 [![]({{'/assets/images/leere_versteckt.jpg'}}){: .center-image }{:width="200px"}*Leere verstecken*]({% post_url 2020-08-24-leere %})
 [![]({{'/assets/images/leere_search.jpg'}}){: .center-image }{:width="400px"}*Herausfordern der Leere*]({% post_url 2020-08-24-leere %})
 [![]({{'/assets/images/ebenen.jpg'}}){: .center-image }{:width="500px"}*Ebenen mit Konus*]({% post_url 2020-08-24-ueber-drachen %})
-[![]({{'/assets/images/iss063e039001.jpg'}}){: .center-image }{:width="300px"}*The crew snapped this starry nighttime shot of Rio de Janeiro and surrounding cities on the Brazilian coast, as the International Space Station orbited above São Paolo. (nasa.gov)*]({% post_url 2020-08-26-extinction-burst-des-nationalismus %})
+[![]({{'/assets/images/iss063e039001.jpg'}}){: .center-image }{:width="500px"}*The crew snapped this starry nighttime shot of Rio de Janeiro and surrounding cities on the Brazilian coast, as the International Space Station orbited above São Paolo. (nasa.gov)*]({% post_url 2020-08-26-extinction-burst-des-nationalismus %})
 [![]({{'/assets/images/bamboozle.jpg'}}){: .center-image }{:width="300px"}*Karte aus Grainstore Gallery Omaru*]({% post_url 2020-08-28-Warum-sind-drogen-verboten %})
 [![]({{'/assets/images/carljung.jpg'}}){: .center-image }{:width="300px"}*We cannot change anything unless we accept it. Condemnation does not liberate; it oppresses. --Carl Jung*]({% post_url 2020-08-28-Warum-sind-drogen-verboten %})
 [![]({{'/assets/images/ebenen_pastell.jpg'}}){: .center-image }{:width="400px"}*Verschiedene Ebenen in Pastellkreide*]({% post_url 2020-08-29-denken-im-zen %})
