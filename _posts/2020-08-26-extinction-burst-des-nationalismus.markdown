@@ -15,6 +15,6 @@ Die alten Strukturen und Eliten sind aber noch vorhanden. Die stemmen sich jetzt
 Vielleicht muss man auf eine Kolonialisierung eines anderen Planeten warten um entgültig einen homogenen Planeten zu haben. Sobald eine Gruppe von Menschen von außen auf den Planeten schauen kann ist das ein starker Impuls in auch als EINEN Planeten zu erkennen. Im Moment passiert das schon auf der ISS, dort sind USA, Europa, Russland und andere Nationen gleichberechtigt vertreten. Nur [China](https://en.wikipedia.org/wiki/List_of_visitors_to_the_International_Space_Station) war leider noch nicht zu Besuch... 
 
 
-![]({{'https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/iss063e074377.jpg'}}){: .center-image }{:width="500px"}*Station Crew Spots Hurricane Genevieve (nasa.gov)*
+![]({{'/assets/images/iss063e039001.jpg'}}){: .center-image }{:width="500px"}*The crew snapped this starry nighttime shot of Rio de Janeiro and surrounding cities on the Brazilian coast, as the International Space Station orbited above São Paolo. (nasa.gov)*
 
 Sehr reale Probleme (z.B.  Klimawandel, Plastik in den Ozeanen, oder Epidemien von Superbugs) die wir auf dem Planeten gerade haben kennen keine Nationalstaaten. Das macht es ziemlich wichtig das wir den Extinction burst bestehen. Es ist ein kritischer Moment, so wie wenn man nach 6 Monaten ohne Kippen überlegt ob man sich nicht doch nochmal eine gönnen sollte.
