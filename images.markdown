@@ -18,3 +18,4 @@ permalink: /images/
 [![]({{'/assets/images/bamboozle.jpg'}}){: .center-image }{:width="300px"}*Karte aus Grainstore Gallery Omaru*]({% post_url 2020-08-28-Warum-sind-drogen-verboten %})
 [![]({{'/assets/images/carljung.jpg'}}){: .center-image }{:width="300px"}*We cannot change anything unless we accept it. Condemnation does not liberate; it oppresses. --Carl Jung*]({% post_url 2020-08-28-Warum-sind-drogen-verboten %})
 [![]({{'/assets/images/ebenen_pastell.jpg'}}){: .center-image }{:width="400px"}*Verschiedene Ebenen in Pastellkreide*]({% post_url 2020-08-29-denken-im-zen %})
+[![]({{'/assets/images/ausbreitung_aus_der_mitte.jpg'}}){: .center-image }{:width="400px"}*Eine Idee breitet sich aus. (Inception)*]({% post_url 2020-08-29-denken-im-zen %})
