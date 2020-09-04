@@ -14,8 +14,6 @@ Will man möglichst oft im Flow Zustand sein (mir fallen wenig Gründe ein, waru
   <figcaption>Aufschlussreiches Diagramm, zu welchen Zuständen verschiedene Paarungen von Herausforderung und Fähigkeit führen. Quelle: Wikipedia</figcaption>
 </figure> 
 
-
-
 Um den Flow Zustand gezielt provozieren zu können, muss man erstens seine Fähigkeiten gut einschätzen können, und zweitens selbstbestimmt genug leben können, sich seine Herausforderungen passend zu suchen. Kann man, aus welchen Gründen auch immer, kein selbstbestimmtes Leben führen, muss man seine Fähigkeiten der Instanz, die die Aufgaben definiert und verteilt, die momentanen Fähigkeiten möglichst ehrlich kommunizieren.
 
 Will man sein ganzes Leben im Flowzustand verbringen, braucht man ein ausreichend großes *Lebensziel*. Dann defniert man sich kleinere Subziele, die alle auf das große Ziel ausgerichtet sind und jeweils den aktuellen Fähigkeiten entsprechen. Hat man Vertrauen in die eigenen Planungsfähigkeiten zum Zeitpunkt der Planung, und Vertrauen in die Werte, denen das Lebensziel dient, kann man den Kopf abschalten und die Ziele eines nach dem anderen im Flowzustand erreichen. Man kann ja regelmässig (nicht zu oft) einen Schritt zurückmachen, den kritischen Denker wieder ins Boot holen, und das Lebensziel (und die aktuellen Subziele) unter dem Licht der neuen Fähigkeit und Erfahrungen einer erneuten Prüfung unterziehen und gegebenenfalls anpassen.
@@ -28,7 +26,7 @@ Musashi dazu:
 
 <figure>
   <img class="marginauto" src='/assets/images/flows03dtransparent_inverted_small.png' width="400" style="background:none ; border:none; box-shadow:none"/>
-  <figcaption>Verschiede Flows</figcaption>
+  <figcaption>Verschiedene Flows</figcaption>
 </figure> 
 
 <style>
@@ -36,13 +34,11 @@ Musashi dazu:
     margin: 10px auto 20px;
     display: block;
 }
-</style>
-
-<style>
 figcaption {
   text-align: center;
 }
 </style>
+
 
 
 
