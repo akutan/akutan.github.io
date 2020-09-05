@@ -20,8 +20,21 @@ Ideen oder Informationen haben einen Lebenszyklus sobald das Subjekt mit ihnen i
 
 Es hängt von der individuellen Offenheit der Person ab, wieviele neue Ideen sie registriert. Hypersensible Menschen finden sich im normalen Leben einen regelrechten Bombardement an Ideen ausgesetzt und verspüren oft den Wunsch sich dessen zu entziehen. Zumindest wenn zu diesem Zeitpunkt anderen Ideen 'in Verarbeitung' sind, d.h. auf den Weg zu Stufe 3. Ist die Pipeline frei suchen sie durchaus neue Ideen.
 
-![]({{'/assets/images/hungry_mind.jpg'}}){: .center-image }{:width="300px"}*Hunger nach neuen Ideen*
 
+<figure>
+  <img class="marginauto" src='/assets/images/hungry_mind.png' width="400" style="background:none ; border:none; box-shadow:none"/>
+  <figcaption>Hunger nach neuen Ideen</figcaption>
+</figure> 
+
+<style>
+.marginauto {
+    margin: 10px auto 20px;
+    display: block;
+}
+figcaption {
+  text-align: center;
+}
+</style>
 
 Man kann nicht für alle Ideen denen man ausgesetzt ist diesen Vorgang durchlaufen. Zu Beginn von Phase zwei kann man abwägen wie wahrscheinlich es ist, dass sich die mentale Energie, die man durch Reflexion in die Idee steckt, auszahlt. Für das Abwägen sind mehrere Faktoren wichtig:
  - Ist die Idee neu? Oder eine schon reflektierte Idee in neuem Gewand? Es gibt gar nicht so viele neue Ideen wie man vielleicht meinen könnte.

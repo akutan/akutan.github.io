@@ -7,8 +7,21 @@ permalink: /images/
 [![]({{'/assets/images/alleinsein.jpg'}}){: .center-image }{:width="300px"}*Alleinsein*]({% post_url 2020-08-19-Ein-Lob-auf-das-Alleinsein %})
 [![]({{'/assets/images/simple_rick.jpg'}}){: .center-image }{:width="400px"}*We captured that Moment and run it on a loop through simple Rick's mind. (Rick and Morty, Tales From the Citadel)*]({% post_url 2020-08-19-Ein-Lob-auf-das-Alleinsein %})
 [![]({{'/assets/images/three_states.jpg'}}){: .center-image }{:width="400px"}*Drei Stufen des Wissens*]({% post_url 2020-08-21-drei-arten-von-wissen %})
-[![]({{'/assets/images/hungry_mind.jpg'}}){: .center-image }{:width="300px"}*Hunger nach neuen Ideen*]({% post_url 2020-08-21-drei-arten-von-wissen %})
-[![img]({{'/assets/images/keine-abenteuer.jpg' | relative_url }}){: .center-image }{:width="400px"}*Menschenbild in Wall-E (2008). (Quelle: Pixar)*]({% post_url 2020-08-21-Warum-gibt-es-keine-Abenteuer-mehr %})
+<p>
+<a href="{% post_url 2020-08-21-drei-arten-von-wissen %}" title="Redirect to blogpage">
+<figure>
+  <img class="marginauto" src='/assets/images/hungry_mind.png' width="400" style="background:none ; border:none; box-shadow:none"/>
+  <figcaption>Hunger nach neuen Ideen</figcaption>
+</figure> </a></p>
+<style>
+.marginauto {
+    margin: 10px auto 20px;
+    display: block;
+}
+figcaption {
+  text-align: center;
+}
+</style>[![img]({{'/assets/images/keine-abenteuer.jpg' | relative_url }}){: .center-image }{:width="400px"}*Menschenbild in Wall-E (2008). (Quelle: Pixar)*]({% post_url 2020-08-21-Warum-gibt-es-keine-Abenteuer-mehr %})
 [![]({{'/assets/images/pfad.jpg'}}){: .center-image }{:width="300px"}*Einen Pfad beschreiten*]({% post_url 2020-08-23-Der-Weg-zum-Wissen %})
 [![]({{'/assets/images/leere.jpg'}}){: .center-image }{:width="500px"}*Künstler: Aaron Diaz (http://dresdencodak.com)*]({% post_url 2020-08-24-leere %})
 [![]({{'/assets/images/leere_versteckt.jpg'}}){: .center-image }{:width="200px"}*Leere verstecken*]({% post_url 2020-08-24-leere %})
