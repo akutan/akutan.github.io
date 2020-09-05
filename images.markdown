@@ -19,14 +19,18 @@ permalink: /images/
 [![]({{'/assets/images/carljung.jpg'}}){: .center-image }{:width="300px"}*We cannot change anything unless we accept it. Condemnation does not liberate; it oppresses. --Carl Jung*]({% post_url 2020-08-28-Warum-sind-drogen-verboten %})
 [![]({{'/assets/images/ebenen_pastell.jpg'}}){: .center-image }{:width="400px"}*Verschiedene Ebenen in Pastellkreide*]({% post_url 2020-08-29-denken-im-zen %})
 [![]({{'/assets/images/ausbreitung_aus_der_mitte.jpg'}}){: .center-image }{:width="400px"}*Eine Idee breitet sich aus. (Inception)*]({% post_url 2020-08-29-denken-im-zen %})
+<p>
+<a href="{% post_url 2020-09-04-Gedanken-zum-Flow %}" title="Redirect to blogpage">
 <figure>
   <img class="marginauto" src='/assets/images/450px-Challenge_vs_skill.svg_white.png' width="400" style="background:none ; border:none; box-shadow:none"/>
   <figcaption>Aufschlussreiches Diagramm, zu welchen Zuständen verschiedene Paarungen von Herausforderung und Fähigkeit führen. Quelle: Wikipedia</figcaption>
-</figure> 
+</figure> </a></p>
+<p>
+<a href="{% post_url 2020-09-04-Gedanken-zum-Flow %}" title="Redirect to blogpage">
 <figure>
   <img class="marginauto" src='/assets/images/flows03dtransparent_inverted_small.png' width="400" style="background:none ; border:none; box-shadow:none"/>
   <figcaption>Verschiedene Flows</figcaption>
-</figure> 
+</figure> </a></p>
 <style>
 .marginauto {
     margin: 10px auto 20px;
@@ -36,4 +40,3 @@ figcaption {
   text-align: center;
 }
 </style>
-
