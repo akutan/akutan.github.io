@@ -8,7 +8,7 @@ tags: wissen
 
 Ideen oder Informationen haben einen Lebenszyklus sobald das Subjekt mit ihnen in Kontakt kommt. Man kann ihn in drei Stufen einteilen[^1]:
 
-[^1]: Pali hat für die drei Arten des Wissens die Bezeichnungen: Sutta-maya panna, Cinta-maya panna und Bhavana-maya panna.  Der erste Schritt ist dort ein Kontakt mit dem Dhamma, etwa durch einem Lehrer hört. Der zweite Schritt ist darüber zu reflektieren. Im 3. Schritt erfährt man die Auswirkungen direkt. Erst im 3. Schritt werden Kleshas (Verunreinigung) abgebaut.
+[^1]: Pali hat für die drei Arten des Wissens die Bezeichnungen: Sutta-maya panna, Cinta-maya panna und Bhavana-maya panna. Der erste Schritt ist dort ein Kontakt mit dem Dhamma, etwa durch einen Lehrer. Der zweite Schritt ist darüber zu reflektieren. Im 3. Schritt erfährt man die Auswirkungen direkt. Erst im 3. Schritt werden Kleshas (Verunreinigung) abgebaut.
 
 
 1. Eine Information oder eine Idee an sich. Neutral. Oberflächlich. Kontakt zufällig durch verschiedene Medien möglich. 
