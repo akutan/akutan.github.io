@@ -58,7 +58,7 @@ Wir sind zur Freiheit verdammt (Satre) und die Freiheit beinhaltet eben auch sic
 Will man die Entscheidung für eine Abstraktion vernünftig treffen muss man fragen wer sie zu welchen Zweck entworfen hat oder unter welchen Umständen und historischen Begebenheiten sie gewachsen ist. Zu welcher Art von Realität führt sie? Wie behandelt sie die Schwächsten in der Gesellschaft? Wie ist Status in ihr definiert? Wer hat die Fäden in der Hand, wie ist die Macht verteilt?  Betrachtet man eine neu konstruierte Abstraktion (eine Utopie) ist auch die Frage ob sie in die Zeit passt, also ob aus ihr eine intersubjektive Realität werden kann. Das sind schwierige Fragen ohne einfache Antworten, man braucht Geduld und einen kühlen Kopf.
 
 <details>
-<summary>Eine Stelle aus Musashi dazu, als Takun Matahachi gerade noch daran hindert ein Attentat an den Shogun zu verüben:</summary>
+<summary>Eine Stelle aus Musashi dazu, als Takuan Matahachi gerade noch daran hindert ein Attentat auf den Shogun zu verüben:</summary>
 »Ihr habt nicht die geringste Ahnung, von was für einer Wirklichkeit ich rede. Zweifellos weilt Ihr noch in Eurer Welt der Phantasie. Nun, da Ihr so einfältig seid wie ein Kind, nehme ich an, muß ich es Euch vorkauen ... Wie alt seid Ihr?«
 
 »Achtundzwanzig.« »Genauso alt wie Musashi.«
