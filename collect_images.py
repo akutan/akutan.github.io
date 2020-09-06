@@ -14,18 +14,22 @@ for filename in filenames:
         continue
     total_images = []
     with open(osp.join(post_dir, filename), 'r') as f:
-        multiline=''
-        for line in f:
-            if multiline and (line.startswith('</figure>') or line.startswith('</style>')) :
-                multiline += line[:-1] # skip new line
-                total_images.append(multiline)
-                multiline = ''
-            elif multiline:
-                multiline += line
-            elif line.startswith('!['):
-                total_images.append(line[:-1]) # skip new line
-            elif line.startswith('<figure>') or line.startswith('<style>'):
-                multiline += line # include new line
+        try:
+            multiline=''
+            for line in f:
+                if multiline and (line.startswith('</figure>') or line.startswith('</style>')) :
+                    multiline += line[:-1] # skip new line
+                    total_images.append(multiline)
+                    multiline = ''
+                elif multiline:
+                    multiline += line
+                elif line.startswith('!['):
+                    total_images.append(line[:-1]) # skip new line
+                elif line.startswith('<figure>') or line.startswith('<style>'):
+                    multiline += line # include new line
+        except UnicodeDecodeError:
+            print('ERROR: {}, {}'.format(osp.join(post_dir, filename), line))
+            continue
     if len(total_images) > 0:
         filename_images[filename.replace('.markdown', '')] = []
         for ti in total_images:

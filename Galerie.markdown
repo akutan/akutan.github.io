@@ -66,6 +66,20 @@ figcaption {
   text-align: center;
 }
 </style><p>
+<a href="{% post_url 2020-09-06-Abstrahieren %}" title="Redirect to blogpage">
+<figure>
+  <img class="marginauto" src='/assets/images/fragmentiert_transparent.png' width="400" style="background:none ; border:none; box-shadow:none"/>
+  <figcaption>Fragmentiertes Ganzes</figcaption>
+</figure> </a></p>
+<style>
+.marginauto {
+    margin: 10px auto 20px;
+    display: block;
+}
+figcaption {
+  text-align: center;
+}
+</style><p>
 <a href="{% post_url 2020-09-06-Mauern-auf-dem-Weg %}" title="Redirect to blogpage">
 <figure>
   <img class="marginauto" src='/assets/images/vor_wand.png' width="200" style="background:none ; border:none; box-shadow:none"/>
