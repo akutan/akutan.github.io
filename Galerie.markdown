@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Images
-permalink: /images/
+permalink: /Galerie/
 ---
 
 [![]({{'/assets/images/alleinsein.jpg'}}){: .center-image }{:width="300px"}*Alleinsein*]({% post_url 2020-08-19-Ein-Lob-auf-das-Alleinsein %})
