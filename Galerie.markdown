@@ -65,4 +65,41 @@ figcaption {
 figcaption {
   text-align: center;
 }
-</style>
+</style><p>
+<a href="{% post_url 2020-09-06-Mauern-auf-dem-Weg %}" title="Redirect to blogpage">
+<figure>
+  <img class="marginauto" src='/assets/images/vor_wand.png' width="200" style="background:none ; border:none; box-shadow:none"/>
+</figure> </a></p>
+<style>
+.marginauto {
+    margin: 10px auto 20px;
+    display: block;
+}
+figcaption {
+  text-align: center;
+}
+</style><p>
+<a href="{% post_url 2020-09-06-Mauern-auf-dem-Weg %}" title="Redirect to blogpage">
+<figure>
+  <img class="marginauto" src='/assets/images/um_brocken_fliegen.png' width="300" style="background:none ; border:none; box-shadow:none"/>
+</figure> </a></p>
+<p>
+<a href="{% post_url 2020-09-06-Mauern-auf-dem-Weg %}" title="Redirect to blogpage">
+<figure>
+  <img class="marginauto" src='/assets/images/kleiner_brocken.png' width="150" style="background:none ; border:none; box-shadow:none"/>
+</figure> </a></p>
+<p>
+<a href="{% post_url 2020-09-06-Mauern-auf-dem-Weg %}" title="Redirect to blogpage">
+<figure>
+  <img class="marginauto" src='/assets/images/wait_for_shift.png' width="200" style="background:none ; border:none; box-shadow:none"/>
+</figure> </a></p>
+<p>
+<a href="{% post_url 2020-09-06-Mauern-auf-dem-Weg %}" title="Redirect to blogpage">
+<figure>
+  <img class="marginauto" src='/assets/images/lupe.png' width="150" style="background:none ; border:none; box-shadow:none"/>
+</figure> </a></p>
+<p>
+<a href="{% post_url 2020-09-06-Mauern-auf-dem-Weg %}" title="Redirect to blogpage">
+<figure>
+  <img class="marginauto" src='/assets/images/umgeben.png' width="200" style="background:none ; border:none; box-shadow:none"/>
+</figure> </a></p>

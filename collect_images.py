@@ -4,7 +4,7 @@ import os
 import os.path as osp
 
 post_dir = '_posts/'
-image_dir = 'images.markdown'
+image_dir = 'Galerie.markdown'
 
 filenames = os.listdir(post_dir)
 
@@ -35,7 +35,7 @@ if not os.path.exists(image_dir):
     os.makedirs(image_dir)
     
 with open(image_dir, 'w') as out:
-    header_str = '---\nlayout: page\ntitle: Images\npermalink: /images/\n---\n\n'
+    header_str = '---\nlayout: page\ntitle: Images\npermalink: /Galerie/\n---\n\n'
     out.write(header_str)
     for fn in filename_images.keys():
         for imn in filename_images[fn]:
