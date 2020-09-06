@@ -60,7 +60,7 @@ Macht man das zu bereitwillig, und arbeitet nicht an seiner Flughöhe, wird man 
 
 - Nach der Arbeit an verschiedenen Brocken Gemeinsamkeiten herausarbeiten. Die Aufmerksamkeit auf die Mauer an sich lenken. Strategien, die für jeden Brocken funktionieren, ableiten.
 
-- Es könnte eine optische Täuschung sein und der Brocken ist in Wahrheit ein Loch. Dann muss man aber fragen, wer den das Loch da so unvorsichtig offen hat stehen lassen, so dass jeder reinfallen und sich den Hals brechen kann. Entweder das war grob fahrlässig, oder es hat noch keiner entdeckt. Oder es wurde bisher immer als Brocken interpretiert. Oder es wäre zu teuer eine Absperrung zu bauen. Brocken sind im allgemeinen nicht gefährlich. Das schlimmste was passieren kann ist das man nicht weiterkommt oder sich den großen Zeh anhaut. Mit Löcherm muss man vorsichtiger sein.
+- Es könnte eine optische Täuschung sein und der Brocken ist in Wahrheit ein Loch. Dann muss man aber fragen, wer den das Loch da so unvorsichtig offen hat stehen lassen, so dass jeder reinfallen und sich den Hals brechen kann. Entweder das war grob fahrlässig, oder es hat noch keiner entdeckt. Oder es wurde bisher immer als Brocken interpretiert. Oder es wäre zu teuer eine Absperrung zu bauen. Brocken sind im allgemeinen nicht gefährlich. Das schlimmste was passieren kann ist das man nicht weiterkommt oder sich den großen Zeh anhaut. Mit Löchern muss man vorsichtiger sein.
 
 
 So, was wenn man in allen drei Raumdimensionen Mauern findet? Dann ist der Adlermove keine Option.

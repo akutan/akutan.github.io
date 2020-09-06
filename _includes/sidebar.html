@@ -1,5 +1,5 @@
 <div class="sidebar ">
-  <h2>Ältere Einträge</h2>
+  <h2>Neueste Einträge</h2>
   <ul>
     {% for post in site.posts limit:5 %}
     <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
