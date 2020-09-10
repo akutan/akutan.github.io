@@ -130,4 +130,4 @@ figcaption {
 figcaption {
   text-align: center;
 }
-</style>
+</style>[![]({{'/assets/images/himmelueberberlin.jpg'}}){: .center-image }{:width="500px"}*Der Himmel über Berlin von Wim Wenders*]({% post_url 2020-09-10-Himmer-ueber-Berlin %})
