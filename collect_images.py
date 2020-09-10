@@ -9,7 +9,7 @@ image_dir = 'Galerie.markdown'
 filenames = os.listdir(post_dir)
 
 filename_images = {}
-for filename in filenames:
+for filename in filenames[::-1]:
     if not filename.endswith('.markdown'):
         continue
     total_images = []
@@ -42,7 +42,7 @@ with open(image_dir, 'w') as out:
     header_str = '---\nlayout: page\ntitle: Images\npermalink: /Galerie/\n---\n\n'
     out.write(header_str)
     for fn in filename_images.keys():
-        for imn in filename_images[fn]:
+        for imn in filename_images[fn][::-1]:
             if imn.startswith('!['):
                 write_str = '[{}]({{% post_url {} %}})\n'.format(imn, fn)
             elif imn.startswith('<style>'):
