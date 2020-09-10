@@ -117,3 +117,17 @@ figcaption {
 <figure>
   <img class="marginauto" src='/assets/images/umgeben.png' width="200" style="background:none ; border:none; box-shadow:none"/>
 </figure> </a></p>
+<p>
+<a href="{% post_url 2020-09-10-Bewusstsein %}" title="Redirect to blogpage">
+<figure>
+  <img class="marginauto" src='/assets/images/20200324_drawing_phantasy_01.png' width="400" style="background:none ; border:none; box-shadow:none"/>
+</figure> </a></p>
+<style>
+.marginauto {
+    margin: 10px auto 20px;
+    display: block;
+}
+figcaption {
+  text-align: center;
+}
+</style>

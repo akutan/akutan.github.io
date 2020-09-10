@@ -10,6 +10,23 @@ Das *eigene* Bewusstsein ist die einzige Instanz dieses Phänomens, zu der man d
 
 [^1]: Da gibt es einen Kreisschluss, da die Instanz des 'Beobachters' Teil des zu untersuchenden Systems ist. Es kann zu Rückkopplungseffekten (z.B. auch Resonanz) kommen.
 
+
+
+<figure>
+  <img class="marginauto" src='/assets/images/20200324_drawing_phantasy_01.png' width="400" style="background:none ; border:none; box-shadow:none"/>
+</figure> 
+
+<style>
+.marginauto {
+    margin: 10px auto 20px;
+    display: block;
+}
+figcaption {
+  text-align: center;
+}
+</style>
+
+
 Auch im sekularen Umfeld gibt es Interesse an  dem großen Mysterium des Bewusstseins, z.B. die Bewilligung des Human Brain Project der Europäischen Union, das mit über 1 Mia Euro gefördert wurde [^2]. Der Sitz des Bewusstseins wird, falls es lokal aus der Komplexität des Körpers erwächst, im Gehirn vermutet. Schafft man es, das menschliche Gehirn hinreichend gut zu modelieren, erhofft man sich die Existenz und Natur des Bewusstseins ableiten zu können. 
 
 [^2]: Das wirkt erstmal viel, aber alleine 2020 pumpt Deutschland und die EU mehrere Billionen in die Wirtschaft. Ganz zu schweigen von den USA , die 2020 738 Mia alleine in ihre Verteidigung investiert.
