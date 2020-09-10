@@ -19,7 +19,7 @@ Dieses große Ziel ist aber über 10 Jahre nach Beginn des Human Brain Projects 
 Die evolutionsbiologische Legitimation des Gehirns ist es, ein Model zu entwickeln, das das Überleben und die Fortpflanzung in der gegeben Umwelt sicherstellt. Ob es deshalb sinnvoll ist, es isoliert, ohne den Rest des Universums, zu simulieren, steht zur Debatte. 
 
 
-### Ideen / Informationen / Fragen zum Bewusstsein:
+### Fragen zum Bewusstsein:
 
 - Ist es Substratabhängig? Ist die Kohlenstoffbasis essentiel? Oder stellt sich die selbe Art von Bewusstein bei Vernetzung von Neuronen auf einen anderen Substrat (z.B. Siliciumchips) ein?
 - Lässt sich das Entstehen von Bewusstsein aus den drei Milliarden Basenpaaren der menschlichen DNA direkt ableiten?
