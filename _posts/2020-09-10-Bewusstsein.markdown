@@ -23,7 +23,7 @@ Die evolutionsbiologische Legitimation des Gehirns ist es, ein Model zu entwicke
 
 - Ist es Substratabhängig? Ist die Kohlenstoffbasis essentiel? Oder stellt sich die selbe Art von Bewusstein bei Vernetzung von Neuronen auf einen anderen Substrat (z.B. Siliciumchips) ein?
 - Lässt sich das Entstehen von Bewusstsein aus den drei Milliarden Basenpaaren der menschlichen DNA direkt ableiten?
-- Erwächst Bewusstsein aus Komplexität? Hat also jedes 'System' Bewusstsein, dass mit seinen Level an Komplexität korrespondiert?
+- Erwächst Bewusstsein aus Komplexität? Hat also jedes 'System' Bewusstsein, das mit seinen Level an Komplexität korrespondiert?
 - Hat die Erde Bewusstsein? Die Milchstrasse? Die Sonne?
 - Können wir uns mit dem menschlichen Bewusstsein ein Bild von dem Bewusstsein einer Ameisenkolonie machen? 
 - Angenommen bei einer Modelierung des Gehirns entstände Bewusstsein, wie würde man es beobachten? Durch welche Messergebnisse? Gibt es den gleichen Kreisschluss, den man als Individuum unterworfen ist? Müsste das Model sein Bewusstsein also mit modelieren? 
