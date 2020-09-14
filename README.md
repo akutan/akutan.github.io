@@ -1,3 +1,5 @@
+check out the blog at takuan.de
+
 Jekyll Clean Dark
 ============
 
