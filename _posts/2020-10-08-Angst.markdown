@@ -1,0 +1,57 @@
+---
+layout: post
+title:  "Angst"
+date:   2020-10-08 07:39:00 +0200
+categories: philosophie
+tags: angst paranoia
+---
+
+Angst in in gewisser Weise ein Wegweiser. Sachen vor denen man Angst hat beschäftigen einen, haben Relevanz. Es ist eine starke Emotion, die nicht gut ignoriert werden kann, was abgesehen davon auch nicht sehr dienlich ist. Bohrt man sehr tief nach dem Ursprung, der Wurzel von Ängsten kann man auf existentielle Ängste stoßen, die sich  wie Löcher verhalten, nicht wie Brocken. Löcher ohne Boden, egal wieviel Aufmerksamkeit man in sie investiert, sie werden nicht gefüllt. Alle Ängste abbauen wollen kann nicht das Ziel sein, da verläuft man sich zu leicht in der Leere.
+
+Angst ist die Bedingung Mut zu zeigen, Mut ist nicht die Abwesenheit von Angst, sondern die Bereitschaft etwas trotz Angst zu tun. 
+Angst is ein wertvoller Begleiter, mahnt zur Vorsicht, ermöglicht reflektiertes Handeln. 
+Die Angst manipuliert zu werden ist z.B. eine Eingangstüre zum kritischen, selbstständigen Denken.
+Ist man sicher das man nicht manipuliert werden kann, macht man es potentiellen Manipulatoren zu einfach. Ist man sicher das man die Welt verstanden hat und weiß wie es läuft schließt man die Türe zu neuen Erkentnissen.
+
+Unreflektierte Angst verliert ihre Form, wird eine schwarze zähe Masse, die sich im inneren (in der Brust) festsetzt. Will man dann irgendwann mal ran, wirkt sie ungreifbar, formlos. Alles schöne gute helle löst sich in ihr auf, sie breitet sich aus und zieht alles in ihren Bann. Der schwarze Teer legt sich auf die Brille mit der man die Welt sieht. Sie lähmt, verhindert alles handeln. Will jemand von außen eine helfende Hand leihen greift die schwarze Masse nach ihr und will sie assimilieren, auf die dunkle Seite ziehen.
+
+
+![]({{'/assets/images/selektive_aufnahme_informationen.jpg'}}){: .center-image }{:width="500px"}*Selektive Aufnahme von Informationen.*
+
+
+ Die Masse muss von innen her bekämpft werden, aber ironischerweise nicht mit Gewalt, sondern mit Aufmerksamkeit, Akzeptanz, Liebe und Verständnis. Man muss ihr verzeihen, sich bei ihr bedanken, sich bei ihr entschuldigen und sie liebhaben. Dann kann sie abfließen wie Eiter nachdem er eine Infektion aus dem Körper gespült hat. Dann fällt sie ab wie der Schorf, wenn eine Wunde fertig geheilt ist.
+
+Unreflektierte Angst wird zu Paranoia. Sie nistet sich ein, bestimmt das Denken, übernimmt die Kontrolle.
+
+
+
+<figure>
+  <img class="marginauto" src='/assets/images/angsthuckepack.png' width="250" style="background:none ; border:none; box-shadow:none"/>
+  <figcaption>Paranoia wächst.</figcaption>
+</figure> 
+
+<style>
+.marginauto {
+    margin: 10px auto 20px;
+    display: block;
+}
+figcaption {
+  text-align: center;
+}
+</style>
+
+Besonders kritisch ist die Angst vor der Wahrheit. Es impliziert dass die Lage so schlimm ist, dass man sie den Leuten nicht zumuten kann. Man sieht es z.B. wenn Trump den Klimawandel leugnet, oder wenn Edward Snowden eine faire Verhandlung in den USA verweigert wird und er im Exil in Russland bleiben muss. Man sieht es auch wenn Politiker im Brustton vollster Überzeugung verkünden die Rente sei sicher, selbst wenn man mit einfachster Mathematik zeigen kann, dass die Rechnung nicht aufgeht.
+
+Es ist ein uralter Kompromiss zwischen Sicherheit und Freiheit. Die Angst die nach 9/11 herrschte wurde zum einschränken der Grundrecht genutzt, ähnliches passiert gerade mit der Angst vor dem Virus. Sicherheit ist schön und gut, Maßnahmen gut und sinnvoll. Nur liegt es dem System inne, dass einmal abgebaute Freiheiten nachher nicht wieder aufgebaut werden. Gibt es einmal ein (temporär sinnvolles) Überwachungsgesetz wegen einer konkreten Gefahr wird es nach der Gefahr nicht mehr zurückgenommen, es ist der neue Standard. Die Angst hat sich eingenistet, ist in Gesetze gegossen worden. 
+
+Bei uns im Westen kann man sich wirklich nicht beschweren. In China sieht man was passiert wenn man sich stark in Richtung Sicherheit und Kontrolle orientiert.
+
+![img]({{'/assets/images/Chinas_Social_Point_System.jpg' | relative_url }}){: .center-image }{:width="250px"}*Chinas "social credit system"*
+
+
+Es gibt zur Zeit einen globalen Wettkampf der Ideen, im Osten Kontrolle und Totalitarismus, im Westen liberaler Humanismus. Es könnte sein, dass sich das System das sich durchsetzt auf der ganzen Erde ausbreitet. Entschieden wird der Wettkampf, nach aktuellen Spielregeln, hauptsächlich durch Höhe des wirtschaftlichen Wachstum.
+
+
+
+
+

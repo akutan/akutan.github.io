@@ -4,6 +4,36 @@ title: Images
 permalink: /Galerie/
 ---
 
+<style>
+.marginauto {
+    margin: 10px auto 20px;
+    display: block;
+}
+figcaption {
+  text-align: center;
+}
+</style><p>
+<a href="{% post_url 2020-10-08-intersubjektive_komplexe %}" title="Redirect to blogpage">
+<figure>
+  <img class="marginauto" src='/assets/images/intersubjektive_komplexe.png' width="400" style="background:none ; border:none; box-shadow:none"/>
+  <figcaption>Intersubjektive Komplexe bilden sich aus</figcaption>
+</figure> </a></p>
+[![img]({{'/assets/images/Chinas_Social_Point_System.jpg' | relative_url }}){: .center-image }{:width="250px"}*Chinas "social credit system"*]({% post_url 2020-10-08-Angst %})
+<style>
+.marginauto {
+    margin: 10px auto 20px;
+    display: block;
+}
+figcaption {
+  text-align: center;
+}
+</style><p>
+<a href="{% post_url 2020-10-08-Angst %}" title="Redirect to blogpage">
+<figure>
+  <img class="marginauto" src='/assets/images/angsthuckepack.png' width="250" style="background:none ; border:none; box-shadow:none"/>
+  <figcaption>Paranoia wächst.</figcaption>
+</figure> </a></p>
+[![]({{'/assets/images/selektive_aufnahme_informationen.jpg'}}){: .center-image }{:width="500px"}*Selektive Aufnahme von Informationen.*]({% post_url 2020-10-08-Angst %})
 [![]({{'/assets/images/himmelueberberlin.jpg'}}){: .center-image }{:width="500px"}*Der Himmel über Berlin von Wim Wenders*]({% post_url 2020-09-10-Himmer-ueber-Berlin %})
 <style>
 .marginauto {
