@@ -4,6 +4,24 @@ title: Images
 permalink: /Galerie/
 ---
 
+<p>
+<a href="{% post_url 2020-10-08-intersubjektive_komplexe %}" title="Redirect to blogpage">
+<figure>
+  <img class="marginauto" src='/assets/images/seelenfaenger.png' width="200" style="background:none ; border:none; box-shadow:none"/>
+  <figcaption>Seelenfänger</figcaption>
+</figure> </a></p>
+<p>
+<a href="{% post_url 2020-10-08-intersubjektive_komplexe %}" title="Redirect to blogpage">
+<figure>
+  <img class="marginauto" src='/assets/images/charismaticleader.png' width="200" style="background:none ; border:none; box-shadow:none"/>
+  <figcaption>charismatischer Führer</figcaption>
+</figure> </a></p>
+<p>
+<a href="{% post_url 2020-10-08-intersubjektive_komplexe %}" title="Redirect to blogpage">
+<figure>
+  <img class="marginauto" src='/assets/images/closingloops.png' width="200" style="background:none ; border:none; box-shadow:none"/>
+  <figcaption>lose Enden verbinden</figcaption>
+</figure> </a></p>
 <style>
 .marginauto {
     margin: 10px auto 20px;
