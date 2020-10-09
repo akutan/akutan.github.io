@@ -30,12 +30,26 @@ Die Angst sich von diesem Verhalten zu emanzipieren ist natürlich absurd. Man h
 Hat man es dann irgendwie geschafft sich aus einer Interdepenz zu lösen muss man sich um die nun lose herumbaumelnden Enden kümmern. 
 
 Eine Strategie ist es, diese losen Enden selber untereinander zu verweben. Dann genügt man sich selbst und ist ein abgeschlossenes rundes Wesen. Diese Strategie birgt die Gefahr innere Persönlichkeiten zu konstruieren mit deren Hilfe man das nun erlernte Bedürfniss nach Interdepenz befriedigen kann. Das kann aber auch eine hilfreiche Krücke sein, die man dann irgendwann nicht mehr braucht. 
+<figure>
+  <img class="marginauto" src='/assets/images/closingloops.png' width="200" style="background:none ; border:none; box-shadow:none"/>
+  <figcaption>lose Enden verbinden</figcaption>
+</figure> 
 
 Alternativ sucht man sich einen neuen Partner mit dessen losen Fäden man die eigenen verweben kann. Dabei besteht natürlich die Gefahr das man in der selben Situation landet aus der man gerade erst entkommen ist. 
 
 Man kann die Fäden auch auf verschiedene Menschen in einer (oder mehreren) Gruppe(n) verteilen. Diese Art von Fäden haften allerdings fast ausschließlich an Persönlichkeiten. Das heißt im Zentrum der Gruppe muss ein charismatischer Führer stehen (gefährlich) oder eine abstrakte Persönlichkeit (z. B. Jesus, Buddha, oder andere heilige).
+<figure>
+  <img class="marginauto" src='/assets/images/charismaticleader.png' width="200" style="background:none ; border:none; box-shadow:none"/>
+  <figcaption>charismatischer Führer</figcaption>
+</figure> 
 
 Die Fäden lose im Wind hängen zu lassen ist mit der Gefahr verbunden, dass man irgendwo hängen bleibt. Das muss nicht schlecht sein, wenn dieses Irgendwo ein guter Ort ist. Allerdings gibt es auch Seelenfänger die genau nach solchen losen Fäden ausschau halten. Die haben selten gutes im Sinn, selbst wenn sie selber denken sie hätten es.
+<figure>
+  <img class="marginauto" src='/assets/images/seelenfaenger.png' width="200" style="background:none ; border:none; box-shadow:none"/>
+  <figcaption>Seelenfänger</figcaption>
+</figure> 
+
+
 
 [^1]: Ich benutze das Wort [Komplexe](https://de.wikipedia.org/wiki/Komplex_(Psychologie) "Komplexe") so wie C. G. Jung es benutzt.
 
