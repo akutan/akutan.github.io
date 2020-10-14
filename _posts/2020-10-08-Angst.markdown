@@ -40,18 +40,12 @@ figcaption {
 }
 </style>
 
-Besonders kritisch ist die Angst vor der Wahrheit. Es impliziert dass die Lage so schlimm ist, dass man sie den Leuten nicht zumuten kann. Man sieht es z.B. wenn Trump den Klimawandel leugnet, oder wenn Edward Snowden eine faire Verhandlung in den USA verweigert wird und er im Exil in Russland bleiben muss. Man sieht es auch wenn Politiker im Brustton vollster Überzeugung verkünden die Rente sei sicher, selbst wenn man mit einfachster Mathematik zeigen kann, dass die Rechnung nicht aufgeht.
+Besonders kritisch ist die Angst, das Annahmen auf denen ein System basiert, falsch sind (entweder sie waren es von Anfang an, oder sind falsch geworden). Wenn man eine Korrektur dieser Annahmen verweigert, obwohl die Faktenlage klar ist, impliziert das, dass die Lage so schlimm ist, dass man sie den Leuten nicht zumuten kann. Man sieht es z.B. wenn Trump den Klimawandel leugnet, oder wenn Edward Snowden eine faire Verhandlung in den USA verweigert wird und er im Exil in Russland bleiben muss. Man sieht es auch wenn Politiker im Brustton vollster Überzeugung verkünden die Rente sei sicher, selbst wenn man mit einfachster Mathematik zeigen kann, dass die Rechnung nicht aufgeht. Andere random Beispiele: Chinas Sicherheitsgesetz in Hong Kong, psychische Folter von Julian Assange, Annexion der Krim von Russland, Waffenexporte von Deutschland, ...  
 
 Es ist ein uralter Kompromiss zwischen Sicherheit und Freiheit. Die Angst die nach 9/11 herrschte wurde zum einschränken der Grundrecht genutzt, ähnliches passiert gerade mit der Angst vor dem Virus. Sicherheit ist schön und gut, Maßnahmen gut und sinnvoll. Nur liegt es dem System inne, dass einmal abgebaute Freiheiten nachher nicht wieder aufgebaut werden. Gibt es einmal ein (temporär sinnvolles) Überwachungsgesetz wegen einer konkreten Gefahr wird es nach der Gefahr nicht mehr zurückgenommen, es ist der neue Standard. Die Angst hat sich eingenistet, ist in Gesetze gegossen worden. 
 
-Bei uns im Westen kann man sich wirklich nicht beschweren. In China sieht man was passiert wenn man sich stark in Richtung Sicherheit und Kontrolle orientiert.
+Bei uns im Westen kann man sich trotz allem wirklich nicht beschweren. In China sieht man was passiert wenn man sich stark in Richtung Sicherheit und Kontrolle orientiert.
 
 ![img]({{'/assets/images/Chinas_Social_Point_System.jpg' | relative_url }}){: .center-image }{:width="250px"}*Chinas "social credit system"*
 
-
 Es gibt zur Zeit einen globalen Wettkampf der Ideen, im Osten Kontrolle und Totalitarismus, im Westen liberaler Humanismus. Es könnte sein, dass sich das System das sich durchsetzt auf der ganzen Erde ausbreitet. Entschieden wird der Wettkampf, nach aktuellen Spielregeln, hauptsächlich durch Höhe des wirtschaftlichen Wachstum.
-
-
-
-
-
