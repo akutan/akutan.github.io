@@ -3,7 +3,7 @@ layout: post
 title:  "Intersubjektive Komplexe"
 date:   2020-10-08 10:39:00 +0200
 categories: psychologie
-tags: Komplexe
+tags: komplexe
 ---
 
 Es ist ja nicht so, dass Leute, die nicht im Einklang miteinander leben dieses komplexe, chaotische Verhalten verstehen und planen. Wäre es so wäre ich beeindruckt und würde meinen Hut ziehen, dass sie ein so komplexes Spiel spielen. 
