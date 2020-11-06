@@ -3,7 +3,7 @@ layout: post
 title:  "Gegenbewegungen"
 date:   2020-11-05 10:39:00 +0200
 categories: philosophie
-tags: gegenkultur, blase
+tags: gegenkultur oneworld fragmentieren
 description: Das Internet kann alles aufgreifen und ihm eine Platform geben. Es ist eine Platform auf der sich intersubjektive Strömungen entwickeln können, die weit von der Norm sind.
 ---
 
