@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /Über/
+permalink: /ueber/
 ---
 
 Philosophie hat für mich einen konkreten Wert. Sie bietet eine Sprache über Dinge zu sprechen die sonst im Verborgenen bleiben müssten.
