@@ -30,7 +30,7 @@ Beispiele für Werkzeuge:
 - Kopieren von (vermeintlichen) Stimmungen von anderen
 - Geistige Disziplin
 
-Eine bestimmte Stimmung ermöglicht bestimmte (innere) Erlebnisse. Äussere Erlebnisse, ohne die passende Stimmung, führen zu inkongruenten inneren Erlebnissen.
+Eine bestimmte Stimmung ermöglicht bestimmte (innere) Erlebnisse. Äußere Erlebnisse, ohne die passende Stimmung, führen zu inkongruenten inneren Erlebnissen.
 
 Vorraussetzung eine Stimmung zu erzeugen:
 - schonmal in ihr gewesen zu sein
@@ -74,7 +74,7 @@ Ja, das ist dann zu offen. Das richtige System ist so offen wie möglich, aber s
 
 > Oder so offen wie nötig, aber so beschränkt wie möglich?  
 
-Die Offenheit ist gegeben, das ist die einzig objektive Realität. Der Ausgangspunkt ist das gegebene System, das ja gewisse Einschränkungen hat. Diese müssen soweit aufgeweicht werden, soweit es nötig ist um neue Probleme abbilden zu können. Also ja, **so offen wie nötig, so beschränkt wie möglich**. Das ist irgendwie konraintuitiv für ein ideales System.
+Die Offenheit ist gegeben, das ist die einzig objektive Realität. Der Ausgangspunkt ist das gegebene System, das ja gewisse Einschränkungen hat. Diese müssen soweit aufgeweicht werden, soweit es nötig ist um neue Probleme abbilden zu können. Also ja, **so offen wie nötig, so beschränkt wie möglich**. Das wirkt kontraintuitiv für ein ideales System in einer offenen Gesellschaft, scheint aber richtig zu sein.
 
 <figure>
   <img class="marginauto" src='/assets/images/mandala.png' width="600" style="background:none ; border:none; box-shadow:none"/>
