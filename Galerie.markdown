@@ -4,6 +4,19 @@ title: Images
 permalink: /Galerie/
 ---
 
+<style>
+.marginauto {
+    margin: 10px auto 20px;
+    display: block;
+}
+figcaption {
+  text-align: center;
+}
+</style><p>
+<a href="{% post_url 2020-11-16-stimmungen %}" title="Redirect to blogpage">
+<figure>
+  <img class="marginauto" src='/assets/images/mandala.png' width="600" style="background:none ; border:none; box-shadow:none"/>
+</figure> </a></p>
 <p>
 <a href="{% post_url 2020-10-08-intersubjektive_komplexe %}" title="Redirect to blogpage">
 <figure>
