@@ -58,7 +58,7 @@ Ist das überhaupt sinnvoll die Stimmung manipulieren zu wollen?
 
 > Wenn man sich damit nicht auseinandersetzt ist man ohne Verteidigung für externe Stimmungen. Wenn sich solche Stimmungen unkontrolliert im Umfeld ausbreiten und eine Eigendynamik entfalten kommt selten etwas gutes raus.
 
-Was ist mit Revolutionen? Dennen geht doch auch eine Stimmung vorraus, die sich ausbreitet und eine Eigendynamik entfaltet.
+Was ist mit Revolutionen? Denen geht doch auch eine Stimmung vorraus, die sich ausbreitet und eine Eigendynamik entfaltet.
 
 > Viele Revolutionen wurden auf dem Reisbrett entwickelt. Die Pläneschmieder waren nicht zwingend besser als die bis dato Herrschenden. Wenn man gegen ein System nach den Regeln des Systems rebelliert landet man zwangsweise in einem ähnlichen System.
 
