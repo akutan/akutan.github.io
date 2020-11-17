@@ -4,9 +4,8 @@ title:  "Der Himmel über Berlin"
 date:   2020-09-10 18:39:00 +0200
 categories: filme
 tags: film
+description: Ein wunderschöner Film über einen Engel der Mensch werden will.
 ---
-
-
 
 Zur Zeit kann man die Filme von Wim Wenders in der ARD Medithek umsonst und in HD streamen. Ich hab die Chance genutzt und 'Der Himmel über Berlin' nochmal angeschaut. Ein wunderschöner Film über einen Engel der Mensch werden will. Die Engel können im Film die Gedanken der Menschen hören. Einige solche Gedanken haben sich mir eingeprägt.
 

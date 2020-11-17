@@ -4,6 +4,7 @@ title:  "Gedanken zum Flow"
 date:   2020-09-04 19:39:00 +0200
 categories: philosophie
 tags: zen flow
+description: Östliche Philosophie beschäftigt sich schon lange mit dem Zustand des Flow, im Daoismus etwa heißt er Wuwei (no mind).
 ---
 
 Traditionell beschäftigt sich die Psychologie mit Krankheiten, also mit unglücklichen Menschen und wie man ihnen helfen kann. Der Begriff *Positive Psychologie* wurde erst 1954 von Abraham Maslow eingeführt. Ein Teilgebiet davon ist die Flow-Theorie, geprägt von Mihály Csíkszentmihályi. Östliche Philosophie beschäftigt sich schon viel länger mit dem Zustand des Flow, im Daoismus etwa heißt er Wuwei (no mind).

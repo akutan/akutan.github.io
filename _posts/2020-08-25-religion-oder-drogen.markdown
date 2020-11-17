@@ -4,6 +4,7 @@ title:  "Religion oder Drogen?"
 date:   2020-08-25 09:00:00 +0200
 categories: philosophie
 tags: religion drogen bamboozle
+description: Kant meinte Religion sei das Opium des Volkes. Es gibt durchaus Analogien
 ---
 
 Kant meinte Religion sei das Opium des Volkes. Es gibt durchaus Analogien:

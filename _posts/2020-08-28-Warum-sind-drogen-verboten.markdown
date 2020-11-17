@@ -3,7 +3,8 @@ layout: post
 title:  "Warum sind Drogen verboten?"
 date:   2020-08-28 08:00:00 +0200
 categories: philosophie
-tags: drogen politik bamboozle
+tags: drogen krieg bamboozle kultur
+description: Warum sind einige Substanzen verboten? Wie kam es dazu?
 ---
 
 Warum sind einige Substanzen verboten? Wie kam es dazu?

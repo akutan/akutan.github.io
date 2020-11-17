@@ -3,7 +3,8 @@ layout: post
 title:  "Warum gibt es keine Abenteuer mehr?"
 date:   2020-08-21 11:39:00 +0200
 categories: philosophie
-tags: abenteuer
+tags: abenteuer kultur freiheit
+description: Es gibt keine externen Abenteuer mehr, keine weißen Stellen mehr auf der Karte. Der letzte Nagel im Sarg war das der Kapitalismus das 'Erleben' als ein Produkt entdeckt hat. 
 ---
 
 > Das einzig lebenswerte Abenteuer kann für den modernen Menschen nur noch innen zu finden sein.

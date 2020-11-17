@@ -3,7 +3,8 @@ layout: post
 title:  "Denken"
 date:   2020-08-24 09:00:00 +0200
 categories: philosophie
-tags: philosophie denken
+tags: denken wissen revolution
+description: Denken ist schwer. Verdammt schwer.
 ---
 
 Denken ist schwer. Verdammt schwer. Man muss sich innerlich aufsplitten und einen Diaglog führen. Thesen, Gegenthesen und Synthesen müssen entworfen werden und in verschiedenen Situationen auf Herz und Nieren getestet werden. Der eigene Standpunkt muss angepasst werden wenn neue Informationen ans Licht tretten. Man darf nie scheu sein Fehler einzugestehen und zum letzten sicheren Punkt zurückzugehen. So sicher wie er eben sein kann. Es ist nicht verkehrt eine fundamentale, unerschütterliche Basis zu haben[^1].

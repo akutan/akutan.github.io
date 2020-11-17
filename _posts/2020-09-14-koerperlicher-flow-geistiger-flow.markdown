@@ -3,7 +3,8 @@ layout: post
 title:  "Körperlicher Flow vs geistiger Flow"
 date:   2020-09-14 11:39:00 +0200
 categories: philosophie
-tags: flow heimat ideale
+tags: flow heimat ideen
+description: Im Geist fließen Gedanken und Ideen viel schneller und freier als im Körper.
 ---
 
 Im Geist fließen Gedanken und Ideen viel schneller und freier als im Körper. Es gibt weder träge Masse, die beschleunigt werden muss, noch Gravitation die einen unter hält. Im krassen Gegensatz dazu stehen 'reale' Konstrukte wie etwa ein Staat, oder eine Bürokratie generell.

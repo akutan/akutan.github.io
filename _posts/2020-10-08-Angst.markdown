@@ -3,7 +3,8 @@ layout: post
 title:  "Angst"
 date:   2020-10-08 07:39:00 +0200
 categories: philosophie
-tags: angst paranoia
+tags: angst kultur krieg abstrahieren
+description: Angst in in gewisser Weise ein Wegweiser.
 ---
 
 Angst in in gewisser Weise ein Wegweiser. Sachen vor denen man Angst hat beschäftigen einen, haben Relevanz. Es ist eine starke Emotion, die nicht gut ignoriert werden kann, was abgesehen davon auch nicht sehr dienlich ist. Bohrt man sehr tief nach dem Ursprung, der Wurzel von Ängsten kann man auf existentielle Ängste stoßen, die sich  wie Löcher verhalten, nicht wie Brocken. Löcher ohne Boden, egal wieviel Aufmerksamkeit man in sie investiert, sie werden nicht gefüllt. Alle Ängste abbauen wollen kann nicht das Ziel sein, da verläuft man sich zu leicht in der Leere.
@@ -19,7 +20,7 @@ Unreflektierte Angst verliert ihre Form, wird eine schwarze zähe Masse, die sic
 ![]({{'/assets/images/selektive_aufnahme_informationen.jpg'}}){: .center-image }{:width="500px"}*Selektive Aufnahme von Informationen.*
 
 
- Die Masse muss von innen her bekämpft werden, aber ironischerweise nicht mit Gewalt, sondern mit Aufmerksamkeit, Akzeptanz, Liebe und Verständnis. Man muss ihr verzeihen, sich bei ihr bedanken, sich bei ihr entschuldigen und sie liebhaben. Dann kann sie abfließen wie Eiter nachdem er eine Infektion aus dem Körper gespült hat. Dann fällt sie ab wie der Schorf, wenn eine Wunde fertig geheilt ist.
+Die Masse muss von innen her bekämpft werden, aber ironischerweise nicht mit Gewalt, sondern mit Aufmerksamkeit, Akzeptanz, Liebe und Verständnis. Man muss ihr verzeihen, sich bei ihr bedanken, sich bei ihr entschuldigen und sie liebhaben. Dann kann sie abfließen wie Eiter nachdem er eine Infektion aus dem Körper gespült hat. Dann fällt sie ab wie der Schorf, wenn eine Wunde fertig geheilt ist.
 
 Unreflektierte Angst wird zu Paranoia. Sie nistet sich ein, bestimmt das Denken, übernimmt die Kontrolle.
 

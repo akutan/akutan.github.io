@@ -3,7 +3,8 @@ layout: post
 title:  "Drei Stufen von Wissen"
 date:   2020-08-21 13:39:00 +0200
 categories: philosophie
-tags: wissen
+tags: wissen ideen
+description: Ideen oder Informationen haben einen Lebenszyklus sobald das Subjekt mit ihnen in Kontakt kommt. Man kann ihn in drei Stufen einteilen.
 ---
 
 Ideen oder Informationen haben einen Lebenszyklus sobald das Subjekt mit ihnen in Kontakt kommt. Man kann ihn in drei Stufen einteilen[^1]:

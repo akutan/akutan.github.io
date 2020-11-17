@@ -3,7 +3,8 @@ layout: post
 title:  "Der Weg zum Wissen"
 date:   2020-08-23 10:00:00 +0200
 categories: philosophie
-tags: wissen
+tags: wissen angst
+description: A man goes to knowledge as he goes to war, wide-awake, with fear, with respect, and with absolute assurance.
 ---
 
 Hat man sich diesen Weg ausgesucht, bzw wurde von ihm ausgesucht, muss man mutig sein. Standhaft. Vertrauen haben, dass die Aufgabe nur genau so groß ist wie man sie gerade noch bewältigen kann. Vielleicht ist das Üben Teil des eigentlichen Wegs, side quests die man vor dem eigentlichen boss fight absolvieren muss.

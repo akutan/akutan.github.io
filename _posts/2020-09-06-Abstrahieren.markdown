@@ -3,7 +3,8 @@ layout: post
 title:  "Abstrahieren"
 date:   2020-09-06 20:39:00 +0200
 categories: philosophie
-tags: abstrahieren fragmentieren krise
+tags: abstrahieren fragmentieren freiheit kultur krise
+description: Die erste Abstraktion ist die, in der sich das Subjekt vom Ganzen separiert. Diese Abstraktion ist die Wurzel für alle anderen.
 ---
 
 Die erste Abstraktion ist die, in der sich das Subjekt vom Ganzen separiert. Diese Abstraktion ist die Wurzel für alle anderen. Die Motivation ist es mit dem 'Rest des Raumes' zu interagieren, spielen zu können. Um das zu intensivieren vergisst man das man eigentlich Teil davon ist, man versteckt diese objektive Realität. 

@@ -3,7 +3,8 @@ layout: post
 title:  "Ein Lob auf das Alleinsein"
 date:   2020-08-19 22:31:00 +0200
 categories: philosophie
-tags: alleinsein glueck
+tags: alleinsein glueck manipulation
+description: Als eher introvertierter Mensch fragt man sich manchmal warum man den eigentlich gerne viel Zeit alleine verbringt. Ich denke es gibt durchaus einige rationale Gründe.
 ---
 Als eher introvertierter Mensch fragt man sich manchmal warum man den eigentlich gerne viel Zeit alleine verbringt. Ich denke es gibt durchaus einige rationale Gründe.
 

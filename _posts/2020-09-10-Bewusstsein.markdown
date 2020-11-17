@@ -4,6 +4,7 @@ title:  "Bewusstsein"
 date:   2020-09-10 12:39:00 +0200
 categories: philosophie
 tags: bewusstsein
+description: Das eigene Bewusstsein ist die einzige Instanz dieses Phänomens, zu der man direkten Zugang hat.
 ---
 
 Das *eigene* Bewusstsein ist die einzige Instanz dieses Phänomens, zu der man direkten Zugang hat. Man kann (noch) kein Experiment entwerfen, in dem man direkten Zugang zu einen anderen Bewusstsein hat. Man ist auf Interpretation von Aussagen, Handlungen oder auf die Messungen von Gehirnströmen beschränkt. Hat man Interesse am Bewusstsein und will es besser Verstehen ist man zwangsweiße selbst der Experimentator und das Versuchskaninchen[^1]. Nicht zuletzt deshalb ragen sich viele Mythen um das Bewusstsein und große globale Organisationen (Religionen), aber auch kleine, lokale (Sekten)  instrumentalisieren es um ihren eigenen Interessen zu dienen. 

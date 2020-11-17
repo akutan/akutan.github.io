@@ -3,7 +3,8 @@ layout: post
 title:  "Fülle und Mangel"
 date:   2020-08-23 13:00:00 +0200
 categories: philosophie
-tags: fuelle mangel
+tags: krieg angst bamboozle
+description: Lebt man in Fülle ist man zufrieden und dankbar. Lebt man im Mangel macht man sich klein, machtlos und unbedeutend. Man gönnt anderen nichts, ist stets unzufrieden und will immer mehr.
 ---
 
 Lebt man in Fülle ist man zufrieden und dankbar. Fülle ist relativ, vor allem zur Zeit, man kann für wenig Geld viel kaufen. Es ist schwierig zufrieden zu sein, da ein zentraler Baustein unseres Wirtschaftssystems, die Werbung, einen Mangel suggeriert. Man ist und hat nie genug. Das ist eine Konsequenz der dem Kapitalismus innewohnenden Notwendigkeit des Wachstums. Diese Notwendigkeit ist auf das Zinssystem zurückzuführen. Der größte Akt der Rebellion ist es zufrieden und großmütig zu sein.

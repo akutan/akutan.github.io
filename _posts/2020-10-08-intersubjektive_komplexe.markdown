@@ -3,7 +3,8 @@ layout: post
 title:  "Intersubjektive Komplexe"
 date:   2020-10-08 10:39:00 +0200
 categories: psychologie
-tags: komplexe
+tags: komplexe abstrahieren
+description: Die Tentakel der Komplexe verschiedener Teilnehmer verschränken und verknoten sich.
 ---
 
 Es ist ja nicht so, dass Leute, die nicht im Einklang miteinander leben dieses komplexe, chaotische Verhalten verstehen und planen. Wäre es so wäre ich beeindruckt und würde meinen Hut ziehen, dass sie ein so komplexes Spiel spielen. 

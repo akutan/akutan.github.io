@@ -3,7 +3,8 @@ layout: post
 title:  "Extinction burst des Nationalismus"
 date:   2020-08-26 18:00:00 +0200
 categories: philosophie
-tags: oneworld
+tags: oneworld krieg
+description: Kurz vor entgültigen Ablegen eines ungewollten Verhaltensmusters bricht dieses nochmal mit aller Kraft durch.
 ---
 
 In der Psychologie gibt es das Phänomen des [extinction burst](https://en.wikipedia.org/wiki/Extinction_(psychology)#Burst). Kurz vor entgültigen Ablegen eines ungewollten Verhaltensmusters bricht dieses nochmal mit aller Kraft durch (z.B Nikotinentwöhnung). Schafft man es dann die Kontrolle zu behalten ist man es entgültig los. Falls nicht muss man die Entwöhnung wieder von vorne anfangen... Ich denke sowas passiert im Moment auf dem Planeten in größerem Maßstab. 

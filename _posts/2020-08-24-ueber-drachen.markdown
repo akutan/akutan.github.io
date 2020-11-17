@@ -3,7 +3,8 @@ layout: post
 title:  "Über Drachen"
 date:   2020-08-24 11:00:00 +0200
 categories: philosophie
-tags: drachen neugier
+tags: neugier
+description: Es gibt drei Arten mit einem Drachen umzugehen, wenn man einen entdeckt.
 ---
 
 Es gibt drei Arten mit einem Drachen umzugehen, wenn man einen entdeckt.

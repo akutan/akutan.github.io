@@ -3,7 +3,8 @@ layout: post
 title:  "Persönlichkeitsanteil \"Spiegel\""
 date:   2020-09-15 15:39:00 +0200
 categories: philosophie
-tags: persoenlichkeit
+tags: kultur angst
+description: Menschen spiegeln sich gegenseitig.
 ---
 
 Menschen spiegeln sich gegenseitig, was auch schön, gut und sinnvoll ist. So lernt und übt man gewollte Verhaltensweisen ein. Besonders intensiv und bereitwillig werden aber extreme emotionale Zustände, wie z.B. Angst oder Panik gespiegelt. Macht ja evolutionär auch Sinn. Wenn jemand den Säbelzahntiger im Wald sieht und aufgebracht ins Dorf zurückkommt, sollten alle anderen möglichst schnell auf diesen Film aufspringen. Da geht's um Leben und Tod! Ein kurzes Zögern kann den Unterschied machen[^1]. Findet der gleiche Mensch eine schöne Blume oder auch eine Nahrungsquelle muss sich dieser emotionale Zustand beiweiten nicht so schnell ausbreiten, es ist einfach nicht so dringend, geht nicht um Leben und Tod.

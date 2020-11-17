@@ -4,6 +4,7 @@ title:  "Denken im Zen"
 date:   2020-08-29 13:39:00 +0200
 categories: philosophie
 tags: denken zen
+description: Im Zen Buddhismus geht es viel darum nur eine Sache auf einmal zu 'tun'.
 ---
 
 Im Zen Buddhismus geht es viel darum nur eine Sache auf einmal zu 'tun'. Voll bei ihr zu sein und komplett achtsam die jeweilige Aktion auszuführen.

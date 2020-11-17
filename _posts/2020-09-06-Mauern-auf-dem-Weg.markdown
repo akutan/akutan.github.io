@@ -3,7 +3,8 @@ layout: post
 title:  "Mauern auf dem Weg"
 date:   2020-09-06 16:39:00 +0200
 categories: philosophie
-tags: enge mauern
+tags: freiheit abstrahieren zen
+description: Wenn man mit einen großen Problem konfrontiert bin, das lokal wie eine Wand wirkt, gibt es mehrere Möglichkeiten klug zu handeln.
 ---
 
 Was macht man wenn man vor einer Mauer steht? 
