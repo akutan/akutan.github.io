@@ -6,7 +6,22 @@ categories: philosophie
 tags: bamboozle ideologie krieg manipulation
 description: Man kann mit einer Ideologie verschiedene Ziele verfolgen. Eine Philosophie kann missbraucht und instrumentalisiert werden.
 ---
+
 Man kann mit einer Ideologie verschiedene Ziele verfolgen. Eine Philosophie kann missbraucht und instrumentalisiert werden. Wenn etwa Heinrich Himmler in seiner  Posener Rede vor hundert SS Offizieren 1943 das Thema der Ansprache von Krishna an Arjuna aus der Bhagavad Gita aufgreift ist das ein deutliches Beispiel.
+
+<figure>
+  <img class="marginauto" src='/assets/images/enlightenment_meme.png' width="250" style="background:none ; border:none; box-shadow:none"/>
+</figure> 
+
+<style>
+.marginauto {
+    margin: 10px auto 20px;
+    display: block;
+}
+figcaption {
+  text-align: center;
+}
+</style>
 
 Diese Instrumentalisierung von Philosophie / Religion scheint ein festes Muster zu haben. Situationen aus einer alten Schrift, die eigentlich als Methapher oder Analogie verstanden werden wollen, werden aus dem Zusammenhang gerissen und wörtlich interpretiert. Sehr leicht kann man das mit Philosophien, die sich in fremden Kulturräumen gebildet haben, erreichen. Das eigene Volk ist mit diesen Ideen noch nicht vertraut und lässt sich deshalb leicht begeistern.
 
