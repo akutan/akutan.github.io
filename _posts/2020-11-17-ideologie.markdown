@@ -10,7 +10,7 @@ description: Man kann mit einer Ideologie verschiedene Ziele verfolgen. Eine Phi
 Man kann mit einer Ideologie verschiedene Ziele verfolgen. Eine Philosophie kann missbraucht und instrumentalisiert werden. Wenn etwa Heinrich Himmler in seiner  Posener Rede vor hundert SS Offizieren 1943 das Thema der Ansprache von Krishna an Arjuna aus der Bhagavad Gita aufgreift ist das ein deutliches Beispiel.
 
 <figure>
-  <img class="marginauto" src='/assets/images/enlightenment_meme.png' width="250" style="background:none ; border:none; box-shadow:none"/>
+  <img class="marginauto" src='/assets/images/enlightenment_meme.png' width="500" style="background:none ; border:none; box-shadow:none"/>
 </figure> 
 
 <style>
