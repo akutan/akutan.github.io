@@ -4,7 +4,7 @@ title:  "Mauern auf dem Weg"
 date:   2020-09-06 16:39:00 +0200
 categories: philosophie
 tags: freiheit abstrahieren zen
-description: Wenn man mit einen großen Problem konfrontiert bin, das lokal wie eine Wand wirkt, gibt es mehrere Möglichkeiten klug zu handeln.
+description: Wenn man mit einen großen Problem konfrontiert ist, das lokal wie eine Wand wirkt, gibt es mehrere Möglichkeiten klug zu handeln.
 ---
 
 Was macht man wenn man vor einer Mauer steht? 
@@ -26,7 +26,7 @@ figcaption {
 </style>
 
 
-Wenn man mit einen großen Problem konfrontiert bin, das lokal wie eine Wand wirkt, gibt es mehrere Möglichkeiten klug zu handeln. Sind es Mauern in allen 3 Dimensionen, ist es schon schwieriger. Zeichnet sich auch keine Veränderung in der vierten Dimension, der Zeit, ab, ist es zum verzweifeln. 
+Wenn man mit einen großen Problem konfrontiert ist, das lokal wie eine Wand wirkt, gibt es mehrere Möglichkeiten klug zu handeln. Sind es Mauern in allen 3 Dimensionen, ist es schon schwieriger. Zeichnet sich auch keine Veränderung in der vierten Dimension, der Zeit, ab, ist es zum verzweifeln. 
 
 
 Eins nach dem anderen. Bei einer Wand kann man raus zoomen und sie als Oberfläche eines Brocken erkennen. Hat man das mal erkannt, kann man den Brocken in Fragmente aufteilen und einzeln abarbeiten. Ist der Broken auch aus der Adlerperspektive zu groß, um ihn als ganzen zu erkennen, kann man ihn sich für später merken und erstmal einen anderen Brocken suchen.
