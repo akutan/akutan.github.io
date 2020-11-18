@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Memes"
+title:  "Vom Multiverse zum Meme"
 date:   2020-11-05 10:39:00 +0200
 categories: philosophie
-tags: kultur memes freier_wille bewusstsein multiverse
+tags: kultur memes freiheit bewusstsein multiverse
 description: Eine häufige Einstiegsfrage in die Philosophie ist ob das was passiert ist auch so passieren musste. Ob ein Eintreten eines Ereignisses ein gültiger Beweis ist, dass es so eintreten musste, oder ob es auch anders hätte kommen können. Die uralte Frage nach der Natur des Schicksals.
 ---
 
