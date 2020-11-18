@@ -2,11 +2,11 @@
 layout: page
 title: Blog archive
 ---
-<a href="{{ 'Archiv_no_description' | relative_url }}">Details ausblenden</a>
 
 <div class="page-content wc-container">
 	<div class="post">
 		<h1>Archiv</h1>  
+        <a href="{{ 'Archiv_no_description' | relative_url }}">Details ausblenden</a>
 		{% for post in site.posts %}
 			{% capture currentdate %}{{post.date | date: "%B %Y"}}{% endcapture %}
 			{% if currentdate != date %}

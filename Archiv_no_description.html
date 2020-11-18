@@ -2,9 +2,12 @@
 layout: page
 title: Blog archive
 ---
+
+
 <div class="page-content wc-container">
 	<div class="post">
 		<h1>Archiv</h1>  
+        <a href="{{ 'Archiv' | relative_url }}">Details anzeigen</a>
 		{% for post in site.posts %}
 			{% capture currentdate %}{{post.date | date: "%B %Y"}}{% endcapture %}
 			{% if currentdate != date %}
