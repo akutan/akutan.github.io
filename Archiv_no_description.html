@@ -2,8 +2,6 @@
 layout: page
 title: Blog archive
 ---
-<a href="{{ 'Archiv_no_description' | relative_url }}">Details ausblenden</a>
-
 <div class="page-content wc-container">
 	<div class="post">
 		<h1>Archiv</h1>  
@@ -15,11 +13,7 @@ title: Blog archive
 					<ul class="posts">
 					{% capture date %}{{currentdate}}{% endcapture %} 
 				{% endif %}
-            <li class="archive_list">
-                <time>{{ post.date | date_to_string }}</time>
-                <a class="archive_list_article_link" href='{{ post.url | relative_url }}'>{{post.title}}</a>
-                <p>{{post.description}}</p>
-            </li>
+			<li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
 	{% endfor %}
 	</div>
 </div>
