@@ -3,7 +3,7 @@ layout: post
 title:  "Intersubjektive Komplexe"
 date:   2020-10-08 10:39:00 +0200
 categories: psychologie
-tags: komplexe abstrahieren
+tags: abstrahieren
 description: Die Tentakel der Komplexe verschiedener Teilnehmer verschränken und verknoten sich.
 ---
 
