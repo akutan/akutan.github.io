@@ -9,6 +9,21 @@ description: Haben inkongruente innere und äußere Erlebnisse einen Nachteil ko
 
 Haben inkongruente innere und äußere Erlebnisse einen Nachteil kongruenten Erlebnissen gegenüber? Oder sind die Erlebnisse gleich wertvoll? 
 
+<figure>
+  <img class="marginauto" src='/assets/images/philosophie_sense8.png' width="500" style="background:none ; border:none; box-shadow:none"/>
+  <figcaption>Camus philosophischer Selbsmord hat es in die Serie Sense8 geschafft</figcaption>
+</figure> 
+
+<style>
+.marginauto {
+    margin: 10px auto 20px;
+    display: block;
+}
+figcaption {
+  text-align: center;
+}
+</style>
+
 Das Erleben ist freier harmonischer, ungezwungener, wenn innere und äußere Erlebnisse kongruent sind. Der zugehörige Flow ist stabiler und robuster. Ich denke tatsächlich, dass der Zustand kongruenter Erlebnisse *besser* ist. Wenn der Flow allerdings zerstörerisch ist, ist die Inkongruenz ein Hebel mit dem man ihn stoppen oder umlenken kann; Inkongruenz (Zweifel, Hinterfragen, Paranoia) hat also durchaus eine wichtige Funktion. Deshalb ist es wichtig dass sich Leute am bamboozlement (bulshit) stören, egal auf welcher Ebene. 100% freien flow mit kongruenten Erlebnissen gibt es nur in einer imaginären Utopie, einem religiösen Paradies, oder in einer rein subjektiven Realität.
 Ein gesteigertes Harmoniebedürfnis öffnet die Tür zu Manipulation, nicht zuletzt zu Selbstmanipulation (und ist damit eine Weg in den Wahn). 
 Adorno sagte dazu *es gäbe kein richtiges Leben im falschen* [^1]. Welche Konsequenzen hat das?
@@ -33,6 +48,7 @@ Adornos Ausspruch beinhaltet komplexe Wörter wie *richtig* und *falsch* (und *L
 Kann ein globales intersubjektives System, oder eine Stufe kleiner, ein Staat, mit diesem Level an Skepsis zurechtkommen? 
 
 > Wenn ein weiterer Gedanke, nämlich die Wertschätzung von Stabilität und Ordnung, auch Teil der Skepsis sind, ja. Dann ist die Skepsis produktiv. Churchill formulierte es so, dass das aktuelle System (Demokratie, gilt aber auch für Kapitalismus) das schlechteste System ist, bis auf alle anderen. Fehlt diese Wertschätzung der Stabilität kommt es zu einer Zersetzung derer, ohne eine Vorstellung eines Systems, das für neue Stabilität sorgt.
+
 
 
 ------------------------

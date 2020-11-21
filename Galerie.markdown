@@ -13,6 +13,20 @@ figcaption {
   text-align: center;
 }
 </style><p>
+<a href="{% post_url 2020-11-21-inkongruente_erlebnisse %}" title="Redirect to blogpage">
+<figure>
+  <img class="marginauto" src='/assets/images/philosophie_sense8.png' width="500" style="background:none ; border:none; box-shadow:none"/>
+  <figcaption>Camus philosophischer Selbsmord hat es in die Serie Sense8 geschafft</figcaption>
+</figure> </a></p>
+<style>
+.marginauto {
+    margin: 10px auto 20px;
+    display: block;
+}
+figcaption {
+  text-align: center;
+}
+</style><p>
 <a href="{% post_url 2020-11-17-ideologie %}" title="Redirect to blogpage">
 <figure>
   <img class="marginauto" src='/assets/images/enlightenment_meme.png' width="500" style="background:none ; border:none; box-shadow:none"/>
@@ -75,7 +89,7 @@ figcaption {
 <a href="{% post_url 2020-10-08-Angst %}" title="Redirect to blogpage">
 <figure>
   <img class="marginauto" src='/assets/images/angsthuckepack.png' width="250" style="background:none ; border:none; box-shadow:none"/>
-  <figcaption>Paranoia wächst.</figcaption>
+  <figcaption>Paranoia</figcaption>
 </figure> </a></p>
 [![]({{'/assets/images/selektive_aufnahme_informationen.jpg'}}){: .center-image }{:width="500px"}*Selektive Aufnahme von Informationen.*]({% post_url 2020-10-08-Angst %})
 [![]({{'/assets/images/himmelueberberlin.jpg'}}){: .center-image }{:width="500px"}*Der Himmel über Berlin von Wim Wenders*]({% post_url 2020-09-10-Himmer-ueber-Berlin %})
