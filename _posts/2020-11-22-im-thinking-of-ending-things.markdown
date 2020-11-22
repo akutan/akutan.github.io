@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "i'm thinking of ending things"
+title:  "i'm thinking of ending things (2020)"
 date:   2020-11-22 10:39:00 +0200
 categories: filme
 tags: film
@@ -59,8 +59,8 @@ In einer bemerkenswerten Szene geht Kaufmann eine Ebene tiefer. Jake und seine F
 
 Generell sind die Ereignisse im Film eine Amalgamation von flüchtigen Eindrücken, Kindheitserlebnissen und Filmen. Die Freundin basiert z.B. auf einer sehr flüchtigen Begegnung die er mit einer echten Frau hatte. Sie haben nichtmal ein Wort gewechselt. Man folgt als Zuschauer weite Teile des Films über der Tangente, die durch diese Begegnung getriggert wurde. Jakes Konstruktion ihrer Wahrnehmung von ihm, und was in einer anderen Welt aus ihrer Beziehung hätte werden können, hätte er sie angesprochen. Er nutzt jedes kleine Detail, wie etwa ihr Lachen, um seiner Simulation Leben einzuhauchen. 
 
-Charlie Kaufman widmet sich schwerer Kost. Der Film ist ruhig, enorm verstörend und hat viele Ebenen. Er strotzt vor Symbolen und Anspielungen. Die Stimmung ist melancholisch, wenn nicht sogar depressiv. Die Schockmomente sind zwar nicht aufschreckend wie in einen Splasherfilm, durch ihre subtilere Art treffen sie aber tiefer und härter und hinterlassen Spuren. 
+Charlie Kaufman widmet sich schwerer Kost. Der Film ist ruhig, enorm verstörend und hat viele Ebenen. Er strotzt vor Symbolen und Anspielungen. Die Stimmung ist melancholisch, wenn nicht sogar depressiv. Die Schockmomente sind zwar nicht aufschreckend wie in einen Splatterfilm, durch ihre subtilere Art treffen sie aber tiefer und härter und hinterlassen Spuren. 
 
-Man muss Charlie Kaufman hoch anrechnen , dass er versucht sich einen der größten Elefanten die wir als Gesellschaft zur Zeit im Raum stehen haben anzunähern, nämlich wie man mit alten pflegebedürftigen Menschen umgeht, vor allem wenn sie sozial isoliert sind. Wie man dafür sorgt das jeder genug Aufmerksamkeit bekommt  sich nicht Illusionen verliert. Wie in einer fragmentierten Gesellschaft doch alle mitgenommen werden und keiner durchs Raster fällt.
+Man muss Charlie Kaufman hoch anrechnen, dass er versucht sich einen der größten Elefanten die wir als Gesellschaft zur Zeit im Raum stehen haben anzunähern, nämlich wie man mit alten pflegebedürftigen Menschen umgeht, vor allem wenn sie sozial isoliert sind. Wie man dafür sorgt das jeder genug Aufmerksamkeit bekommt und sich nicht in Illusionen verliert. Wie in einer fragmentierten Gesellschaft doch alle mitgenommen werden und keiner durchs Raster fällt.
 
 
