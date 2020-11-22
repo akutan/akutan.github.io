@@ -27,22 +27,6 @@ Konkret geht es um
 <br>
 <br>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 einen Hausmeister der den Freitod durch Hyperthermie gewählt hat. In seinen letzten Minuten folgen wir seiner fiebertraumähnlichen Reise in seine Vergangenheit und seine Psyche. Diese Realität wird erst im Laufe des Filmes gelüftet. Die Anspielungen häufen sich, bis es am Schluss keinen Zweifel mehr daran gibt.
 
 Das vermeintliche Thema des Filmes ist der Besuch von Jake und seiner Freundin (ihr Name ändert sich im Laufe des Films) bei Jakes Eltern. Jake bündelt einen großen Teil der Persönlichkeit des Hausmeisters auf sich, die Geschichte wird aber aus der Perspektive der Freundin erzählt. Sie überlegt mit Jake Schluss zu machen, verliert sich aber immer wieder in Betrachtungen über die Zeit und die Vergänglichkeit. Er versucht öfter sie in ein Gespräch zu verwickeln, sie zu vestehen. Ihre Beziehung dauert erst 7 Wochen, wobei sie sich über den genauen Zeitraum garnicht sicher ist. Es kommt ihr vor wie eine Ewigkeit. Während der Autofahrt wechseln sich intensive Monologe mit ganz zögerlichen Einwänden ab. Ein richtiges Gespräch kommt nicht zu stande. Die Beziehung und die Überlegungen der Freundin, Schluss zu machen, ist die Methode des Hausmeisters über seinen Freitod zu reflektieren, ihn in ein anderes Gewand zu packen, sich vielleicht doch noch umzuentscheiden. So erinnert Jake seine Freundin, als sie nach den Besuch bei den Eltern etwas angetrunken ist, dass Alkohol ein 'depressant' ist und Leute das, wenn sie unter seinem Einfluss Entscheidungen treffen, nicht vergessen sollten.
