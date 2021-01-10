@@ -9,9 +9,10 @@ tags: haiku
 
 ![]({{'/assets/images/snow_forrest_scaled.jpg'}}){: .center-image }{:width="600px"}*Winter im Wald*
 
-Knarzen durch Stille 
+Weiß-schwarze Balken
 Gefiederter Freund im Baum 
-Zeitloser Moment
+Knarzende Schritte
+
 
 
 
