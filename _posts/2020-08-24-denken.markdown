@@ -7,7 +7,9 @@ tags: denken wissen revolution
 description: Denken ist schwer. Verdammt schwer.
 ---
 
-Denken ist schwer. Verdammt schwer. Man muss sich innerlich aufsplitten und einen Diaglog führen. Thesen, Gegenthesen und Synthesen müssen entworfen werden und in verschiedenen Situationen auf Herz und Nieren getestet werden. Der eigene Standpunkt muss angepasst werden wenn neue Informationen ans Licht tretten. Man darf nie scheu sein Fehler einzugestehen und zum letzten sicheren Punkt zurückzugehen. So sicher wie er eben sein kann. Es ist nicht verkehrt eine fundamentale, unerschütterliche Basis zu haben[^1].
+Denken ist schwer. Verdammt schwer. Man muss sich innerlich aufsplitten und einen Diaglog führen. Thesen, Gegenthesen und Synthesen müssen entworfen werden und in verschiedenen Situationen auf Herz und Nieren getestet werden. Der eigene Standpunkt muss angepasst werden wenn neue Informationen ans Licht kommen. Man darf nie scheu sein Fehler einzugestehen und zum letzten sicheren Punkt zurückzugehen. So sicher wie er eben sein kann. Es ist nicht verkehrt eine fundamentale, unerschütterliche Basis zu haben[^1].
+
+![]({{'/assets/images/new_shit_has_come_to_light.jpg'}}){: .center-image }{:width="500px"}*Der dude weiß worum es geht*
 
 [^1]:Rene Descarted hat Cogito, ergo sum (Ich denke also bin ich) gewählt, sicher nicht die schlechteste. Für mich ist die Basis: Ich habe ein Bewusstsein. Auf die Basis sind dann weitere Stockwerke aufgebaut, etwa: 'andere Menschen haben ein Bewusstsein', oder 'die physische Welt hat eine intrinsische Realität'. 100%ig fix ist aber nur die erste Basis.
 

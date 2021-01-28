@@ -202,6 +202,7 @@ figcaption {
 [![]({{'/assets/images/leere_search.jpg'}}){: .center-image }{:width="400px"}*Herausfordern der Leere*]({% post_url 2020-08-24-leere %})
 [![]({{'/assets/images/leere_versteckt.jpg'}}){: .center-image }{:width="200px"}*Leere verstecken*]({% post_url 2020-08-24-leere %})
 [![]({{'/assets/images/leere.jpg'}}){: .center-image }{:width="500px"}*Künstler: Aaron Diaz (http://dresdencodak.com)*]({% post_url 2020-08-24-leere %})
+[![]({{'/assets/images/new_shit_has_come_to_light.jpg'}}){: .center-image }{:width="500px"}*Der dude weiß worum es geht*]({% post_url 2020-08-24-denken %})
 [![]({{'/assets/images/pfad.jpg'}}){: .center-image }{:width="300px"}*Einen Pfad beschreiten*]({% post_url 2020-08-23-der-weg-zum-wissen %})
 [![img]({{'/assets/images/keine-abenteuer.jpg' | relative_url }}){: .center-image }{:width="400px"}*Menschenbild in Wall-E (2008). (Quelle: Pixar)*]({% post_url 2020-08-21-keine-abenteuer %})
 <style>
