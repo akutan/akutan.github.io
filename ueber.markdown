@@ -3,28 +3,21 @@ layout: page
 title: About
 permalink: /ueber/
 ---
-
 Philosophie hat für mich einen konkreten Wert. Sie bietet eine Sprache über Dinge zu sprechen die sonst im Verborgenen bleiben müssten.
 
-Ein Leben, das nicht kritisch untersucht wird, ist es nicht wert, gelebt zu werden. 
+*Ein Leben, das nicht kritisch untersucht wird, ist es nicht wert, gelebt zu werden.*
+&nbsp;&nbsp;&nbsp;&nbsp;--Sokrates
 
-    --Sokrates
+*Es ist das Kennzeichen eines gebildeten Geistes, einen Gedanken unterhalten zu können, ohne ihn anzunehmen.*
+&nbsp;&nbsp;&nbsp;&nbsp;--Aristoteles
 
-Es ist das Kennzeichen eines gebildeten Geistes, einen Gedanken unterhalten zu können, ohne ihn anzunehmen. 
+*Ist ein falscher Gedanke nur einmal kühn und klar ausgedrückt, so ist damit schon viel gewonnen.*
+&nbsp;&nbsp;&nbsp;&nbsp;--Ludwig Wittgenstein
 
-    --Aristoteles
+*Ein Wanderer ohne Ideal und ohne das Gefühl der Dankbarkeit dafür, unabhängig zu sein, ist nicht mehr als ein Bettler.*
+&nbsp;&nbsp;&nbsp;&nbsp;--Musashi
 
-Ist ein falscher Gedanke nur einmal kühn und klar ausgedrückt, so ist damit schon viel gewonnen. 
-
-    --Ludwig Wittgenstein
-
-Ein Wanderer ohne Ideal und ohne das Gefühl der Dankbarkeit dafür, unabhängig zu sein, ist nicht mehr als ein Bettler. 
-    
-    --Musashi
-
-Kontakt:
-
-    takuuuaaan (at) gmail (dot) com
+Kontakt: takuuuaaan (at) gmail (dot) com
 
 Takuan © 2020 - 2021
 
