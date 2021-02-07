@@ -18,4 +18,4 @@ Vielleicht muss man auf eine Kolonialisierung eines anderen Planeten warten um e
 
 ![]({{'/assets/images/iss063e039001.jpg'}}){: .center-image }{:width="500px"}*The crew snapped this starry nighttime shot of Rio de Janeiro and surrounding cities on the Brazilian coast, as the International Space Station orbited above São Paolo. (nasa.gov)*
 
-Sehr reale Probleme (z.B.  Klimawandel, Plastik in den Ozeanen, oder Epidemien von Superbugs) die wir auf dem Planeten gerade haben kennen keine Nationalstaaten. Das macht es ziemlich wichtig das wir den Extinction burst bestehen. Es ist ein kritischer Moment, so wie wenn man nach 6 Monaten ohne Kippen überlegt ob man sich nicht doch nochmal eine gönnen sollte.
+Sehr reale Probleme (z.B.  Klimawandel, Plastik in den Ozeanen, oder Epidemien von Superbugs) die wir auf dem Planeten gerade haben kennen keine Nationalstaaten. Das macht es ziemlich wichtig, dass wir den Extinction burst bestehen. Es ist ein kritischer Moment, so wie wenn man nach 6 Monaten ohne Kippen überlegt ob man sich nicht doch nochmal eine gönnen sollte.
