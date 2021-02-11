@@ -4,6 +4,20 @@ title: Images
 permalink: /Galerie/
 ---
 
+<style>
+.marginauto {
+    margin: 10px auto 20px;
+    display: block;
+}
+figcaption {
+  text-align: center;
+}
+</style><p>
+<a href="{% post_url 2021-02-10-freiheit %}" title="Redirect to blogpage">
+<figure>
+  <img class="marginauto" src='/assets/images/freiheit.png' width="300" style="background:none ; border:none; box-shadow:none"/>
+  <figcaption>Negative und Positive Freiheit</figcaption>
+</figure> </a></p>
 [![]({{'/assets/images/snow_forrest_scaled.jpg'}}){: .center-image }{:width="600px"}*Winter im Wald*]({% post_url 2021-01-10-winter_haiku %})
 [![]({{'/assets/images/Im_thinking_of_ending_things.jpg'}}){: .center-image }{:width="500px"}*i'm thinking of ending things*]({% post_url 2020-11-22-im-thinking-of-ending-things %})
 <style>
