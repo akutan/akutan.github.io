@@ -1,0 +1,127 @@
+---
+layout: post
+title:  "Musashi"
+date:   2021-02-11 07:39:00 +0200
+categories: buch
+tags: buch
+description: Der historische Roman Musashi von Yoshikawa Eiji erschien zwischen 1935 und 1939 als  Fortsetzungsroman in der japanischen Zeitung Asahi Shimbun. Er spielt in Japan zu Beginn der Edo-Zeit.
+---
+
+![]({{'/assets/images/MusashiNovel.jpg'}}){: .center-image }{:width="300px"}*Titelbild des Romans Musashi*
+
+Der historische Roman Musashi von Yoshikawa Eiji erschien zwischen 1935 und 1939 als  Fortsetzungsroman in der japanischen Zeitung Asahi Shimbun. Er spielt in Japan zu Beginn der Edo-Zeit. Das Land ist nach der  Schlacht von Sekigahara (21. Oktober 1600) im Umbruch und viele herrenlose Samurai (Ronin) ziehen durchs Land und versuchen sich einen Namen zu machen. Die Geschichte erzählt das Leben von Miyamoto Musashi (zu Beginn hieß er noch Takezo) und wie er sich in dieser jungen Nation zurechtfindet. Auf seiner Reise führt er ein *Merkbuch* mit sich, in dem er seine Erkenntnisse über die Welt, die Gesellschaft, seine Freunde und sich selbst festhält. Er lernt von der Natur, von sich selbst und von den vielen Menschen die er trifft. 
+
+Die Geschichte beginnt mit dem 16-jährigen Takezo, der sich mit seinem Jugendfreund Matahachi auf der Verliererseite der Schlacht von Sekigahara finden. Die beiden gehören zu den wenigen Überlebenden und versuchen in ihr Heimatdorf zurückzukommen. Auf dem Weg verstecken sie sich für längere Zeit bei der Witwe Oko und ihrer Tochter Akemi, da feindliche Beamte nach flüchtigen Ronin Ausschau halten. Oko schafft es, den eigentlich mit Otsu verlobten Matahachi, zu bezirzen, während Takezo es schaffte sich loszueisen, und seinen Weg weiterzugehen. Dieser Charakterunterschied der beiden Freunde zieht sich durch den ganzen Roman und bestimmt ihre Schicksale.
+
+Im Dorf wird Musashi, nach längerem Katz und Maus spielen schließlich gefangen genommen. Der zen-buddhistische Mönch Takuan hat sein Leben riskiert für das Recht über Takezos Schicksal bestimmen zu dürfen, wenn es ihm gelingt ihn zu fangen. Mit Otsus Hilfe ist es ihm auch gelungen, obwohl sich in ihr der Zweifel an seinen Methoden gefestigt hatte.
+
+> Manchmal werden Leute, die nicht ganz richtig im Kopf sind, von anderen für Genies gehalten. Möglich, daß Takuan einer von diesen war. In Otsu nahm dieser Gedanke mehr und mehr Gestalt an.
+
+Es war Otsus Flötenspiel, das Takezo aus der Reserve direkt in Takuans "Falle" gelockt hat. Der Beginn ihrer langjährigen zarten Andeutung einer Liebesbeziehung. 
+
+> Takuan: Takezo, begehst du nicht einen großen Fehler? Es gibt eine weite Welt mit warmem Feuer, mit Essen und Trinken, ja sogar mit menschlichem Mitgefühl. Du aber bestehst darauf, dich unbedingt in deiner eigenen Hölle herumzuquälen. Du hast da ein ziemlich schiefes Bild von der Welt, weißt du das?
+
+Takuans Therapie für Takezo's Jähzorn bestand darin, ihn für drei Jahre mit Büchern versorgt in eine Zelle zu sperren, in der Hoffnung dass das einen echten Menschen aus ihm macht. Der Plan geht auf und Takezo kommt nach 3 Jahren frei und ist bereit sich zu (re)sozialisieren.
+
+> 'Danken?' sagte Takuan ungläubig. Dann lachte er. 'Obwohl du niemand gehabt hast, mit dem du dich unterhalten konntest, hast du doch gelernt, wie ein Mensch zu sprechen. Gut! Heute noch kommst du hier heraus. Und wenn du draußen bist, bewahre die hart errungene Erleuchtung in deinem Herzen. Du wirst sie brauchen, wenn du hinausgehst in die Welt, um dich deinen Mitmenschen wieder zuzugesellen.'
+
+Takezo erhielt daraufhin im Alter von 21 Jahren den Namen Miyamoto Musashi als Symbol seiner Wiedergeburt. Er gelobt den Weg des Schwertes zu folgen und eine besserer Mensch als selbst Takuan es ist zu werden. 
+
+> Musashi hatte seinen eigenen Weg beschritten und entdeckte nun Tag für Tag, wie unendlich lang und mühselig dieser Pfad war, der zur echten Menschlichkeit führte.
+
+Auf seinen weiteren Weg trifft er viele die sich vermeintlich ebenfalls dem Weg des Schwertes verpflichtet haben. Ehrwürdige Schulen mit aroganten Schülern und Meistern, die sich auf lange verblassten Ruhm ausruhen und der Dekandenz erlegen sind. Ihre tatsächlichen Fähigkeiten als Kämpfer sind, sofern sie jemals existiert haben, verkümmert. Musashi degradiert alle Kampfschulen des Landes, denen er auf seinen Reisen begegnet. Sein Weg ist einfach und direkt, sein Ziel klar. Er will der beste Schwertkämpfer werden den es jemals gab. Er kann sich auf die Reinheit seines Strebens verlassen und alles für dieses Ziel irrelevante ausblenden. Die Verpflichtung zum Weg des Schwertes schützt ihn vor Arroganz und er arbeitet stetig daran, seine Fähigkeiten als Schwertkämpfer zu perfektionieren. Er verzichtet darauf, sich mit seiner großen Liebe Otsu niederzulassen und darauf, prestigeträchtige Positionen als Samurai anzunehmen um auf keinen Fall seine Ideale zu verraten. 
+
+Im Laufe seiner Reise lernt er den Weg des Schwertes überall zu sehen. In der Kunst, im Ackerbau, in der Politik, in der Teezeremonie und im Zen. Er übt sich in all diesen Disziplinen und beschreitet nun den Weg der Menschlichkeit. Er lernt, dass Selbstdisziplin und Bildung, in einer im Frieden lebenden Gesellschaft wichtiger sind als die Kriegskunst. Er erkennt das einige Gegenden des Landes prosperieren und andere verkommen. Er lernt den Wert von Stabilität und gewissenhaften Landwirtschaften kennen und versucht sich auch selbst als Landwirt. Er hat mit unkonventionellen, klugen Methoden unerwartet Erfolg und schafft es, trotz Zweifels und Spott der ansässigen Bevölkerung, ein Stück Land fruchtbar zu machen. Auch bringt er den Bewohnern des Dorfes bei sich gegen Banditen zu verteidigen. Er ist in jeder Hinsicht ein bereichernder Faktor auf sein Umfeld. Auch hat er zu dieser Zeit einen Schüler, der sich jedoch eine andere Ausbildung auf dem Weg zum Schwertkämpfer vorgestellt hat.
+
+Musashis Schwertkunst leidet nicht unter seinen fachfremden Disziplinen, in denen er sich übt, ganz im Gegenteil. Er verfeinert seine Technik immer weiter und wird im ganzen Land bekannt. Er erweiterte die Bedeutung des "Weg des Schwertes". Er erkennt, dass der Schwertkampf nur eine von vielen Disziplinen ist in denen sich dieser Weg manifestiert. 
+
+> Musashi wusste, dass er in diesem erlauchten Kreis nicht aufgrund irgendeiner Stellung akzeptiert wurde. Er suchte den Weg des Schwertes genau wie sie. Dieser Weg war es, der einen ungezwungenen freundschaftlichen Verkehr miteinander erlaubte.
+
+Einen würdigen Gegner findet er am Ende des Buches in Form von Kojiro. Um sich auf den Kampf vorzubereiten malt er zwei Bilder. 
+
+> Still, wie in Meditation versunken, kniete Musashi da, Pinsel, Tuschstein und Pinseltopf neben sich. Mit einem Bild war er bereits fertig: einem Reiher unter einem Weidenbaum. Das Papier vor ihm war noch leer. Er überlegte, was er malen solle, oder genauer gesagt, er war dabei, sich in die rechte Gemütsverfassung zu versetzen, denn diese war nötig, um sich das Bild vorstellen und überlegen zu können, welche Technik er wählen wollte. Für ihn war das weiße Papier das große Universum des Nichtseins. Schon ein einziger Pinselstrich genügte, darin Sein entstehen zu lassen. Er konnte nach Belieben Regen oder Wind beschwören, doch was er auch malte, sein Herz würde für immer in dem Bild eingeschlossen bleiben. War sein Herz besudelt, war auch das Bild besudelt; war sein Herz schwunglos, würde auch das Bild es sein. Bemühte er sich, sein Können unter Beweis zu stellen, würde man es dem Bild unweigerlich anmerken. Die Leiber der Menschen vergehen, doch Tusche bleibt. Das Inbild seines Herzens würde weiter atmen, auch wenn er selbst nicht mehr war.
+
+## Weitere Charaktere:
+
+### Matahachi 
+*Sohn Osugis, Freund Musashis*
+
+Steht immer im Schatten Musashis, traut sich nichts zu. Von Zweifeln zerfressen.
+
+> Während Matahachi über den vor ihm liegenden Samurai nachdachte, kam ihm das Ganze unsinnig vor. Wohin sollte der Weg schon führen, dem Musashi sich verschrieben hatte? Matahachis Wunsch, es seinem Freund aus der Knabenzeit gleichzutun oder ihn gar zu übertreffen, war keineswegs verflogen, doch angesichts des blutüberströmten Samurai wollte ihm der Weg des Schwertes töricht und verblendet erscheinen.
+
+> Zorn stieg in ihm [Musashi] auf. Warum musste Matahachi sich ständig als minderwertig und unterlegen darstellen? Und warum suchte er den Grund seines Versagens bei anderen?
+> Musashi: Kein Mensch kann dir ein ehrbares Leben schaffen, das musst du schon selbst tun.
+> Du wirst dir niemals einen Namen machen, wenn du nur das tust, was auch die anderen tun. Du musst einen Weg finden, dich auszuzeichnen - und von den anderen abzuheben
+
+Die Tragik in Matahachis Schicksal ist fast zum lachen. Egal was er versucht, letztendlich scheitert es. Er hat keine Ideale und ist deshalb vom Pech verfolgt. Er versucht zum eigenen Vorteil clever und geschickt zu sein, reitet sich aber dadurch immer tiefer in sein Unglück. Er versucht mutig zu sein, wird aber dadurch von Attentätern als Mörder intrumentalisiert.
+
+> Eure Art von Mut hat etwas Erschreckendes, Matahachi.
+
+> Takuan: Ihr hat nicht die Geringst Ahnung, von was einer Wirklichkeit ich rede. Zweifellos weilt ihr noch in eurer Welt der Phantasie. Nun, da ihr so einfältig seid wie ein Kind, nehme ich an, muss ich es euch vorkauen.
+
+Sein konstantes Versagen ist der Grund das Osugi sich gegen Musashi wendet. Er ist das Symbol, für das was passiert wenn man ohne Plan und ohne Ideale kurzfristigen Freuden, wie Prostituieren, Ruhm, Geld oder Sake, hinterherjagt. Er schreckt nicht davor zurück zum eigenen Vorteil die Identität von Kojiro anzunehmen, was natürlich nicht gut endet. Matahachi hat sich dem Weg des Schwertes nie ganz verschrieben.
+
+### Osugi 
+*Matahachis Mutter und Matriarchin der Familie Hon'iden*
+ 
+Osugis Rolle in der Geschichte hat mich in ihrer Tiefe vielleicht am meisten beeindruckt. Oberflächlich könnte man sie für die eigentliche Antagonistin halten. Sie stellt sich dem jungen Glück von Musashi und Otsu in den Weg. Ihr verkommener Sohn Matahachi hat Schande über die Familie Hon'iden gebracht. Sie projeziert dieses Gefühl der Schande auf Musashi und macht ihn für alles verantwortlich. Sie versucht alles in ihrer Macht stehende, um seinen Ruf und sein Leben zu ruinieren. Sie kämpft dreckig, mit den Waffen einer alten Frau. Dieser ungewöhnliche Gegner, gegen den Musashis Kraft nichts ausrichten kann, symbolisiert die Tradition. Er, der größte Schwertkämpfer aller Zeiten, ist kurz davor von der über 60-jährigen Osugi besiegt zu werden. Auch ist sie die Konsequenz die seine Handlungen als Takezo bedingen. Manifestiertes Karma, aus der Zeit bevor er ein angepasster, sozialisierter, echter Mensch wurde. Erst als Musashi auf dem Weg zu seinem finalen Kampf mit Kojiro ist, und er sich mit dem Tod abgefunden hat, schließen die beiden Frieden.
+
+> »Wir sind gekommen, dir das Geleit zu geben«, sagte Osugi. »Und ich bin auch gekommen, dich um Verzeihung zu bitten.« »Um Verzeihung? Mich?« »Ja, für alles. Ich möchte dich bitten, mir zu verzeihen.«
+> Fragend sah er ihr ins Gesicht. Die Worte klangen unwirklich. »Warum sagt Ihr das, Großmutter? Ist irgend etwas geschehen?«
+
+Er hat sich in der Vorbereitung auf den Kampf jedoch von allem Unwesentlichen befreit. Er hat sogar Osugi, die ihr bestes getan hat sein Leben zu ruinieren, vergessen. Erst als er diesen Zustand erreicht hat, hat Osugi es fertig gebracht sich zu entschuldigen. Ihn mit neuen Augen als Musashi zu sehen und das Leid zu verzeihen, dass er als Takezo über ihr Dorf gebracht hat.
+
+> Die Hände flehentlich zusammengelegt, stand sie da. »Was soll ich sagen? Ich habe so viel Böses getan, daß ich nicht hoffen darf, für alles Verzeihen zu finden. Es war alles ein ... ein schrecklicher Irrtum. Die Liebe zu meinem Sohn hat mich verblendet, doch jetzt kenne ich die Wahrheit. Bitte, vergib mir!«
+> Einen Moment starrte er sie an, dann kniete er nieder und nahm ihre Hände. Er wagte nicht, die Augen zu heben, aus Angst, es könnten Tränen darin sein. Als er die alte Frau so zerknirscht sah, fühlte auch er sich schuldig. Aber er war auch dankbar. Osugis Hand zitterte, und sogar seine bebte ganz leicht.
+> Es dauerte etwas, bis er sich wieder in Gewalt hatte. »Ich glaube Euch, Großmutter. Ich bin Euch dankbar, daß Ihr gekommen seid. Jetzt kann ich dem Tod ohne Bedauern ins Auge sehen und mit freiem Geist und frohem Herzen in dieses Treffen gehen.« »Dann verzeihst du mir?«
+> »Selbstverständlich tue ich das, wenn Ihr mir all den Kummer vergebt, den ich Euch bereitet habe, seit ich ein Knabe war.«
+
+### Takuan 
+*zen-buddhistischer Wandermönch*
+
+Ignoriert gesellschaftliche Normen, bewegt sich außerhalb des Systems. Ist im Herzen jung geblieben, unterhält sich zum Beispiel auf Augenhöhe mit Oko, die im Koster wohnt oder läuft in einem sehr prüdem Japan halbnackt durch die Gegend. Er ist aber keine Narr, ist gut vernetzt mit entscheidenden Persönlichkeiten und formt die Vorgänge der jungen Nation nicht unwesentlich. Politisch gut vernetzt und immer am richtigen Ort zur richtigen Zeit. Rettet am Anfang des Romans Takezos Leben und gegen Ende auch Matahachis Leben. Trotz seiner gesellschaftlichen recht hohen Stellung als Mönch erhebt er keinen Anspruch absolute Wahrheiten zu kennen. Er spricht sich explizit gegen übertriebene Frömmelei aus und dagegen, dass sich Klöster an der Frömmigkeit der Gläubigen bereichern.
+
+### Otsu
+*im Tempel aufgewachsenes Waisenmädchen, Verlobte Matahachis*
+
+Otsu ist zwar eine der weiblichen Protagonistinen, ihr wird aber kaum Tiefe zugestanden. Sie ist die verunsicherte, schüchterne, mysteriöse, hilflose, schöne, zarte Frau, die sich nach dem edlen Musashi sehnt. Das ist wahrscheinlich das typische Ideal für Frauen in Japan zu dieser Zeit.
+
+### Koetsu 
+*Künstler, der mit seiner Mutter, der Nonne Myoshu lebt*
+Weiht Musashi in die Kunst und den Weg der Malerei ein.
+
+## Nennenswerte Einträge aus Musashis *Merkbuch*
+
+> Versuche nicht, dich dem Lauf des Universums entgegenzustemmen. Versuche als erstes, das Wesen des Universums zu erkennen
+
+> Zwar befinden wir uns jetzt nicht im Krieg, aber das Ringen ums Überleben in einer friedlichen Welt ist nicht minder schwierig. Man muss kämpfen, muss einen Plan haben.
+
+> Ich will nichts, garnichts bedauern
+> Ich will meine Handlungen nicht bedauern
+> Ich will nichts tun, dass ich hinterher bedauern muss
+> Nur der dritte Unterstrich seinen Entschluss, so zu handeln, dass Selbstvorwuerfe sich erübrigten
+
+> Unterschiede zwischen den Menschen bestanden wohl nur darin, wie sie mit ihren jeweiligen Schwächen fertig wurden.
+
+> Jede Handlung ist letztendlich eine Manifestation des eigenen Selbst. Ein Mensch, der sich nicht erkannt hat, kann für andere nichts tun.
+> Nichts ist beängstigender als ein unreifer Mensch, der Gutes tun will und, obwohl er die Welt noch garnicht richtig kennt, ihr trotzdem vorzuschreiben wagt, was gut für sie ist und was nicht.
+
+> Die Lösung eines Problems führte ihn nur unweigerlich an das nächste heran. Manchmal war er so zerquält, dass er das Gefühl hatte, sein Schwert richte sich gegen ihn selbst. 
+
+> Ein leichtes Dasein konnte nur mit Beschränkungen erkauft werden, und denen mochte er sich nicht unterwerfen.
+
+> Doch seine Absicht, die Schale der einengenden Muschel zu zerbrechen, ehe sie unduuchdringlich wurde, war in nichts zerronnen. Die Schale war noch da und umschloss sein hohles Selbst wie die abgestreifte Haut einer Zikade.
+
+Musashi [M] im Gespräch mit dem Priester Gudo [G]:
+
+> [M] Ich habe mit Übungen und Selbstzucht so wenig erreicht.
+> [G] Ihr redet immer davon. Solange ihr das tut, ist alle Mühe vergeblich.
+> [M] Was würde geschehen, wenn ich aufgäbe?
+> [G] Ihr würdet wieder abstumpfen. Ihr wäret menschlicher Abfall, schlimmer als damals, da ihr nur ein unwissender Narr wart.
+> [M] Wenn ich dem Weg entsage, stürze ich in die Tiefe. Aber wenn ich versuche, ihn weiter zu folgen bis zum Gipfel, dann merke ich, dass ich der Aufgabe nicht gewachsen bin. Ich krümme und winde mich auf halber Höhe und bin weder der Schwertkämpfer noch der Mensch, der ich sein möchte.
+> [G] Damit scheint alles gesagt.
+> [M] Ihr wisst nicht, wie verzweifelt ich gewesen bin. Was soll ich tun? Sagt es mir! Wie kann ich mich aus Nichtstun und Verwirrung befreien?
+> [G] Warum fragt ihr mich? Ihr könnt euch auf euch selbst verlassen.
+
+> Musashi beobachtete ein kleine Wolke am Himmel. Während er damit beschäftigt war, kehrte seine Seele in seinen Körper zurück, und es war ihm möglich, zwischen der Wolke und sich selbst zu unterscheiden, zwischen seinen Körper und dem Universum.

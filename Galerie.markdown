@@ -4,6 +4,7 @@ title: Images
 permalink: /Galerie/
 ---
 
+[![]({{'/assets/images/MusashiNovel.jpg'}}){: .center-image }{:width="300px"}*Titelbild des Romans Musashi*]({% post_url 2021-02-11-musashi %})
 <style>
 .marginauto {
     margin: 10px auto 20px;
