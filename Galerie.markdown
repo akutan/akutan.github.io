@@ -4,7 +4,6 @@ title: Images
 permalink: /Galerie/
 ---
 
-[![]({{'/assets/images/MusashiNovel.jpg'}}){: .center-image }{:width="300px"}*Titelbild des Romans Musashi*]({% post_url 2021-02-04-musashi %})
 [![]({{'/assets/images/snow_forrest_scaled.jpg'}}){: .center-image }{:width="600px"}*Winter im Wald*]({% post_url 2021-01-10-winter_haiku %})
 [![]({{'/assets/images/Im_thinking_of_ending_things.jpg'}}){: .center-image }{:width="500px"}*i'm thinking of ending things*]({% post_url 2020-11-22-im-thinking-of-ending-things %})
 <style>
