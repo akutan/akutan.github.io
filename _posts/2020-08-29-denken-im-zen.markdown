@@ -45,7 +45,7 @@ figcaption {
 
 Im Zen gibt es den Begriff Shoshin, beginners mind, und dessen Wichtigkeit wird hervorgehoben. Shoshin zu kultivieren heißt, diese ursprüngliche Faszination für das 'Jetzt' wieder zu spüren.
 
------
+------------------------
 ### Bücher dazu:
 
 Eckhart Tolle: Jetzt
