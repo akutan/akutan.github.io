@@ -22,7 +22,7 @@ trip nach Amsterdam <--> Wahlfahrt
 
 Beides beruhigt, suggeriert das alles in Ordnung ist, schafft Zufriedenheit. Bietet einen Raum in den man sich fallen lassen kann. Opiate sind in Deutschland illegal, Religion nicht. Religion braucht auch nicht unbedingt Substanzen, die man sich beschaffen müsste. Abhängig machen kann beides. Religion ist nicht ungefährlich. Auch Ideen sind gefährlich, vor allem wenn man nur eine hat (Alain). Religion hat den großen Vorteil, das es keine kriminellen Strukturen (Banden, Schmuggler) unterstützt die außerhalb des Gesetzes und der Gesellschaft agieren. Obwohl... Auf jeden Fall schaffen sie es besser soziale Strukturen aufzubauen und Isolation entgegenzuwirken, woran die Drogenindustrie wenig Interesse hat.
 
-Der Wirkmechanismus der Religion ist dem Menschen einen grundlegenden Teil des Menschseins zu nehmen, und ihn zu instrumentalisieren. Sie bindet dann die Leute an sich mit dem Versprechen, ihnen zu geben was sie ihnen vorher genommen hat. (Erbsünde <--> Absolution; Sex <--> Ehe; Erde <--> Paradies)
+Der Wirkungsmechanismus der Religion ist dem Menschen einen grundlegenden Teil des Menschendaseins zu nehmen, und ihn zu instrumentalisieren. Sie bindet dann die Leute an sich mit dem Versprechen, ihnen zu geben was sie ihnen vorher genommen hat. (Erbsünde <--> Absolution; Sex <--> Ehe; Erde <--> Paradies)
 Ihre Agenten verkleiden sich als Zauberer um das ganze zu verschleiern. In der Hinsicht sind Drogen ehrlicher, sie brauchen keinen mythischen Überbau von Himmel und Hölle. Sie liefern was sie versprechen, das High. Sie agieren im rein weltlichen, wirken nur auf die Gehirnchemie. 
 
 Mischkonsum von Substanzen und Religion ist gefährlich , einige Sekten basieren wohl darauf. (Serie dazu: The Path, 2016).

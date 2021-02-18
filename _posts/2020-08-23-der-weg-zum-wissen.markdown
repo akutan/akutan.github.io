@@ -11,15 +11,15 @@ Hat man sich diesen Weg ausgesucht, bzw wurde von ihm ausgesucht, muss man mutig
 
 ![]({{'/assets/images/pfad.jpg'}}){: .center-image }{:width="300px"}*Einen Pfad beschreiten*
 
-Der Weg des Verstehens erfordert viel Recherche, nachlesen, studieren. Eine ausreichend gute Kenntniss der Welt. Auch ein gewisses 'in der Welt zu Hause sein', Erfahrungen machen. Die Hindernisse auf die man trifft werden selten konkret sein. Ein grosser Gegner auf den man treffen wird ist das Absurde, Albert Camus oder Kafka können da helfen. Auch der Ekel, ein alles betreffender Ekel wird aufkommen. Damit kennt sich Jean-Paul Sartre aus. Über das Leid hat sich Siddhartha Gautama viele Gedanken gemacht und ein System entwickelt damit umzugehen. Michael Ende hat sich mit existenzieller Leere beschäftigt.
+Der Weg des Verstehens erfordert viel Recherche, nachlesen, studieren. Eine ausreichend gute Kenntnis der Welt. Auch ein gewisses 'in der Welt zu Hause sein', Erfahrungen machen. Die Hindernisse auf die man trifft werden selten konkret sein. Ein großer Gegner auf den man treffen wird ist das Absurde, Albert Camus oder Kafka können da helfen. Auch der Ekel, ein alles betreffender Ekel wird aufkommen. Damit kennt sich Jean-Paul Sartre aus. Über das Leid hat sich Siddhartha Gautama viele Gedanken gemacht und ein System entwickelt damit umzugehen. Michael Ende hat sich mit existenzieller Leere beschäftigt.
 
 Auf dem Weg wird man Dämonen und Drachen kennen lernen.
 Man wird vor Abgründen stehen und nicht weiter wissen.
-Man wird in das grosse Nichts starren, sich mit ihm messen.
+Man wird in das große Nichts starren, sich mit ihm messen.
 Der Hunger wird kommen, man wird alleine sein. Man wird nass vom Regen und halb erfroren von der Kälte sein. 
 Man wird krank werden, man wird heilen.
 Man wird Freunde und Feinde treffen. 
-Freunde sind Ideen, Pflanzen, Tiere, Gelehrte und Shamanen.
+Freunde sind Ideen, Pflanzen, Tiere, Gelehrte und Schamanen.
 Feinde sind Traumverkäufer, Blender und Doppelmoral. 
 Man wird Unterstützung von Personen aus verschiedenen Epochen bekommen.
 Man wird seinen Weg verlieren, Zweifeln, aufgeben wollen. 

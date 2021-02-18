@@ -46,7 +46,7 @@ Macht man das zu bereitwillig, und arbeitet nicht an seiner Flughöhe, wird man 
 
 - Mit Gottesvertrauen (oder Vertrauen in den Markt) an der Wand vor der man gerade steht arbeiten. Kleine Brocken absplitten und zumindest das Gefühl haben was zu machen. 
 
-- Erstmal Pause machen. Sammeln und neu gruppieren. Darauf warten das sich die Situation durch tektonische Platenverschiebung ändert ;)
+- Erstmal Pause machen. Sammeln und neu gruppieren. Darauf warten das sich die Situation durch tektonische Plattenverschiebung ändert ;)
 
 <figure>
   <img class="marginauto" src='/assets/images/wait_for_shift.png' width="200" style="background:none ; border:none; box-shadow:none"/>
@@ -71,9 +71,9 @@ So, was wenn man in allen drei Raumdimensionen Mauern findet? Dann ist der Adler
 </figure> 
 
 
-- Ist man fit in mentaler Gymnastik, kann man durch eine Umdefinition ändern was innen und was außen ist. Dann wird aus der Enge Weite, man ist ja 'frei'.
+- Ist man fit in mentaler Gymnastik, kann man durch eine Neudefinition ändern was innen und was außen ist. Dann wird aus der Enge Weite, man ist ja 'frei'.
 
-- Man kann die Zeit als vierte Dimension mit reinnehmen. Fähigkeiten sind eine Funktion der Zeit. Einige Brocken und Mauern verändern sich mit der Zeit. 
+- Man kann die Zeit als vierte Dimension mit rein nehmen. Fähigkeiten sind eine Funktion der Zeit. Einige Brocken und Mauern verändern sich mit der Zeit. 
 
 - Man kann auch weitere Dimensionen berücksichtigen, dann relativiert sich die Relevanz der Mauern auch. In der bosonische Stringtheorie ist die Raumzeit z.B. 26-dimensional, in der Superstringtheorie 10-dimensional.
 

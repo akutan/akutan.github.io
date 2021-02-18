@@ -19,7 +19,7 @@ Ideen oder Informationen haben einen Lebenszyklus sobald das Subjekt mit ihnen i
 ![]({{'/assets/images/three_states.jpg'}}){: .center-image }{:width="400px"}*Drei Stufen des Wissens*
 
 
-Es hängt von der individuellen Offenheit der Person ab, wieviele neue Ideen sie registriert. Hypersensible Menschen finden sich im normalen Leben einen regelrechten Bombardement an Ideen ausgesetzt und verspüren oft den Wunsch sich dessen zu entziehen. Zumindest wenn zu diesem Zeitpunkt anderen Ideen 'in Verarbeitung' sind, d.h. auf den Weg zu Stufe 3. Ist die Pipeline frei suchen sie durchaus neue Ideen.
+Es hängt von der individuellen Offenheit der Person ab, wie viele neue Ideen sie registriert. Hyper-sensible Menschen finden sich im normalen Leben einen regelrechten Bombardement an Ideen ausgesetzt und verspüren oft den Wunsch sich dessen zu entziehen. Zumindest wenn zu diesem Zeitpunkt anderen Ideen 'in Verarbeitung' sind, d.h. auf den Weg zu Stufe 3. Ist die Pipeline frei suchen sie durchaus neue Ideen.
 
 
 <figure>
@@ -44,7 +44,7 @@ Man kann nicht für alle Ideen denen man ausgesetzt ist diesen Vorgang durchlauf
  - Baut die Idee auf schon implementieren Ideen auf? Oder macht man einen neuen Pfad aufmachen? Will man das?
  - Will man sich mit der Idee auseinandersetzen? Beschäftigt man sich ehrlich mit etwas hinterlässt es immer auch Spuren.
 
-Der Schritt von 2 nach 3 ist von der rein subjektiven Welt in die Intersubjektive oder Objektive (kommt auf die Art der Idee an). Da passiert dann auch wieder der Kontakt zur Quelle der Idee, die Idee kam ja usprünglich in Schritt 1 von außen.
+Der Schritt von 2 nach 3 ist von der rein subjektiven Welt in die Intersubjektive oder Objektive (kommt auf die Art der Idee an). Da passiert dann auch wieder der Kontakt zur Quelle der Idee, die Idee kam ja ursprünglich in Schritt 1 von außen.
 
 Erst wenn die Idee den 3. Zustand erreicht hat ist sie verinnerlicht. Dann lebt man sie auch ohne aktive Reflexion, etwa wenn man sich im Flow (no mind) Zustand befindet. Ein weiteres Reflektieren erübrigt sich. Alan Watts würde sagen:
  > If you get the message, hang up the phone.

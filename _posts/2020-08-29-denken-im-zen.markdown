@@ -12,7 +12,7 @@ Nach Lektüre von Eckhart Tolle bekommt man den Eindruck 'Denken' sei der Feind 
 
 Das ist ein guter Einstieg in östliche Philosophie und zurecht ist 'Jetzt' (gepusht von Oprah Winfrey) ein internationaler Kassenschlager geworden.
 
-Auf Dauer, nachdem man den Schock über die Erkenntniss und vor allem das Erleben (Satori) des 'Jetzt' verdaut hat, ist es aber zu eindimensional. 'Denken' ist ein wertvolles und nützliches Werkzeug vor dem man keine Angst haben muss. Es stimmt zwar, umso länger eine Gedankenkette wird, umso weiter kommt man vom 'Jetzt' weg, aber das ist nicht schlimm. Es kommt viel mehr darauf an wie man denkt, da gibt es Fallstricke.
+Auf Dauer, nachdem man den Schock über die Erkenntnis und vor allem das Erleben (Satori) des 'Jetzt' verdaut hat, ist es aber zu eindimensional. 'Denken' ist ein wertvolles und nützliches Werkzeug vor dem man keine Angst haben muss. Es stimmt zwar, umso länger eine Gedankenkette wird, umso weiter kommt man vom 'Jetzt' weg, aber das ist nicht schlimm. Es kommt viel mehr darauf an wie man denkt, da gibt es Fallstricke.
 
 Analog zum bewussten Ausführen **einer** Handlung, ohne in Gedanken wo anders zu sein, kann man bewusst über eine Sache denken, ohne in anderen Gedanken über das Denken abzudriften. Selber Mechanismus. Schade das es dafür kein anderes Wort gibt, das ist ein Mangel in der Sprache. Ab der ersten Ebene ist alles nur noch 'Denken'.
 
@@ -22,7 +22,7 @@ Handeln -> Denken^(1) -> Denken^(2) -> ... -> Denken^(N)
 
 Man kann auch mit voller Konzentration über das Denken^(2) denken^(3), ohne über Denken^(3) zu denken^(4). Auch das ist Zen. Denken jenseits von Denken^(1) scheint mir in der Gesellschaft nicht sehr hoch angesehen zu sein (z.B. Bob Dylan: Don't think twice, it's alright).
 
-Es gibt keine Grenze nach Oben für Denken^(N)[^1]. Hat man aber ein paar Etagen durch wird es mühsig und man sehnt sich wieder nach Handeln oder zumindest Denken^(1). Ich habe für mich eine Grenze bei Denken^(2) gesetzt, zumindest für den Moment. Höhere Ebenen haben etwas von Eskapismus, man entfernt sich zu weit von dem 'Jetzt', von dem Eckhart Tolle spricht. Auch nimmt die Manifestation größerer Denken^(N) in der 'Realität' (Handeln) ab.
+Es gibt keine Grenze nach Oben für Denken^(N)[^1]. Hat man aber ein paar Etagen durch wird es mühselig und man sehnt sich wieder nach Handeln oder zumindest Denken^(1). Ich habe für mich eine Grenze bei Denken^(2) gesetzt, zumindest für den Moment. Höhere Ebenen haben etwas von Eskapismus, man entfernt sich zu weit von dem 'Jetzt', von dem Eckhart Tolle spricht. Auch nimmt die Manifestation größerer Denken^(N) in der 'Realität' (Handeln) ab.
 
 
 <figure>

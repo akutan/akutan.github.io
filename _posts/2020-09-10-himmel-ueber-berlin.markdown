@@ -7,12 +7,12 @@ tags: film
 description: Ein wunderschöner Film über einen Engel der Mensch werden will.
 ---
 
-Zur Zeit kann man die Filme von Wim Wenders in der ARD Medithek umsonst und in HD streamen. Ich hab die Chance genutzt und 'Der Himmel über Berlin' nochmal angeschaut. Ein wunderschöner Film über einen Engel der Mensch werden will. Die Engel können im Film die Gedanken der Menschen hören. Einige solche Gedanken haben sich mir eingeprägt.
+Zur Zeit kann man die Filme von Wim Wenders in der ARD Mediathek umsonst und in HD streamen. Ich hab die Chance genutzt und 'Der Himmel über Berlin' nochmal angeschaut. Ein wunderschöner Film über einen Engel der Mensch werden will. Die Engel können im Film die Gedanken der Menschen hören. Einige solche Gedanken haben sich mir eingeprägt.
 
 ![]({{'/assets/images/himmelueberberlin.jpg'}}){: .center-image }{:width="500px"}*Der Himmel über Berlin von Wim Wenders*
 
 <details>
-<summary>Monolog eines Chaffeurs über Grenzen</summary>
+<summary>Monolog eines Chauffeurs über Grenzen</summary>
 Gibt es noch Grenzen? Mehr denn je. Jede Straße hat ihren eigenen Grenzbalken, oder Grenzstrich. Zwischen den einzelnen Grundstücken gibt es einen Niemandslandstreifen, getarnt durch eine Hecke oder einen Wassergraben.
 Wer da hineingerät, überfällt spanische Reiter da. Oder wird getroffen vom Laserstrahl. Die Forellen im Wasser sind in Wirklichkeit Zitterrochen. Jeder Hausherr oder auch Wohnungseigentümer nagelt sein Namensschild als Wappen an die Tür und studiert die Morgenzeitung als Weltherrscher. Das deutsche Volk ist in so viele Kleinstaaten zerfallen als es einzelne Menschen gibt. Und die einzelnen Staatsgebilde sind beweglich.
 Jeder trägt das seine mit sich herum und verlangt eine Übertrittsgebür, wenn ein anderer es betreten will in Form einer in Bernstein eingeschlossenen Fliege oder eines Bocksbeutels.

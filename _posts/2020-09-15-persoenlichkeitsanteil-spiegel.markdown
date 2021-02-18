@@ -14,7 +14,7 @@ Menschen spiegeln sich gegenseitig, was auch schön, gut und sinnvoll ist. So le
 Heute gibt es keine Säbelzahntiger mehr und auch generell haben die konkreten Gefahren abgenommen. Ironischerweise kommen die statistisch größten Gefahren fürs Leben von dem Mechanismus der uns früher vor dem Tod geschützt hat. 
 Konstante Panik, Geschäftigkeit und Stress sind die größten Killer. Ihre Symptome sind Herzinfarkt, Schlaganfall, Autoimmunerkrankungen, Krebs, Fettleibigkeit, psychische Krankheiten, ...
 
-Es fühlt sich gut an, wenn man auf einen Panikfilm aufspringt. Man hat das Gefühl was zu tun, aktiv zu sein. Dem Säbelzahntiger nochmal davonzukommen. Eben dieses gute Gefühl zu hinterfragen ist die Herausforderungen. Ist nicht blind zu spiegeln, sondern zu hinterfragen. Sehr oft ist Aktionismus fehl am Platz, reaktionäre Ansätze zu kurz gedacht. 
+Es fühlt sich gut an, wenn man auf einen Panikfilm aufspringt. Man hat das Gefühl was zu tun, aktiv zu sein. Dem Säbelzahntiger nochmal davon zukommen. Eben dieses gute Gefühl zu hinterfragen ist die Herausforderungen. Ist nicht blind zu spiegeln, sondern zu hinterfragen. Sehr oft ist Aktionismus fehl am Platz, reaktionäre Ansätze zu kurz gedacht. 
 
 Jeder Mensch ist auch ein Spiegel (außer vielleicht die ganz harten Soziopathen). Will man das Level an Panik und Angst in seinen Umfeld abbauen hilft es ein selektiver Spiegel zu sein. Mehr die emotionalen Zustände spiegeln, die mit dem Finden einer Blume korrespondieren, als die, die vom Säbelzahntiger kommen.
 

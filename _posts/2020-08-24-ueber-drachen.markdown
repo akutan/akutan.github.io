@@ -34,8 +34,8 @@ spiel mit ihr und hab sie lieb
 nur manchmal ist sie wie ein Dieb
 
 Die Zeit ist kostbar, unbedingt
-man is ja auch kein Findelkind
-Man hat ein Leben, achzig Jahr
+man ist ja auch kein Findelkind
+Man hat ein Leben, achtzig Jahr
 doch es scheint oft modular
 
 Man muss entscheiden, priorisieren
@@ -49,18 +49,18 @@ neben dem andren,  verstrickten verhexten
 ein Labyrinth aus vielen Komplexen
 
 Dazwischen gibt es Mannigfaltig
-Kulturen von Rom bis zum Baltik
-Verschiedne Märchen die man erzählt
+Kulturen von Rom bis zum Baltik'
+Verschied'ne Märchen die man erzählt
 sie ernst nimmt als wär man vermählt
 sich selbst dabei im Spiel verliert
 sich wieder findet und fast krepiert
 Verzweiflung kommt auf was das den soll
-Diese Art zu leben fordert ihrn Zoll
+Diese Art zu leben fordert ihr'n Zoll
 
 Hat man sich zu oft verlaufen
-ohne Erkenntniss der beiden Haufen
-Kommt er plötzlich der grosse Tod
-man fühlt sich wie dünn betrichnes Brot
+ohne Erkenntnis der beiden Haufen
+Kommt er plötzlich der große Tod
+man fühlt sich wie dünn bestrich'nes Brot
 
 
 
