@@ -17,7 +17,7 @@ Philosophie hat für mich einen konkreten Wert. Sie bietet eine Sprache über Di
 *Ein Wanderer ohne Ideal und ohne das Gefühl der Dankbarkeit dafür, unabhängig zu sein, ist nicht mehr als ein Bettler.*
 &nbsp;&nbsp;&nbsp;&nbsp;--Musashi
 
-Kontakt: takuuuaaan (at) gmail (dot) com
+Kontakt: takuan (at) takuan (punkt) de
 
 Takuan © 2020 - 2021
 
