@@ -4,14 +4,14 @@ name: Takuan
 description: Philosophie ist das Rüstzeug über tief verankerte und versteckte Dinge zu denken. 
 
 # Url is currently only used only for the RSS feed in feed.xml
-url: takuan.de
+url: https://www.takuan.de
 #url: http://localhost:4000
 
 # For a project page here should be a project name. Otherwise (for user's/organization's page leave it empty)
 baseurl: ''
 
 author: Takuan
-copyright: 2020
+copyright: 2020 - 2021
 
 share:
   facebook: false
@@ -27,7 +27,7 @@ social:
   linkedin:
   instagram: ''
   lastfm: ''
-  rss: ''
+  rss: feed.xml
 
 # Google Analytics key, leave blank to ignore
 google_analytics_key:
