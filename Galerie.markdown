@@ -4,6 +4,7 @@ title: Images
 permalink: /Galerie/
 ---
 
+[![]({{'/assets/images/Simulakr.jpg'}}){: .center-image }{:width="300px"}*Simulacra and Simulation in Neo's Haushalt*]({% post_url 2021-04-26-s_a_s %})
 [![]({{'/assets/images/MusashiNovel.jpg'}}){: .center-image }{:width="300px"}*Titelbild des Romans Musashi*]({% post_url 2021-02-11-musashi %})
 <style>
 .marginauto {

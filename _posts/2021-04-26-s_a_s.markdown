@@ -1,0 +1,134 @@
+---
+layout: post
+title:  "Simulacres et Simulation"
+date:   2021-04-26 07:39:00 +0200
+categories: buch
+tags: buch
+description: Jean Baudrillard macht sich in seinem 1981 erschienenen Buch Simulacres et Simulation grundlegende Gedanken über die Postmoderne. 
+---
+
+Jean Baudrillard (27 Juli 1929 - 6 März 2007) macht sich in seinem 1981 erschienenen Buch *Simulacres et Simulation* grundlegende Gedanken über die *Postmoderne*. 
+
+Auf dieses vermeintlich obskure Buch bin ich durch den Film **Die Matrix** gekommen, in dem die Wachowskis das Buch auf symbolisch aufgeladene Weise einsetzen. Der Hacker Neo bewahrt in einer ausgehöhlten Hardcover Ausgabe davon sein Geld und seine Hackerdaten auf. Also den Teil seines Lebens der nicht mit seiner Rolle als Angestellter vereinbar ist.
+
+![]({{'/assets/images/Simulakr.jpg'}}){: .center-image }{:width="300px"}*Simulacra and Simulation in Neo's Haushalt*
+
+In der Absicht dem Leser die Wirkungsweise von Simulakren und Simulationen näher zu bringen bildet B teilweise lange und komplexe Gedankenketten und erfindet neue Wörter. Vielleicht ging einiges durch die Übersetzung vom Französischen ins Englische verloren, man könnte seinen Schreibstil aber auch als absichtlich obskur bezeichnen. Ich nehme die teils eleganten Windungen gerne als Einladung mich zum Denken anregen zu lassen. Eine von B's Kernthesen im Buch - *Das Medium ist die Nachricht* - gilt also insbesondere auch für seinen eigenen Schreibstil. Will man den Sachverhalt des Simulakrums kommunizieren, macht es Sinn Satzkonstrukte die sich um sich selbst winden um Substanz zu erzeugen zu benutzen. Um seinen Thesen Leben einzuhauchen bezieht er sich auf zu seiner Zeit aktuelle Ereignisse, zu denen ich heute wenig Bezug habe. Er beschreibt etwa den Watergate Skandal 1972, die Studentenproteste an der Sorbonne 1968, oder die erste Reality TV Serie [An American Family](https://en.wikipedia.org/wiki/An_American_Family) 1971. Einige seiner Themen haben aber auch heute enorme Relevanz und man sieht sie in aktuellen Strömungen recht deutlich. Vor allem seine These über den Hauptunterschied von der Moderne zur Postmoderne.
+
+> The true revolution of the nineteenth century, of modernity, is the radical destruction of appearances, the disenchantment of the world and its abandonment to the violence of interpretation and of history. I observe, I accept, I assume, I analyze the second revolution, that of the twentieth century, that of postmodernity, which is the immense process of the **destruction of meaning**, equal to the earlier **destruction of appearances**. He who strikes with meaning is killed by meaning.
+
+In ersterer ging es um die Dekonstruktion der Form, in letzterer um den Verlust des Sinns. B konnte von der postfaktischen Welt, die wir heute haben, nichts wissen, sie hat sich für ihn aber abgezeichnet. 
+
+Im Folgenden werde ich auf die Bereiche, die ich denke im Buch verstanden zu haben, genauer eingehen.
+
+## Simulakra
+
+B fängt an mit dem Bild einer Karte, die genauso detailliert ist wie die Welt die sie referenziert. Für weitere Simulationen und Abstraktionen wird dann die Karte herangezogen, nicht mehr die eigentliche *Realität*. Die Konsequenz sind hyperreale Zeichen, die zwar irgendeinen realen Kern haben, diesen aber stark überzeichnen. Wegen der perfekten Karte sind diese Zeichen die beste und einzige Spur zur *Realität*. Die Symbole der Realität wurden zur Realität.
+
+>It is no longer a question of imitation, nor duplication, nor even parody. It is a question of substituting the signs of the real for the real, that is to say of an operation of deterring every real process via its operational double, a programmatic, metastable, perfectly descriptive machine that offers all the signs of the real and short-circuits all its vicissitudes.
+
+## Simulation
+
+B unterscheidet zwischen *Äußerer Erscheinung* und *Simulation*. Beides bedient sich Bildern, Zeichen, aber bei der Simulation werden diese verinnerlicht. Ein Beispiel ist sich krank zu stellen, in dem man einfach im Bett bleibt, oder simuliert krank zu sein, und tatsächliche Symptome zeigt.
+
+B etabliert einen 4 Stufigen Prozess von Bildern. 
+
+1. Reflexion der Realität
+2. Maskieren der Realität. Sie entartet darstellen.
+3. Die Abwesenheit einer Realität maskieren
+4. Keine Beziehung zu einer Realität. Das Bild als Simulakrum.
+
+Die Vierte Stufe ist die der Simulation. [^1]
+
+[^1]: Das hört sich für mich alles sehr nach den Fünf Skandhas, und den daraus erwachsenen 6 Ebenen des Samsaras, aus dem Mahayana Buddhismus an.
+
+Am kritischsten sieht B des Schritt von 1 nach 2, da der das Einfallstor für [alternative Fakten](https://de.wikipedia.org/wiki/Alternative_Fakten) ist.
+
+> When the real is no longer what it was, nostalgia assumes its full meaning. There is a plethora of myths of origin and of signs of reality - a plethora of truth, of *secondary objectivity*, and authenticity. Escalation of the true, of lived experience, resurrection of the figurative where the object and substance have disappeared.
+
+Schön ist auch diese Beschreibung der Abkehr vom Materialismus und die Suche nach echten Erlebnissen. Die Suche einer Basis in der Realität. Kennt man den Mechanismus der Simulakren nicht kommt Panik auf, da man die falschen Fragen stellt, bzw. die falschen Rückschlüsse aus Beobachtungen zieht.
+
+> Panic-stricken production of the real and of the refrential, parallel to and greater than the panic of material production: this is how simulation appears in the phase that concerns us - a strategy of the real, of the **neoreal** and the hyperreal that everywhere is the double of a strategy of deterrence.
+
+Hier noch ein Beispiel, in dem sich B ein Wort selbstreferezierend verwendet, was es schwierig macht zu verstehen worauf er hinaus will. Vielleicht ist das aber auch Absicht, um den Mechanismus des Simulakrum darzustellen.
+
+> Whereas representation attempts to absorb simulation by interpreting it as a false representation, simulation envelops the whole edifice of representation itself as a simulacrum.
+
+## Ethnologie
+
+B beschreibt die Absurdität der Ethnologie anhand der *Tasaday*, einen bis dato vom modernen Leben unberührten Stamm in den Phillipinen. Die Phillipinische Regierung hat diesen Stamm, auf Anraten der Anthropologen, vor jeglichen Kontakt mit modernen Menschen geschützt. Gefundenes Fressen für B, seine These anzuwenden:
+
+> In order for ethnology to live, its object must die; by dying, the object takes its revenge for being "discovered" and with its death defies the science that wants to grasp it.
+
+Die Tasaday sind also als wertvolles Forschungsobjekt verloren. Jedoch ist dies nur scheinbar ein Opfer, das die Ethnologie im Namen der Wissenschaft erbracht hat. Die Ethnologie braucht die Existenz eines unberührten Naturvolkes als Legitimation ihrer eigenen Existenz.
+
+> It is not a question of sacrifce (science never sacrifces itself, it is always murderous) , but of the simulated sacrifce of its object in order to save its reality principle.
+
+*Untersuchungen* der Wissenschaftler basieren also nur noch auf dem Bild, das sie von den Tasaday haben. Ein Simulation von Wissenschaft. 
+
+Aus der Ethnologie erwächst eine Anti-Ethnologie, die die Bilder vom ursprünglichen Leben in unsere heutige Realität einwebt, mit dem Ziel die unzivilisierte Barbarei zu verdecken (und vielleicht zu rechtfertigen). In dem Zusammenhang ist auch die Geschichte von [Ishi](https://en.wikipedia.org/wiki/Ishi) interessant.
+
+## Disneyland
+
+B argumentiert, das Disneyland eine Simulation dritter Ordnung des *american way of life* ist. 
+
+Es exisitert, um als imaginäres Phantasieland zu verschleiern, dass es die eigentliche Realität ist, die sich in den USA manifestiert hat. Ein *Gegenpol* der dem Rest des Landes *echte* Realität geben soll. 
+
+Disneyland ist eine Manifestation des der Kultur inhärenten Kindlichkeit. B argumentiert, dass das nötig ist um uns glauben zu machen, dass die *Erwachsenen* irgendwo anders sind. Der Fakt, wie kindisch sich alle aufführen (außerhalb von Disneyland) soll verschleiert werden.
+
+B sieht Vergnügnungsparks als Konsequenz der auf hyperrealen Zeichen basierenden Gesellschaft. Die Träume der Kinder, die ja selbst auf Träumen basieren müssen recycelt werden, wenn diese Kinder *erwachsen* werden. Es gibt kein Initiierung in die **echte Welt** mehr.
+
+> Everywhere today one must recycle waste, and the dreams, the phantasms, the historical, fairylike, legendary imaginary of children and adults is a waste product, the frst great toxic excrement of a hyperreal civilization.
+
+## Wissen / Universitäten
+
+B stellt die Frage, welchen Zweck das Wissen, die Universitäten noch verfolgen. Ich denke er bezog sich primär auf die Geisteswissenschaften, da er ja an der Sorbonne studiert hat und später Professor für Soziologie wurde. Die Frage ist aber sicher auch für Naturwissenschaften legitim. Beispiele für mögliche Motivationen naturwissenschaftliches Wissen aufzubauen und anzuwenden, sowie Probleme die daraus erwachsen könnten:
+
+| Motivation | Endgame |
+|---	| ---|
+|Wettrüsten (globale Vormachtstellung | WW3 wird keine Zivilisationen übrig lassen |
+|Gesteigerte Sicherheit für die Bürger | Totale Kontrolle unter dem Deckmantel der Sicherheit. Ende jeglicher Entwicklung, damit auch des Wissens. Selbstzerstörung. |
+|Wirtschaftswachstum, globaler Wohlstand | Zerstört den Planeten. Er hat nur limitierte Ressourcen|.
+| Wissen zum Selbstzweck | Schön wärs |
+|Rettung des Planeten durch neue Technologien | Möglich|
+|Interplanetare Spezies werden | Seems good|
+
+Sollte man neues Wissen ausbauen und anwenden um die Maschinerie auszubremsen? Oder um sie zu beschleunigen?
+
+## Macht, Bedeutung
+
+Wissen ist Macht ist nur ein schlauer Spruch. Macht ist Macht.
+
+> All around us there are nothing but dummies of power, but the mechanical illusion of power still rules the social order, behind which grows the absent, illegible, terror of control, the terror of a definitive code, of which we are the minuscule terminals.
+
+Im System haben sich Mechanismen der Macht etabliert, die ein Eigenleben entwickelt haben. Man kann nach zwar nach Macht suchen, wird aber immer nur Spuren finden. Es ist eine Referenz, eine Erinnerung, ein Simulakrum. 
+
+Mögliche Auswege: 
+- Neu machen. Dann bräuchte man aber echte Macht, einen echten Hebel. Und den will man niemanden mehr zugestehen. 
+
+- Dem System dienen. Sich der Spieltheorie hingeben. Darauf vertrauen, das die selbstregulierenden Mechanismen dem Menschen dienliche sind. 
+
+Wer mit Macht argumentiert, die den Mächtigen genommen werden muss, festigt das Simulakrum von Macht. 
+
+> it is in this tactical universe of the simulacrum that one will need to fight - without hope, hope is a weak value, but in defiance and fascination.
+
+> the phantom of value still floats over the desert of the classical structures of capital, just as the phantom of religion floats over a world now long desacralized, just as the phantom of knowledge floats over the university. It is up to us to again become the nomads of this desert, but disengaged from the mechanical illusion of value.
+
+Etwas hat nur einen Wert, wenn genug Leute daran glauben. Papier, Metall, Wissen, Werte. Breitet sich Subversion aus, werden die Eliten nervös. Vor allem an Universitäten breitet sich die Angst  aus, das Abschlüsse verteilt werden, ohne dass es einen konkreten Gegenwert an Wissen gibt.
+
+## Terror 
+
+> The more hegemonic the system, the more the imagination is struck by the smallest of its reversals. 
+
+Deshalb macht Terrorismus so einen Eindruck auf uns. Deshalb war 9/11 so ein Schock. Aufflimmern einer fast nicht mehr existenten Seite der Medaille von Ordnung und Chaos. Das Chaos wurde aus dem öffentlichen Raum verdrängt. Zumindest bei uns in Mitteleuropa (und Nordamerika). Wir sind frei, sicher, und gleich.
+
+## Fazit 
+
+> There is no more hope for meaning. And without a doubt this is a good thing: meaning is mortal. But that on which it has imposed its ephemeral reign, what it hoped to liquidate in order to impose the reign of the Enlightenment, that is, appearances, they, are immortal, invulnerable to the nihilism of meaning or of nonmeaning itself.
+
+Was sagt B also? Das wir uns auf die Sicherheit der Symbole, der äußerlichen Erscheinungsbilder zurückbesinnen? In ihnen Zuflucht suchen? Damit würden wir versuchen wollen die Strömung der Moderne rückgängig zu machen. Man kann die Zeit aber nicht zurückdrehen, der Fortschritt ist passiert. Gott ist tot, und er bleibt es auch. Wenn man jetzt die Errungenschaften der Moderne zurückdrehen will landet man bei Simulakren, Symbole die nichts mehr bedeuten. Leere Hülsen, die sich auf die Zeit vor der Moderne, bevor man sie durchleuchtet hat, beziehen.
+
+Ich würde B's Denken keines Falls 1:1 übernehmen wollen, es kann aber in seiner Grobheit und Alternativlosigkeit durchaus ein befreiender Einfluss sein. Es ist in der Hinsicht befreiend, das er einen Gedanken nimmt und ihn auf den Grund geht. Ihn weiterspinnt und die Ergebnisse dieses Prozesses nicht weiter hinterfragt. Keine Eventualitäten in Betracht zieht. Einfach den rohen Gedankenprozess zeigt. Er wirkt authentisch darin. Es gibt kein relativierendes Element am Ende, er rast mit Vollgas in den Abgrund. Einen durch Selbstreferenzierung unendlichen, fraktalen Abrund. Das entbehrt nicht einer gewissen Komik.
+
+------------------------
+### Anmerkungen
