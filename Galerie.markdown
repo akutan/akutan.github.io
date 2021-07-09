@@ -18,7 +18,7 @@ figcaption {
   <img class="marginauto" src='/assets/images/waben_klein.png' width="500" style="background:none ; border:none; box-shadow:none"/>
   <figcaption>(Fast) der gesamte Raum ist fragmentiert.</figcaption>
 </figure> </a></p>
-[![]({{'/assets/images/neo_and_the_counselor.png'}}){: .center-image }{:width="700px"}*Neo spricht mit dem Regierungsrat, nachdem er Zion erreicht hat.*]({% post_url 2021-07-07-reality_bubble %})
+[![]({{'/assets/images/neo_and_the_counselor.png'}}){: .center-image }{:width="700px"}*Neo spricht in Zion mit dem Regierungsrat.*]({% post_url 2021-07-07-reality_bubble %})
 [![]({{'/assets/images/Simulakr.jpg'}}){: .center-image }{:width="300px"}*Simulacra and Simulation in Neo's Haushalt*]({% post_url 2021-04-26-s_a_s %})
 [![]({{'/assets/images/MusashiNovel.jpg'}}){: .center-image }{:width="300px"}*Titelbild des Romans Musashi*]({% post_url 2021-02-11-musashi %})
 <style>
