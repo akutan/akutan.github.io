@@ -13,6 +13,21 @@ figcaption {
   text-align: center;
 }
 </style><p>
+<a href="{% post_url 2021-11-26-gewuenschtes_level_an_freiheit %}" title="Redirect to blogpage">
+<figure>
+  <img class="marginauto" src='/assets/images/fluter_tiefer.png' width="250" style="background:none ; border:none; box-shadow:none"/>
+  <figcaption>Inspirierender Gedanke: Täglich tiefer Blicken. Rückseite der aktuellen Fluter, Magazin der Bundeszentrale für politische Bildung
+</figcaption>
+</figure> </a></p>
+<style>
+.marginauto {
+    margin: 10px auto 20px;
+    display: block;
+}
+figcaption {
+  text-align: center;
+}
+</style><p>
 <a href="{% post_url 2021-07-07-reality_bubble %}" title="Redirect to blogpage">
 <figure>
   <img class="marginauto" src='/assets/images/waben_klein.png' width="500" style="background:none ; border:none; box-shadow:none"/>
