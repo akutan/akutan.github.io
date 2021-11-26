@@ -28,7 +28,7 @@ Disclaimer: Ich vermenschliche *das System* im Folgenden teilweise. Das ist ledi
 
 [^1]: Abgrenzen würde ich es lediglich von der objektiven Realität der Erde. Wobei uns dieses Abgrenzen natürlich gerade auf die Füße fällt... Dazu an anderer Stelle mehr. 
 
-Es ist gewollt, das Menschen *das System* verstehen.[^bpb] Selber nach denken, es auf Konsistenz hin untersuchen. Sich politisch bilden und diese Bildung auch anwenden. **Aber in welcher Tiefe ist es gewollt?** Doch wohl nur innerhalb des Systems. Dieses kann nicht wollen das man auch Möglichkeiten bedenkt, die es nicht berücksichtigt. 
+Es ist gewollt, dass Bürger *das System* verstehen.[^bpb] Selber nach denken, es auf Konsistenz hin untersuchen. Sich politisch bilden und diese Bildung auch anwenden. **Aber in welcher Tiefe ist es gewollt?** Doch wohl nur innerhalb des Systems. Dieses kann nicht wollen das man auch Möglichkeiten bedenkt, die es nicht berücksichtigt. 
 
 [^bpb]: Die Bundeszentrale für politische Bildung unterstützt alle interessierten Bürgerinnen und Bürger dabei, sich mit Politik zu befassen. Ihre Aufgabe ist es, Verständnis für politische Sachverhalte zu fördern, das demokratische Bewusstsein zu festigen und die Bereitschaft zur politischen Mitarbeit zu stärken. (https://www.bpb.de/die-bpb)
 
