@@ -24,7 +24,7 @@ figcaption {
 }
 </style>
 
-Disclaimer: Ich vermenschliche *das System* im Folgenden teilweise. Das ist lediglich ein rhetorisches Mittel. Ich glaube explizit nicht, dass das System irgendetwas *wollen* kann. Es sind vielmehr emergente Phänomene die aus der Art wie das System konstruiert wurde, wie es sich entwickelt hat, und vor allem aus dem Zwischenspiel mit den Menschen und Institutionen, die in im Leben, die auf es angewiesen sind und die es teilweise auch ausmachen, hervorgehen.[^1] 
+Disclaimer: Ich vermenschliche *das System* im Folgenden teilweise. Das ist lediglich ein rhetorisches Mittel. Ich glaube explizit nicht, dass das System irgendetwas *wollen* kann. Es sind vielmehr emergente Phänomene die aus der Art wie das System konstruiert wurde, wie es sich entwickelt hat, und vor allem aus dem Zwischenspiel mit den Menschen und Institutionen, die darin Leben, die auf es angewiesen sind und die es teilweise auch ausmachen, hervorgehen.[^1] 
 
 [^1]: Abgrenzen würde ich es lediglich von der objektiven Realität der Erde. Wobei uns dieses Abgrenzen natürlich gerade auf die Füße fällt... Dazu an anderer Stelle mehr. 
 
