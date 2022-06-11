@@ -25,6 +25,6 @@ takuan (at) takuan (punkt) de
 
 {{ site.url }}/feed
 
-Takuan © 2020 - 2021
+Takuan © 2020 - 2022
 
 Bloglayout:   [clean dark theme](https://github.com/streetturtle/jekyll-clean-dark) für [jekyll](https://jekyllrb.com)
