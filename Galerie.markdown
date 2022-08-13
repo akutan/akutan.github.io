@@ -13,6 +13,21 @@ figcaption {
   text-align: center;
 }
 </style><p>
+<a href="{% post_url 2022-07-31-Es-war-einmal-die-realitaet %}" title="Redirect to blogpage">
+<figure>
+  <img class="marginauto" src='/assets/images/es-war-einmal-die-realitaet.png' width="450" style="background:none ; border:none; box-shadow:none"/>
+  <figcaption>
+</figcaption>
+</figure> </a></p>
+<style>
+.marginauto {
+    margin: 10px auto 20px;
+    display: block;
+}
+figcaption {
+  text-align: center;
+}
+</style><p>
 <a href="{% post_url 2022-04-24-everyone-wants-to-go-to-heaven %}" title="Redirect to blogpage">
 <figure>
   <img class="marginauto" src='/assets/images/heaven.png' width="450" style="background:none ; border:none; box-shadow:none"/>

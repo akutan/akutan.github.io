@@ -40,3 +40,7 @@ Betrachtet man im zweiten Ansatz den liberalen Humanismus als Model, das aktuell
 Konsistenz und Nichtambiguität im Wertesystem scheinen illusorisch. Aber wer fordert es überhaupt? Auf welcher Grundlage kann man im (neo[^3]) liberalen Humanismus solch eine Konsistenz fordern? Zeitgemäßer wäre es sich auch von solchen Ansprüchen zu befreien. Wohin bleibt offen. Genau diese Offenheit ist die positive Freiheit, die auch die Richtung in der ersten aufgezeichneten Option ist. 
 
 [^3]: Vor allem in der Wiederauflage scheint es nicht nötig, da achtet man ja logischerweise nicht so auf das Fundament, man bezieht sich auf das bestehende Konstrukt.
+
+------------------------
+### Anmerkungen
+
