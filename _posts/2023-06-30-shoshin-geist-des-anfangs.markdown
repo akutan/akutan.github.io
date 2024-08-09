@@ -40,7 +40,7 @@ Die Begeisterung kommt nicht aus dem Kopf. Sie hat ihren Ursprung zwischen Herz 
 
 ### Beispiel 1:
 
-> Wir sind eine Horde nakter Affen, die ohne Aufsicht auf einem organischen Raumschiff um die Sonne fliegt. Zufällig haben wir gelernt die Molkülstruktur von Materie zu verändern. Ermöglicht wird unsere unbeschwerte Existenz durch einen elektromagnetischen Schutzschild, der durch Strömungen flüssigen Metals im Kern unserer Erde erzeugt wird. Er schützt uns vor der tödlichen Strahlung der Sonne. Wir stehen konstant im Stoffwechselaustausch mit einer unsichtbaren Schicht um unseren Planeten, der Atmosphäre. Sie schützt uns auch vor kleineren Meteoriten, die sonst ungebremst hier einschlagen würden. Unsere Sonne selber kreist um ein schwarzes Loch im Zentrum unserer Galaxy, das alles was ihm zu Nahe kommt, sogar Licht, in sich bindet. 
+> Wir sind eine Horde nakter Affen, die ohne Aufsicht auf einem organischen Raumschiff um die Sonne fliegt. Zufällig haben wir gelernt die Molekülstruktur von Materie zu verändern. Ermöglicht wird unsere unbeschwerte Existenz durch einen elektromagnetischen Schutzschild, der durch Strömungen flüssigen Metals im Kern unserer Erde erzeugt wird. Er schützt uns vor der tödlichen Strahlung der Sonne. Wir stehen konstant im Stoffwechselaustausch mit einer unsichtbaren Schicht um unseren Planeten, der Atmosphäre. Sie schützt uns auch vor kleineren Meteoriten, die sonst ungebremst hier einschlagen würden. Unsere Sonne selber kreist um ein schwarzes Loch im Zentrum unserer Galaxy, das alles was ihm zu Nahe kommt, sogar Licht, in sich bindet. 
 Es gab auch mal Dinosaurier, tonnenschwere Echsenwesen, die genau hier unterwegs waren. Jetzt sind sie Erdöl.
 
 ### Shoshin in der Wissenschaft:
@@ -50,19 +50,14 @@ Das ist Shoshin in der (Natur) Wissenschaft. Das Bewusstsein, dass man eigentlic
 Der Unterschied zwischen Spielen und Forschen ist nur, dass man aufschreibt was man macht und beobachtet.
 Das reine Bild der Wissenschaft hat *Wissen um des Wissens willen* als Kernidee. Das ist Antrieb für viele Wissenschaftler.
 
-Die Befürchtung steht im Raum, dass das in der Postmoderne zu einem Simulacrum geworden ist. Eine Kopie ohne Original. Auch wenn man sich gedanklich von den Windungen der Postmoderne verabschiedet hat, so sollte man den eleganten Mechanismus der unendlichen selbstreferenzierung nicht vergessen. 
+Die Befürchtung steht im Raum, dass das in der Postmoderne zu einem Simulakrum geworden ist. Eine Kopie ohne Original. Auch wenn man sich gedanklich von den Windungen der Postmoderne verabschiedet hat sollte man den eleganten Mechanismus der unendlichen Selbstreferenzierung nicht vergessen. 
 
 ### Einen Pfad beschreiten
 
 Wie geht man am besten vor wenn man einen Pfad längere Zeit beschreiten will? Ein Karriere oder ein Wissensgebiet. Eine Familie oder eine politische Agenda. Erstmal gibt es eine Unzufriedenheit, das Gefühl dass etwas nicht passt. Eine Motivation etwas zu tun. Erforscht man wo dieses mulmige Gefühl herkommt landet man bei überraschenden, erschreckenden oder absurd komischen Stellen. Alle 3 sind ein Hinderniss weiterzugehen. 
 1. Die Überraschenden Erkenntnisse muss man vom Thron der Erkentniss nehmen und ins normale Weltbild einbauen, dann kann man normal weitergehen. 
-2. Um mit den erschreckenden beängstigenden Umzugehen muss man Mut kultivieren. Oder akzeptieren das dieses Pfade tatsächlich gefährlich sind und sie umgehen.
+2. Um mit den erschreckenden beängstigenden umzugehen muss man Mut kultivieren. Oder akzeptieren, dass diese Pfade tatsächlich gefährlich sind und sie umgehen.
 3. Wie ist es mit dem Humor? Wenn etwas tatsächlich witzig ist, kann man sich zwingen es ernst zu nehmen?
 
 Was man in der Welt sieht, was einen inspiriert sind nicht die Kernideen selbst, sondern die Früchte die aus ihnen entstehen. Was der Kern ist ist nicht immer klar. Kopiert man das Äußere, gibt es keine Verbindung zum inneren. --> Postmoderne / Simulakrum. 
 Tätowierungen sind Mainstream geworden, oft zeigen Menschen mit ihnen was sich in ihrem Kern befindet.
-
-
-------------------------
-### Anmerkungen
-
