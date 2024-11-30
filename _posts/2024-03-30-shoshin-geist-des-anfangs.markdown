@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Shoshin - Geist des Anfangs"
-date:   2023-06-30 06:39:00 +0200
+date:   2024-03-30 06:39:00 +0200
 categories: sprichwort
 tags: zen ideen postmoderne
 description: Besinnung auf den Geist des Anfangs

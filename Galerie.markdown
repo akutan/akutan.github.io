@@ -39,6 +39,7 @@ figcaption {
   <img class="marginauto" src='/assets/images/450px-Challenge_vs_skill.svg_white.png' width="400" style="background:none ; border:none; box-shadow:none"/>
   <figcaption>Aufschlussreiches Diagramm, zu welchen Zuständen verschiedene Paarungen von Herausforderung und Fähigkeit führen. Quelle: Wikipedia</figcaption>
 </figure> </a></p>
+[![]({{'/assets/images/einfluss-einzelner.jpg'}}){: .center-image }{:width="500px"}*Einfluss Einzelner*]({% post_url 2024-11-30-Einfluss_einzelner %})
 <style>
 .marginauto {
     margin: 10px auto 20px;
@@ -170,6 +171,21 @@ figcaption {
 [![]({{'/assets/images/leere_search.jpg'}}){: .center-image }{:width="400px"}*Herausfordern der Leere*]({% post_url 2020-08-24-leere %})
 [![]({{'/assets/images/leere_versteckt.jpg'}}){: .center-image }{:width="200px"}*Leere verstecken*]({% post_url 2020-08-24-leere %})
 [![]({{'/assets/images/leere.jpg'}}){: .center-image }{:width="500px"}*Künstler: Aaron Diaz (http://dresdencodak.com)*]({% post_url 2020-08-24-leere %})
+<style>
+.marginauto {
+    margin: 10px auto 20px;
+    display: block;
+}
+figcaption {
+  text-align: center;
+}
+</style><p>
+<a href="{% post_url 2024-03-30-shoshin-geist-des-anfangs %}" title="Redirect to blogpage">
+<figure>
+  <img class="marginauto" src='/assets/images/shoshin.png' width="300" style="background:none ; border:none; box-shadow:none"/>
+  <figcaption>
+</figcaption>
+</figure> </a></p>
 [![img]({{'/assets/images/Chinas_Social_Point_System.jpg' | relative_url }}){: .center-image }{:width="250px"}*Chinas "social credit system"*]({% post_url 2020-10-08-angst %})
 <style>
 .marginauto {
@@ -309,6 +325,7 @@ figcaption {
 </figure> </a></p>
 [![]({{'/assets/images/aufgebent.jpg'}}){: .center-image }{:width="500px"}*Aufgeben*]({% post_url 2024-06-03-Aufgeben %})
 [![]({{'/assets/images/pfad.jpg'}}){: .center-image }{:width="300px"}*Einen Pfad beschreiten*]({% post_url 2020-08-23-der-weg-zum-wissen %})
+[![]({{'/assets/images/leiden.jpg'}}){: .center-image }{:width="500px"}*Leiden*]({% post_url 2024-06-26-Leiden %})
 [![]({{'/assets/images/carljung.jpg'}}){: .center-image }{:width="300px"}*We cannot change anything unless we accept it. Condemnation does not liberate; it oppresses. --Carl Jung*]({% post_url 2020-08-28-warum-sind-drogen-verboten %})
 [![]({{'/assets/images/bamboozle.jpg'}}){: .center-image }{:width="300px"}*Karte aus Grainstore Gallery Omaru*]({% post_url 2020-08-28-warum-sind-drogen-verboten %})
 <style>
@@ -328,19 +345,4 @@ figcaption {
 [![]({{'/assets/images/ebenen_pastell.jpg'}}){: .center-image }{:width="400px"}*Verschiedene Ebenen in Pastellkreide*]({% post_url 2020-08-29-denken-im-zen %})
 [![]({{'/assets/images/himmelueberberlin.jpg'}}){: .center-image }{:width="500px"}*Der Himmel über Berlin von Wim Wenders*]({% post_url 2020-09-10-himmel-ueber-berlin %})
 [![]({{'/assets/images/Im_thinking_of_ending_things.jpg'}}){: .center-image }{:width="500px"}*i'm thinking of ending things*]({% post_url 2020-11-22-im-thinking-of-ending-things %})
-<style>
-.marginauto {
-    margin: 10px auto 20px;
-    display: block;
-}
-figcaption {
-  text-align: center;
-}
-</style><p>
-<a href="{% post_url 2023-06-30-shoshin-geist-des-anfangs %}" title="Redirect to blogpage">
-<figure>
-  <img class="marginauto" src='/assets/images/shoshin.png' width="300" style="background:none ; border:none; box-shadow:none"/>
-  <figcaption>
-</figcaption>
-</figure> </a></p>
 [![]({{'/assets/images/Simulakr.jpg'}}){: .center-image }{:width="300px"}*Simulacra and Simulation in Neo's Haushalt*]({% post_url 2021-04-26-s_a_s %})
