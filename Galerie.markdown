@@ -202,6 +202,7 @@ figcaption {
   <figcaption>Paranoia</figcaption>
 </figure> </a></p>
 [![]({{'/assets/images/selektive_aufnahme_informationen.jpg'}}){: .center-image }{:width="500px"}*Selektive Aufnahme von Informationen.*]({% post_url 2020-10-08-angst %})
+[![]({{'/assets/images/exil-rueckkehr.png'}}){: .center-image }{:width="500px"}*Exil, Karthasis und Rückkehr*]({% post_url 2025-06-29-Exil %})
 <style>
 .marginauto {
     margin: 10px auto 20px;
