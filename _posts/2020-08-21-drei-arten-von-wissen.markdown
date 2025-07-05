@@ -16,7 +16,7 @@ Ideen oder Informationen haben einen Lebenszyklus sobald das Subjekt mit ihnen i
 2. Die Erkenntniss zu der man selbst nach Reflexion über die Information gelangt ist.
 3. Die eigene Erfahrung der Idee.
 
-![]({{'/assets/images/three_states.jpg'}}){: .center-image }{:width="400px"}*Drei Stufen des Wissens*
+![]({{'/assets/images/three_states.png'}}){: .center-image }{:width="400px"}*Drei Stufen des Wissens*
 
 
 Es hängt von der individuellen Offenheit der Person ab, wie viele neue Ideen sie registriert. Hyper-sensible Menschen finden sich im normalen Leben einen regelrechten Bombardement an Ideen ausgesetzt und verspüren oft den Wunsch sich dessen zu entziehen. Zumindest wenn zu diesem Zeitpunkt anderen Ideen 'in Verarbeitung' sind, d.h. auf den Weg zu Stufe 3. Ist die Pipeline frei suchen sie durchaus neue Ideen.
