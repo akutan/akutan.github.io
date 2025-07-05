@@ -18,7 +18,7 @@ figcaption {
   <img class="marginauto" src='/assets/images/hungry_mind.png' width="400" style="background:none ; border:none; box-shadow:none"/>
   <figcaption>Hunger nach neuen Ideen</figcaption>
 </figure> </a></p>
-[![]({{'/assets/images/three_states.jpg'}}){: .center-image }{:width="400px"}*Drei Stufen des Wissens*]({% post_url 2020-08-21-drei-arten-von-wissen %})
+[![]({{'/assets/images/three_states.png'}}){: .center-image }{:width="400px"}*Drei Stufen des Wissens*]({% post_url 2020-08-21-drei-arten-von-wissen %})
 <style>
 .marginauto {
     margin: 10px auto 20px;
