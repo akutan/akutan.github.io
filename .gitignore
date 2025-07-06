@@ -2,4 +2,4 @@ _cache
 _site
 .idea/
 .jekyll-cache
-.DS_Store
+*.DS_Store
