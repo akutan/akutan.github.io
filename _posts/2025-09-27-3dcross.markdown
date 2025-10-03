@@ -1,0 +1,188 @@
+---
+layout: post
+title:  "3D Kreuz mit Verbindungen"
+date:   2025-09-27 10:00:00 +0200
+categories: Kunst
+tags: 3D
+description: Dreidimensionales Kreuz mit Verbindungen
+---
+
+<div class="info">
+    <p style="color: #666; text-align: center; margin-bottom: 20px;">Drag to rotate • Mouse wheel to zoom</p>
+</div>
+
+<div id="sketch-container"></div>
+
+<style>
+    #sketch-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 50vh;
+        margin: 20px 0;
+        background-color: transparent;
+    }
+    .info {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+</style>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.7.0/p5.min.js"></script>
+<script>
+    // Symmetrical 3D cross with diagonal connections
+    // Each diagonal subdivided into 10 points
+    // From each subdivision point: lines to both ± orthogonal arms
+    // Opposite diagonals share the same color (4 in total)
+    
+    let L = 120;
+    let pts = [];
+    let edges = [];
+    let N = 40;
+    let rotX = 0, rotY = 0;
+    let lastMouseX, lastMouseY;
+    let zoom = 0;
+    let autoRotate = true;
+    let lastInteractionTime = 0;
+    
+    // 4 symmetric colors
+    let diagColors = [];
+    
+    function setup() {
+        let canvas = createCanvas(600, 450, WEBGL);
+        canvas.parent('sketch-container');
+        
+        // Initialize colors
+        diagColors = [
+            color(255, 100, 100),   // red
+            color(100, 255, 120),   // green
+            color(120, 150, 255),   // blue
+            color(255, 220, 120)    // yellow
+        ];
+        
+        // endpoints: ±X, ±Y, ±Z
+        pts = [
+            createVector(L, 0, 0),
+            createVector(-L, 0, 0),
+            createVector(0, L, 0),
+            createVector(0, -L, 0),
+            createVector(0, 0, L),
+            createVector(0, 0, -L)
+        ];
+        
+        // orthogonal diagonals
+        edges = [];
+        for (let i = 0; i < pts.length; i++) {
+            for (let j = i + 1; j < pts.length; j++) {
+                if (abs(p5.Vector.dot(pts[i], pts[j])) < 0.001) {
+                    edges.push([i, j]);
+                }
+            }
+        }
+    }
+    
+    function draw() {
+        background(40, 40, 40); // Match your dark theme background
+        
+        // Auto-rotate if no recent interaction (resume after 2 seconds)
+        if (millis() - lastInteractionTime > 2000) {
+            autoRotate = true;
+        }
+        
+        if (autoRotate) {
+            rotY += TWO_PI / 600; // 0.1 Hz rotation (one rotation every 10 seconds)
+        }
+        
+        // Apply transformations
+        translate(0, 0, -50 + zoom);
+        rotateX(rotX);
+        rotateY(rotY);
+        
+        // draw arms
+        strokeWeight(5);
+        stroke(0, 0, 0);
+        for (let p of pts) {
+            line(0, 0, 0, p.x, p.y, p.z);
+        }
+        
+        // draw diagonals + connectors
+        strokeWeight(0.45);
+        for (let idx = 0; idx < edges.length; idx++) {
+            let e = edges[idx];
+            let a = pts[e[0]];
+            let b = pts[e[1]];
+            let c = diagColors[floor(idx / 3) % diagColors.length]; // 12 diagonals → 4 colors
+            
+            // diagonal
+            stroke(c);
+            line(a.x, a.y, a.z, b.x, b.y, b.z);
+            
+            // subdivisions
+            for (let i = 0; i <= N; i++) {
+                let t = i / N;
+                let dpt = p5.Vector.lerp(a, b, t);
+                
+                // which axis is orthogonal?
+                let axis = -1;
+                if (abs(a.x) < 0.001 && abs(b.x) < 0.001) axis = 0;
+                else if (abs(a.y) < 0.001 && abs(b.y) < 0.001) axis = 1;
+                else if (abs(a.z) < 0.001 && abs(b.z) < 0.001) axis = 2;
+                
+                // connect to both ± arms symmetrically
+                let u = i / N;
+                let armPos, armNeg;
+                if (axis == 0) {
+                    armPos = createVector(L * u, 0, 0);
+                    armNeg = createVector(-L * u, 0, 0);
+                }
+                else if (axis == 1) {
+                    armPos = createVector(0, L * u, 0);
+                    armNeg = createVector(0, -L * u, 0);
+                }
+                else {
+                    armPos = createVector(0, 0, L * u);
+                    armNeg = createVector(0, 0, -L * u);
+                }
+                
+                stroke(c);
+                line(dpt.x, dpt.y, dpt.z, armPos.x, armPos.y, armPos.z);
+                line(dpt.x, dpt.y, dpt.z, armNeg.x, armNeg.y, armNeg.z);
+            }
+        }
+        
+        // Overlay text
+        push();
+        // Reset transformations for 2D text overlay
+        camera();
+        fill(255);
+        textSize(12);
+        textAlign(LEFT, TOP);
+        text("Drag = rotate, Mouse wheel = zoom", -width/2 + 10, -height/2 + 10);
+        pop();
+    }
+    
+    function mousePressed() {
+        lastMouseX = mouseX;
+        lastMouseY = mouseY;
+        autoRotate = false;
+        lastInteractionTime = millis();
+    }
+    
+    function mouseDragged() {
+        if (mouseX >= 0 && mouseX <= width && mouseY >= 0 && mouseY <= height) {
+            autoRotate = false;
+            lastInteractionTime = millis();
+            let dx = (mouseX - lastMouseX) * 0.01;
+            let dy = (mouseY - lastMouseY) * 0.01;
+            rotY += dx;
+            rotX += dy;
+            lastMouseX = mouseX;
+            lastMouseY = mouseY;
+        }
+    }
+    
+    function mouseWheel(event) {
+        zoom += event.delta * 5;
+        return false; // prevent page scrolling
+    }
+</script>
