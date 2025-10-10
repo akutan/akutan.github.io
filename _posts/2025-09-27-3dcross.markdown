@@ -8,13 +8,15 @@ description: Dreidimensionales Kreuz mit Verbindungen
 ---
 
 <div class="info">
-    <p style="color: #666; text-align: center; margin-bottom: 20px;">Drag to rotate • Mouse wheel to zoom</p>
+    <p style="color: #666; text-align: center; margin-bottom: 20px;">Drag to rotate • Mouse wheel to zoom. Erst eine, dann zwei, dann drei Ebenen</p>
 </div>
 
 <div id="sketch-container"></div>
+<div id="sketch-container2"></div>
+<div id="sketch-container3"></div>
 
 <style>
-    #sketch-container {
+    #sketch-container, #sketch-container2, #sketch-container3 {
         display: flex;
         justify-content: center;
         align-items: center;
@@ -30,159 +32,494 @@ description: Dreidimensionales Kreuz mit Verbindungen
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.7.0/p5.min.js"></script>
 <script>
-    // Symmetrical 3D cross with diagonal connections
-    // Each diagonal subdivided into 10 points
-    // From each subdivision point: lines to both ± orthogonal arms
-    // Opposite diagonals share the same color (4 in total)
-    
-    let L = 120;
-    let pts = [];
-    let edges = [];
-    let N = 40;
-    let rotX = 0, rotY = 0;
-    let lastMouseX, lastMouseY;
-    let zoom = 0;
-    let autoRotate = true;
-    let lastInteractionTime = 0;
-    
-    // 4 symmetric colors
-    let diagColors = [];
-    
-    function setup() {
-        let canvas = createCanvas(600, 450, WEBGL);
-        canvas.parent('sketch-container');
+    // First sketch - YZ plane diagonals only
+    let sketch1 = function(p) {
+        let L = 120;
+        let pts = [];
+        let edges = [];
+        let N = 40;
+        let rotX = 0, rotY = 0;
+        let lastMouseX, lastMouseY;
+        let zoom = 0;
+        let autoRotate = true;
+        let lastInteractionTime = 0;
+        let diagColors = [];
         
-        // Initialize colors
-        diagColors = [
-            color(255, 100, 100),   // red
-            color(100, 255, 120),   // green
-            color(120, 150, 255),   // blue
-            color(255, 220, 120)    // yellow
-        ];
-        
-        // endpoints: ±X, ±Y, ±Z
-        pts = [
-            createVector(L, 0, 0),
-            createVector(-L, 0, 0),
-            createVector(0, L, 0),
-            createVector(0, -L, 0),
-            createVector(0, 0, L),
-            createVector(0, 0, -L)
-        ];
-        
-        // orthogonal diagonals
-        edges = [];
-        for (let i = 0; i < pts.length; i++) {
-            for (let j = i + 1; j < pts.length; j++) {
-                if (abs(p5.Vector.dot(pts[i], pts[j])) < 0.001) {
-                    edges.push([i, j]);
+        p.setup = function() {
+            let canvas = p.createCanvas(600, 450, p.WEBGL);
+            canvas.parent('sketch-container');
+            
+            diagColors = [
+                p.color(255, 100, 100),
+                p.color(100, 255, 120),
+                p.color(120, 150, 255),
+                p.color(255, 220, 120)
+            ];
+            
+            pts = [
+                p.createVector(L, 0, 0),
+                p.createVector(-L, 0, 0),
+                p.createVector(0, L, 0),
+                p.createVector(0, -L, 0),
+                p.createVector(0, 0, L),
+                p.createVector(0, 0, -L)
+            ];
+            
+            edges = [];
+            for (let i = 0; i < pts.length; i++) {
+                for (let j = i + 1; j < pts.length; j++) {
+                    if (p.abs(p5.Vector.dot(pts[i], pts[j])) < 0.001) {
+                        if (p.abs(pts[i].x) < 0.001 && p.abs(pts[j].x) < 0.001) {
+                            if (pts[i].y < pts[j].y || (p.abs(pts[i].y - pts[j].y) < 0.001 && pts[i].z < pts[j].z)) {
+                                edges.push([i, j]);
+                            } else {
+                                edges.push([j, i]);
+                            }
+                        }
+                    }
                 }
             }
         }
-    }
-    
-    function draw() {
-        background(40, 40, 40); // Match your dark theme background
         
-        // Auto-rotate if no recent interaction (resume after 2 seconds)
-        if (millis() - lastInteractionTime > 2000) {
-            autoRotate = true;
-        }
-        
-        if (autoRotate) {
-            rotY += TWO_PI / 600; // 0.1 Hz rotation (one rotation every 10 seconds)
-        }
-        
-        // Apply transformations
-        translate(0, 0, -50 + zoom);
-        rotateX(rotX);
-        rotateY(rotY);
-        
-        // draw arms
-        strokeWeight(5);
-        stroke(0, 0, 0);
-        for (let p of pts) {
-            line(0, 0, 0, p.x, p.y, p.z);
-        }
-        
-        // draw diagonals + connectors
-        strokeWeight(0.45);
-        for (let idx = 0; idx < edges.length; idx++) {
-            let e = edges[idx];
-            let a = pts[e[0]];
-            let b = pts[e[1]];
-            let c = diagColors[floor(idx / 3) % diagColors.length]; // 12 diagonals → 4 colors
+        p.draw = function() {
+            p.background(40, 40, 40);
             
-            // diagonal
-            stroke(c);
-            line(a.x, a.y, a.z, b.x, b.y, b.z);
+            if (p.millis() - lastInteractionTime > 2000) {
+                autoRotate = true;
+            }
             
-            // subdivisions
-            for (let i = 0; i <= N; i++) {
-                let t = i / N;
-                let dpt = p5.Vector.lerp(a, b, t);
+            if (autoRotate) {
+                rotY += p.TWO_PI / 2400;
+            }
+            
+            p.translate(0, 0, -50 + zoom);
+            p.rotateX(rotX);
+            p.rotateY(rotY);
+            
+            p.strokeWeight(5);
+            p.stroke(0, 0, 0);
+            for (let pt of pts) {
+                p.line(0, 0, 0, pt.x, pt.y, pt.z);
+            }
+            
+            p.strokeWeight(0.45);
+            for (let idx = 0; idx < edges.length; idx++) {
+                let e = edges[idx];
+                let a = pts[e[0]];
+                let b = pts[e[1]];
+                let c = diagColors[idx];
                 
-                // which axis is orthogonal?
-                let axis = -1;
-                if (abs(a.x) < 0.001 && abs(b.x) < 0.001) axis = 0;
-                else if (abs(a.y) < 0.001 && abs(b.y) < 0.001) axis = 1;
-                else if (abs(a.z) < 0.001 && abs(b.z) < 0.001) axis = 2;
+                p.stroke(c);
+                p.line(a.x, a.y, a.z, b.x, b.y, b.z);
                 
-                // connect to both ± arms symmetrically
-                let u = i / N;
-                let armPos, armNeg;
-                if (axis == 0) {
-                    armPos = createVector(L * u, 0, 0);
-                    armNeg = createVector(-L * u, 0, 0);
+                for (let i = 0; i <= N; i++) {
+                    let t = i / N;
+                    let dpt = p5.Vector.lerp(a, b, t);
+                    
+                    let axis = -1;
+                    if (p.abs(a.x) < 0.001 && p.abs(b.x) < 0.001) axis = 0;
+                    else if (p.abs(a.y) < 0.001 && p.abs(b.y) < 0.001) axis = 1;
+                    else if (p.abs(a.z) < 0.001 && p.abs(b.z) < 0.001) axis = 2;
+                    
+                    let u = i / N;
+                    let armPos, armNeg;
+                    
+                    if (axis == 0) {
+                        armPos = p.createVector(L * u, 0, 0);
+                        armNeg = p.createVector(-L * u, 0, 0);
+                    }
+                    else if (axis == 1) {
+                        armPos = p.createVector(0, L * u, 0);
+                        armNeg = p.createVector(0, -L * u, 0);
+                    }
+                    else {
+                        armPos = p.createVector(0, 0, L * u);
+                        armNeg = p.createVector(0, 0, -L * u);
+                    }
+                    
+                    p.stroke(c);
+                    p.line(dpt.x, dpt.y, dpt.z, armPos.x, armPos.y, armPos.z);
+                    p.line(dpt.x, dpt.y, dpt.z, armNeg.x, armNeg.y, armNeg.z);
                 }
-                else if (axis == 1) {
-                    armPos = createVector(0, L * u, 0);
-                    armNeg = createVector(0, -L * u, 0);
-                }
-                else {
-                    armPos = createVector(0, 0, L * u);
-                    armNeg = createVector(0, 0, -L * u);
-                }
-                
-                stroke(c);
-                line(dpt.x, dpt.y, dpt.z, armPos.x, armPos.y, armPos.z);
-                line(dpt.x, dpt.y, dpt.z, armNeg.x, armNeg.y, armNeg.z);
+            }
+            
+            p.push();
+            p.camera();
+            p.fill(255);
+            p.textSize(12);
+            p.textAlign(p.LEFT, p.TOP);
+            p.text("YZ plane", -p.width/2 + 10, -p.height/2 + 10);
+            p.pop();
+        }
+        
+        p.mousePressed = function() {
+            if (p.mouseX >= 0 && p.mouseX <= p.width && p.mouseY >= 0 && p.mouseY <= p.height) {
+                lastMouseX = p.mouseX;
+                lastMouseY = p.mouseY;
+                autoRotate = false;
+                lastInteractionTime = p.millis();
             }
         }
         
-        // Overlay text
-        push();
-        // Reset transformations for 2D text overlay
-        camera();
-        fill(255);
-        textSize(12);
-        textAlign(LEFT, TOP);
-        text("Drag = rotate, Mouse wheel = zoom", -width/2 + 10, -height/2 + 10);
-        pop();
-    }
-    
-    function mousePressed() {
-        lastMouseX = mouseX;
-        lastMouseY = mouseY;
-        autoRotate = false;
-        lastInteractionTime = millis();
-    }
-    
-    function mouseDragged() {
-        if (mouseX >= 0 && mouseX <= width && mouseY >= 0 && mouseY <= height) {
-            autoRotate = false;
-            lastInteractionTime = millis();
-            let dx = (mouseX - lastMouseX) * 0.01;
-            let dy = (mouseY - lastMouseY) * 0.01;
-            rotY += dx;
-            rotX += dy;
-            lastMouseX = mouseX;
-            lastMouseY = mouseY;
+        p.mouseDragged = function() {
+            if (p.mouseX >= 0 && p.mouseX <= p.width && p.mouseY >= 0 && p.mouseY <= p.height) {
+                autoRotate = false;
+                lastInteractionTime = p.millis();
+                let dx = (p.mouseX - lastMouseX) * 0.01;
+                let dy = (p.mouseY - lastMouseY) * 0.01;
+                rotY += dx;
+                rotX += dy;
+                lastMouseX = p.mouseX;
+                lastMouseY = p.mouseY;
+            }
         }
-    }
+        
+        p.mouseWheel = function(event) {
+            if (p.mouseX >= 0 && p.mouseX <= p.width && p.mouseY >= 0 && p.mouseY <= p.height) {
+                zoom += event.delta * 5;
+                return false;
+            }
+        }
+    };
     
-    function mouseWheel(event) {
-        zoom += event.delta * 5;
-        return false; // prevent page scrolling
-    }
+    // Second sketch - YZ + XZ planes
+    let sketch2 = function(p) {
+        let L = 120;
+        let pts = [];
+        let edges = [];
+        let N = 40;
+        let rotX = 0, rotY = 0;
+        let lastMouseX, lastMouseY;
+        let zoom = 0;
+        let autoRotate = true;
+        let lastInteractionTime = 0;
+        let diagColors = [];
+        
+        p.setup = function() {
+            let canvas = p.createCanvas(600, 450, p.WEBGL);
+            canvas.parent('sketch-container2');
+            
+            diagColors = [
+                p.color(255, 100, 100),
+                p.color(100, 255, 120),
+                p.color(120, 150, 255),
+                p.color(255, 220, 120),
+                p.color(255, 150, 200),
+                p.color(150, 255, 255),
+                p.color(200, 150, 255),
+                p.color(255, 200, 100)
+            ];
+            
+            pts = [
+                p.createVector(L, 0, 0),
+                p.createVector(-L, 0, 0),
+                p.createVector(0, L, 0),
+                p.createVector(0, -L, 0),
+                p.createVector(0, 0, L),
+                p.createVector(0, 0, -L)
+            ];
+            
+            edges = [];
+            for (let i = 0; i < pts.length; i++) {
+                for (let j = i + 1; j < pts.length; j++) {
+                    if (p.abs(p5.Vector.dot(pts[i], pts[j])) < 0.001) {
+                        let isYZ = p.abs(pts[i].x) < 0.001 && p.abs(pts[j].x) < 0.001;
+                        let isXZ = p.abs(pts[i].y) < 0.001 && p.abs(pts[j].y) < 0.001;
+                        
+                        if (isYZ) {
+                            if (pts[i].y < pts[j].y || (p.abs(pts[i].y - pts[j].y) < 0.001 && pts[i].z < pts[j].z)) {
+                                edges.push([i, j]);
+                            } else {
+                                edges.push([j, i]);
+                            }
+                        } else if (isXZ) {
+                            if (pts[i].x < pts[j].x || (p.abs(pts[i].x - pts[j].x) < 0.001 && pts[i].z < pts[j].z)) {
+                                edges.push([i, j]);
+                            } else {
+                                edges.push([j, i]);
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        
+        p.draw = function() {
+            p.background(40, 40, 40);
+            
+            if (p.millis() - lastInteractionTime > 2000) {
+                autoRotate = true;
+            }
+            
+            if (autoRotate) {
+                rotY += p.TWO_PI / 2400;
+            }
+            
+            p.translate(0, 0, -50 + zoom);
+            p.rotateX(rotX);
+            p.rotateY(rotY);
+            
+            p.strokeWeight(5);
+            p.stroke(0, 0, 0);
+            for (let pt of pts) {
+                p.line(0, 0, 0, pt.x, pt.y, pt.z);
+            }
+            
+            p.strokeWeight(0.45);
+            for (let idx = 0; idx < edges.length; idx++) {
+                let e = edges[idx];
+                let a = pts[e[0]];
+                let b = pts[e[1]];
+                let c = diagColors[idx];
+                
+                p.stroke(c);
+                p.line(a.x, a.y, a.z, b.x, b.y, b.z);
+                
+                for (let i = 0; i <= N; i++) {
+                    let t = i / N;
+                    let dpt = p5.Vector.lerp(a, b, t);
+                    
+                    let axis = -1;
+                    if (p.abs(a.x) < 0.001 && p.abs(b.x) < 0.001) axis = 0;
+                    else if (p.abs(a.y) < 0.001 && p.abs(b.y) < 0.001) axis = 1;
+                    else if (p.abs(a.z) < 0.001 && p.abs(b.z) < 0.001) axis = 2;
+                    
+                    let u = i / N;
+                    let armPos, armNeg;
+                    
+                    if (axis == 0) {
+                        armPos = p.createVector(L * u, 0, 0);
+                        armNeg = p.createVector(-L * u, 0, 0);
+                    }
+                    else if (axis == 1) {
+                        armPos = p.createVector(0, L * u, 0);
+                        armNeg = p.createVector(0, -L * u, 0);
+                    }
+                    else {
+                        armPos = p.createVector(0, 0, L * u);
+                        armNeg = p.createVector(0, 0, -L * u);
+                    }
+                    
+                    p.stroke(c);
+                    p.line(dpt.x, dpt.y, dpt.z, armPos.x, armPos.y, armPos.z);
+                    p.line(dpt.x, dpt.y, dpt.z, armNeg.x, armNeg.y, armNeg.z);
+                }
+            }
+            
+            p.push();
+            p.camera();
+            p.fill(255);
+            p.textSize(12);
+            p.textAlign(p.LEFT, p.TOP);
+            p.text("YZ + XZ planes", -p.width/2 + 10, -p.height/2 + 10);
+            p.pop();
+        }
+        
+        p.mousePressed = function() {
+            if (p.mouseX >= 0 && p.mouseX <= p.width && p.mouseY >= 0 && p.mouseY <= p.height) {
+                lastMouseX = p.mouseX;
+                lastMouseY = p.mouseY;
+                autoRotate = false;
+                lastInteractionTime = p.millis();
+            }
+        }
+        
+        p.mouseDragged = function() {
+            if (p.mouseX >= 0 && p.mouseX <= p.width && p.mouseY >= 0 && p.mouseY <= p.height) {
+                autoRotate = false;
+                lastInteractionTime = p.millis();
+                let dx = (p.mouseX - lastMouseX) * 0.01;
+                let dy = (p.mouseY - lastMouseY) * 0.01;
+                rotY += dx;
+                rotX += dy;
+                lastMouseX = p.mouseX;
+                lastMouseY = p.mouseY;
+            }
+        }
+        
+        p.mouseWheel = function(event) {
+            if (p.mouseX >= 0 && p.mouseX <= p.width && p.mouseY >= 0 && p.mouseY <= p.height) {
+                zoom += event.delta * 5;
+                return false;
+            }
+        }
+    };
+    
+    // Third sketch - YZ + XZ + XY planes (all 12 diagonals)
+    let sketch3 = function(p) {
+        let L = 120;
+        let pts = [];
+        let edges = [];
+        let N = 40;
+        let rotX = 0, rotY = 0;
+        let lastMouseX, lastMouseY;
+        let zoom = 0;
+        let autoRotate = true;
+        let lastInteractionTime = 0;
+        let diagColors = [];
+        
+        p.setup = function() {
+            let canvas = p.createCanvas(600, 450, p.WEBGL);
+            canvas.parent('sketch-container3');
+            
+            diagColors = [
+                p.color(255, 100, 100),
+                p.color(100, 255, 120),
+                p.color(120, 150, 255),
+                p.color(255, 220, 120),
+                p.color(255, 150, 200),
+                p.color(150, 255, 255),
+                p.color(200, 150, 255),
+                p.color(255, 200, 100),
+                p.color(150, 255, 150),
+                p.color(255, 255, 150),
+                p.color(150, 200, 255),
+                p.color(255, 180, 180)
+            ];
+            
+            pts = [
+                p.createVector(L, 0, 0),
+                p.createVector(-L, 0, 0),
+                p.createVector(0, L, 0),
+                p.createVector(0, -L, 0),
+                p.createVector(0, 0, L),
+                p.createVector(0, 0, -L)
+            ];
+            
+            edges = [];
+            for (let i = 0; i < pts.length; i++) {
+                for (let j = i + 1; j < pts.length; j++) {
+                    if (p.abs(p5.Vector.dot(pts[i], pts[j])) < 0.001) {
+                        let isYZ = p.abs(pts[i].x) < 0.001 && p.abs(pts[j].x) < 0.001;
+                        let isXZ = p.abs(pts[i].y) < 0.001 && p.abs(pts[j].y) < 0.001;
+                        let isXY = p.abs(pts[i].z) < 0.001 && p.abs(pts[j].z) < 0.001;
+                        
+                        if (isYZ) {
+                            if (pts[i].y < pts[j].y || (p.abs(pts[i].y - pts[j].y) < 0.001 && pts[i].z < pts[j].z)) {
+                                edges.push([i, j]);
+                            } else {
+                                edges.push([j, i]);
+                            }
+                        } else if (isXZ) {
+                            if (pts[i].x < pts[j].x || (p.abs(pts[i].x - pts[j].x) < 0.001 && pts[i].z < pts[j].z)) {
+                                edges.push([i, j]);
+                            } else {
+                                edges.push([j, i]);
+                            }
+                        } else if (isXY) {
+                            if (pts[i].x < pts[j].x || (p.abs(pts[i].x - pts[j].x) < 0.001 && pts[i].y < pts[j].y)) {
+                                edges.push([i, j]);
+                            } else {
+                                edges.push([j, i]);
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        
+        p.draw = function() {
+            p.background(40, 40, 40);
+            
+            if (p.millis() - lastInteractionTime > 2000) {
+                autoRotate = true;
+            }
+            
+            if (autoRotate) {
+                rotY += p.TWO_PI / 2400;
+            }
+            
+            p.translate(0, 0, -50 + zoom);
+            p.rotateX(rotX);
+            p.rotateY(rotY);
+            
+            p.strokeWeight(5);
+            p.stroke(0, 0, 0);
+            for (let pt of pts) {
+                p.line(0, 0, 0, pt.x, pt.y, pt.z);
+            }
+            
+            p.strokeWeight(0.45);
+            for (let idx = 0; idx < edges.length; idx++) {
+                let e = edges[idx];
+                let a = pts[e[0]];
+                let b = pts[e[1]];
+                let c = diagColors[idx];
+                
+                p.stroke(c);
+                p.line(a.x, a.y, a.z, b.x, b.y, b.z);
+                
+                for (let i = 0; i <= N; i++) {
+                    let t = i / N;
+                    let dpt = p5.Vector.lerp(a, b, t);
+                    
+                    let axis = -1;
+                    if (p.abs(a.x) < 0.001 && p.abs(b.x) < 0.001) axis = 0;
+                    else if (p.abs(a.y) < 0.001 && p.abs(b.y) < 0.001) axis = 1;
+                    else if (p.abs(a.z) < 0.001 && p.abs(b.z) < 0.001) axis = 2;
+                    
+                    let u = i / N;
+                    let armPos, armNeg;
+                    
+                    if (axis == 0) {
+                        armPos = p.createVector(L * u, 0, 0);
+                        armNeg = p.createVector(-L * u, 0, 0);
+                    }
+                    else if (axis == 1) {
+                        armPos = p.createVector(0, L * u, 0);
+                        armNeg = p.createVector(0, -L * u, 0);
+                    }
+                    else {
+                        armPos = p.createVector(0, 0, L * u);
+                        armNeg = p.createVector(0, 0, -L * u);
+                    }
+                    
+                    p.stroke(c);
+                    p.line(dpt.x, dpt.y, dpt.z, armPos.x, armPos.y, armPos.z);
+                    p.line(dpt.x, dpt.y, dpt.z, armNeg.x, armNeg.y, armNeg.z);
+                }
+            }
+            
+            p.push();
+            p.camera();
+            p.fill(255);
+            p.textSize(12);
+            p.textAlign(p.LEFT, p.TOP);
+            p.text("All 3 planes (12 diagonals)", -p.width/2 + 10, -p.height/2 + 10);
+            p.pop();
+        }
+        
+        p.mousePressed = function() {
+            if (p.mouseX >= 0 && p.mouseX <= p.width && p.mouseY >= 0 && p.mouseY <= p.height) {
+                lastMouseX = p.mouseX;
+                lastMouseY = p.mouseY;
+                autoRotate = false;
+                lastInteractionTime = p.millis();
+            }
+        }
+        
+        p.mouseDragged = function() {
+            if (p.mouseX >= 0 && p.mouseX <= p.width && p.mouseY >= 0 && p.mouseY <= p.height) {
+                autoRotate = false;
+                lastInteractionTime = p.millis();
+                let dx = (p.mouseX - lastMouseX) * 0.01;
+                let dy = (p.mouseY - lastMouseY) * 0.01;
+                rotY += dx;
+                rotX += dy;
+                lastMouseX = p.mouseX;
+                lastMouseY = p.mouseY;
+            }
+        }
+        
+        p.mouseWheel = function(event) {
+            if (p.mouseX >= 0 && p.mouseX <= p.width && p.mouseY >= 0 && p.mouseY <= p.height) {
+                zoom += event.delta * 5;
+                return false;
+            }
+        }
+    };
+    
+    new p5(sketch1);
+    new p5(sketch2);
+    new p5(sketch3);
 </script>

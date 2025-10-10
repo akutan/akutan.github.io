@@ -5,7 +5,7 @@ permalink: /ueber/
 ---
 Philosophie hat für mich einen konkreten Wert. Sie bietet eine Sprache über Dinge zu sprechen die sonst im Verborgenen bleiben müssten.
 
-*Ein Leben, das nicht kritisch untersucht wird, ist es nicht wert, gelebt zu werden.*
+*Ein Leben, das nicht kritisch untersucht wird, ist es nicht wert, gelebt zu werden[.](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fbnlvdazbk6uc1.jpeg%3Fwidth%3D777%26auto%3Dwebp%26s%3Db21caeae75f3040e29382b454ea6c8d40132e7bc)*
 &nbsp;&nbsp;&nbsp;&nbsp;--Sokrates
 
 *Es ist das Kennzeichen eines gebildeten Geistes, einen Gedanken unterhalten zu können, ohne ihn anzunehmen.*
@@ -21,10 +21,10 @@ Philosophie hat für mich einen konkreten Wert. Sie bietet eine Sprache über Di
 
 ---------------------
 
-takuan (at) takuan (punkt) de
+Kontakt: takuan (at) takuan (punkt) de
 
 {{ site.url }}/feed
 
-Takuan © 2020 - 2024
+Takuan © 2020 - 2025
 
 Bloglayout:   [clean dark theme](https://github.com/streetturtle/jekyll-clean-dark) für [jekyll](https://jekyllrb.com)
