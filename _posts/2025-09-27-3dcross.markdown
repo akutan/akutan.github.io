@@ -44,6 +44,7 @@ description: Dreidimensionales Kreuz mit Verbindungen
         let autoRotate = true;
         let lastInteractionTime = 0;
         let diagColors = [];
+        let lastTouchDist = 0;
         
         p.setup = function() {
             let canvas = p.createCanvas(600, 450, p.WEBGL);
@@ -89,7 +90,7 @@ description: Dreidimensionales Kreuz mit Verbindungen
             }
             
             if (autoRotate) {
-                rotY += p.TWO_PI / 2400;
+                rotY += p.TWO_PI / 1200;
             }
             
             p.translate(0, 0, -50 + zoom);
@@ -161,6 +162,16 @@ description: Dreidimensionales Kreuz mit Verbindungen
             }
         }
         
+        p.touchStarted = function() {
+            if (p.touches.length > 0) {
+                lastMouseX = p.touches[0].x;
+                lastMouseY = p.touches[0].y;
+                autoRotate = false;
+                lastInteractionTime = p.millis();
+                return false;
+            }
+        }
+        
         p.mouseDragged = function() {
             if (p.mouseX >= 0 && p.mouseX <= p.width && p.mouseY >= 0 && p.mouseY <= p.height) {
                 autoRotate = false;
@@ -174,11 +185,29 @@ description: Dreidimensionales Kreuz mit Verbindungen
             }
         }
         
+        p.touchMoved = function() {
+            if (p.touches.length > 0) {
+                autoRotate = false;
+                lastInteractionTime = p.millis();
+                let dx = (p.touches[0].x - lastMouseX) * 0.01;
+                let dy = (p.touches[0].y - lastMouseY) * 0.01;
+                rotY += dx;
+                rotX += dy;
+                lastMouseX = p.touches[0].x;
+                lastMouseY = p.touches[0].y;
+                return false;
+            }
+        }
+        
         p.mouseWheel = function(event) {
             if (p.mouseX >= 0 && p.mouseX <= p.width && p.mouseY >= 0 && p.mouseY <= p.height) {
                 zoom += event.delta * 5;
                 return false;
             }
+        }
+        
+        p.touchEnded = function() {
+            return false;
         }
     };
     
@@ -194,6 +223,7 @@ description: Dreidimensionales Kreuz mit Verbindungen
         let autoRotate = true;
         let lastInteractionTime = 0;
         let diagColors = [];
+        let lastTouchDist = 0;
         
         p.setup = function() {
             let canvas = p.createCanvas(600, 450, p.WEBGL);
@@ -252,7 +282,7 @@ description: Dreidimensionales Kreuz mit Verbindungen
             }
             
             if (autoRotate) {
-                rotY += p.TWO_PI / 2400;
+                rotY += p.TWO_PI / 1200;
             }
             
             p.translate(0, 0, -50 + zoom);
@@ -324,6 +354,16 @@ description: Dreidimensionales Kreuz mit Verbindungen
             }
         }
         
+        p.touchStarted = function() {
+            if (p.touches.length > 0) {
+                lastMouseX = p.touches[0].x;
+                lastMouseY = p.touches[0].y;
+                autoRotate = false;
+                lastInteractionTime = p.millis();
+                return false;
+            }
+        }
+        
         p.mouseDragged = function() {
             if (p.mouseX >= 0 && p.mouseX <= p.width && p.mouseY >= 0 && p.mouseY <= p.height) {
                 autoRotate = false;
@@ -337,11 +377,29 @@ description: Dreidimensionales Kreuz mit Verbindungen
             }
         }
         
+        p.touchMoved = function() {
+            if (p.touches.length > 0) {
+                autoRotate = false;
+                lastInteractionTime = p.millis();
+                let dx = (p.touches[0].x - lastMouseX) * 0.01;
+                let dy = (p.touches[0].y - lastMouseY) * 0.01;
+                rotY += dx;
+                rotX += dy;
+                lastMouseX = p.touches[0].x;
+                lastMouseY = p.touches[0].y;
+                return false;
+            }
+        }
+        
         p.mouseWheel = function(event) {
             if (p.mouseX >= 0 && p.mouseX <= p.width && p.mouseY >= 0 && p.mouseY <= p.height) {
                 zoom += event.delta * 5;
                 return false;
             }
+        }
+        
+        p.touchEnded = function() {
+            return false;
         }
     };
     
@@ -357,6 +415,7 @@ description: Dreidimensionales Kreuz mit Verbindungen
         let autoRotate = true;
         let lastInteractionTime = 0;
         let diagColors = [];
+        let lastTouchDist = 0;
         
         p.setup = function() {
             let canvas = p.createCanvas(600, 450, p.WEBGL);
@@ -498,6 +557,16 @@ description: Dreidimensionales Kreuz mit Verbindungen
             }
         }
         
+        p.touchStarted = function() {
+            if (p.touches.length > 0) {
+                lastMouseX = p.touches[0].x;
+                lastMouseY = p.touches[0].y;
+                autoRotate = false;
+                lastInteractionTime = p.millis();
+                return false;
+            }
+        }
+        
         p.mouseDragged = function() {
             if (p.mouseX >= 0 && p.mouseX <= p.width && p.mouseY >= 0 && p.mouseY <= p.height) {
                 autoRotate = false;
@@ -511,11 +580,29 @@ description: Dreidimensionales Kreuz mit Verbindungen
             }
         }
         
+        p.touchMoved = function() {
+            if (p.touches.length > 0) {
+                autoRotate = false;
+                lastInteractionTime = p.millis();
+                let dx = (p.touches[0].x - lastMouseX) * 0.01;
+                let dy = (p.touches[0].y - lastMouseY) * 0.01;
+                rotY += dx;
+                rotX += dy;
+                lastMouseX = p.touches[0].x;
+                lastMouseY = p.touches[0].y;
+                return false;
+            }
+        }
+        
         p.mouseWheel = function(event) {
             if (p.mouseX >= 0 && p.mouseX <= p.width && p.mouseY >= 0 && p.mouseY <= p.height) {
                 zoom += event.delta * 5;
                 return false;
             }
+        }
+        
+        p.touchEnded = function() {
+            return false;
         }
     };
     
