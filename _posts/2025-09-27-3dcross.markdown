@@ -7,606 +7,267 @@ tags: 3D
 description: Dreidimensionales Kreuz mit Verbindungen
 ---
 
-<div class="info">
-    <p style="color: #666; text-align: center; margin-bottom: 20px;">Drag to rotate • Mouse wheel to zoom. Erst eine, dann zwei, dann drei Ebenen</p>
-</div>
-
-<div id="sketch-container"></div>
-<div id="sketch-container2"></div>
-<div id="sketch-container3"></div>
-
 <style>
-    #sketch-container, #sketch-container2, #sketch-container3 {
+    #container {
+        width: 100%;
+        height: 70vh;
         display: flex;
         justify-content: center;
         align-items: center;
-        min-height: 50vh;
+        background-color: #282828;
         margin: 20px 0;
-        background-color: transparent;
+        position: relative;
+    }
+    .controls {
+        text-align: center;
+        margin: 20px 0;
+    }
+    .controls select {
+        padding: 10px 15px;
+        background-color: #f0f0f0;
+        color: #333;
+        border: 2px solid #4CAF50;
+        border-radius: 5px;
+        font-size: 14px;
+        cursor: pointer;
     }
     .info {
         text-align: center;
-        margin-bottom: 20px;
+        color: #666;
+        font-size: 12px;
+        margin-bottom: 10px;
     }
 </style>
 
+<div class="info">Drag to rotate • Mouse wheel/Pinch to zoom</div>
+
+<div class="controls">
+    <select id="modeSelect" onchange="switchMode(this.value)">
+        <option value="0">YZ Plane (4 diagonals)</option>
+        <option value="1">YZ + XZ Planes (8 diagonals)</option>
+        <option value="2">All 3 Planes (12 diagonals)</option>
+    </select>
+</div>
+
+<div id="container"></div>
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.7.0/p5.min.js"></script>
 <script>
-    // First sketch - YZ plane diagonals only
-    let sketch1 = function(p) {
-        let L = 120;
-        let pts = [];
-        let edges = [];
-        let N = 40;
-        let rotX = 0, rotY = 0;
-        let lastMouseX, lastMouseY;
-        let zoom = 0;
-        let autoRotate = true;
-        let lastInteractionTime = 0;
-        let diagColors = [];
-        let lastTouchDist = 0;
-        
-        p.setup = function() {
-            let canvas = p.createCanvas(600, 450, p.WEBGL);
-            canvas.parent('sketch-container');
-            
-            diagColors = [
-                p.color(255, 100, 100),
-                p.color(100, 255, 120),
-                p.color(120, 150, 255),
-                p.color(255, 220, 120)
-            ];
-            
-            pts = [
-                p.createVector(L, 0, 0),
-                p.createVector(-L, 0, 0),
-                p.createVector(0, L, 0),
-                p.createVector(0, -L, 0),
-                p.createVector(0, 0, L),
-                p.createVector(0, 0, -L)
-            ];
-            
-            edges = [];
-            for (let i = 0; i < pts.length; i++) {
-                for (let j = i + 1; j < pts.length; j++) {
-                    if (p.abs(p5.Vector.dot(pts[i], pts[j])) < 0.001) {
-                        if (p.abs(pts[i].x) < 0.001 && p.abs(pts[j].x) < 0.001) {
-                            if (pts[i].y < pts[j].y || (p.abs(pts[i].y - pts[j].y) < 0.001 && pts[i].z < pts[j].z)) {
-                                edges.push([i, j]);
-                            } else {
-                                edges.push([j, i]);
-                            }
-                        }
-                    }
-                }
-            }
-        }
-        
-        p.draw = function() {
-            p.background(40, 40, 40);
-            
-            if (p.millis() - lastInteractionTime > 2000) {
-                autoRotate = true;
-            }
-            
-            if (autoRotate) {
-                rotY += p.TWO_PI / 1200;
-            }
-            
-            p.translate(0, 0, -50 + zoom);
-            p.rotateX(rotX);
-            p.rotateY(rotY);
-            
-            p.strokeWeight(5);
-            p.stroke(0, 0, 0);
-            for (let pt of pts) {
-                p.line(0, 0, 0, pt.x, pt.y, pt.z);
-            }
-            
-            p.strokeWeight(0.45);
-            for (let idx = 0; idx < edges.length; idx++) {
-                let e = edges[idx];
-                let a = pts[e[0]];
-                let b = pts[e[1]];
-                let c = diagColors[idx];
-                
-                p.stroke(c);
-                p.line(a.x, a.y, a.z, b.x, b.y, b.z);
-                
-                for (let i = 0; i <= N; i++) {
-                    let t = i / N;
-                    let dpt = p5.Vector.lerp(a, b, t);
-                    
-                    let axis = -1;
-                    if (p.abs(a.x) < 0.001 && p.abs(b.x) < 0.001) axis = 0;
-                    else if (p.abs(a.y) < 0.001 && p.abs(b.y) < 0.001) axis = 1;
-                    else if (p.abs(a.z) < 0.001 && p.abs(b.z) < 0.001) axis = 2;
-                    
-                    let u = i / N;
-                    let armPos, armNeg;
-                    
-                    if (axis == 0) {
-                        armPos = p.createVector(L * u, 0, 0);
-                        armNeg = p.createVector(-L * u, 0, 0);
-                    }
-                    else if (axis == 1) {
-                        armPos = p.createVector(0, L * u, 0);
-                        armNeg = p.createVector(0, -L * u, 0);
-                    }
-                    else {
-                        armPos = p.createVector(0, 0, L * u);
-                        armNeg = p.createVector(0, 0, -L * u);
-                    }
-                    
-                    p.stroke(c);
-                    p.line(dpt.x, dpt.y, dpt.z, armPos.x, armPos.y, armPos.z);
-                    p.line(dpt.x, dpt.y, dpt.z, armNeg.x, armNeg.y, armNeg.z);
-                }
-            }
-            
-            p.push();
-            p.camera();
-            p.fill(255);
-            p.textSize(12);
-            p.textAlign(p.LEFT, p.TOP);
-            p.text("YZ plane", -p.width/2 + 10, -p.height/2 + 10);
-            p.pop();
-        }
-        
-        p.mousePressed = function() {
-            if (p.mouseX >= 0 && p.mouseX <= p.width && p.mouseY >= 0 && p.mouseY <= p.height) {
-                lastMouseX = p.mouseX;
-                lastMouseY = p.mouseY;
-                autoRotate = false;
-                lastInteractionTime = p.millis();
-            }
-        }
-        
-        p.touchStarted = function() {
-            if (p.touches.length > 0) {
-                lastMouseX = p.touches[0].x;
-                lastMouseY = p.touches[0].y;
-                autoRotate = false;
-                lastInteractionTime = p.millis();
-                return false;
-            }
-        }
-        
-        p.mouseDragged = function() {
-            if (p.mouseX >= 0 && p.mouseX <= p.width && p.mouseY >= 0 && p.mouseY <= p.height) {
-                autoRotate = false;
-                lastInteractionTime = p.millis();
-                let dx = (p.mouseX - lastMouseX) * 0.01;
-                let dy = (p.mouseY - lastMouseY) * 0.01;
-                rotY += dx;
-                rotX += dy;
-                lastMouseX = p.mouseX;
-                lastMouseY = p.mouseY;
-            }
-        }
-        
-        p.touchMoved = function() {
-            if (p.touches.length > 0) {
-                autoRotate = false;
-                lastInteractionTime = p.millis();
-                let dx = (p.touches[0].x - lastMouseX) * 0.01;
-                let dy = (p.touches[0].y - lastMouseY) * 0.01;
-                rotY += dx;
-                rotX += dy;
-                lastMouseX = p.touches[0].x;
-                lastMouseY = p.touches[0].y;
-                return false;
-            }
-        }
-        
-        p.mouseWheel = function(event) {
-            if (p.mouseX >= 0 && p.mouseX <= p.width && p.mouseY >= 0 && p.mouseY <= p.height) {
-                zoom += event.delta * 5;
-                return false;
-            }
-        }
-        
-        p.touchEnded = function() {
-            return false;
-        }
+    // Use a namespace to avoid conflicts
+    window.crossViz = {
+        armLength: 120,
+        points: [],
+        edgeList: [],
+        subdivisions: 40,
+        rotationX: 0,
+        rotationY: 0,
+        lastX: 0,
+        lastY: 0,
+        zoomLevel: 0,
+        isAutoRotating: true,
+        lastInteraction: 0,
+        colors: [],
+        lastDistance: 0,
+        mode: 0
     };
     
-    // Second sketch - YZ + XZ planes
-    let sketch2 = function(p) {
-        let L = 120;
-        let pts = [];
-        let edges = [];
-        let N = 40;
-        let rotX = 0, rotY = 0;
-        let lastMouseX, lastMouseY;
-        let zoom = 0;
-        let autoRotate = true;
-        let lastInteractionTime = 0;
-        let diagColors = [];
-        let lastTouchDist = 0;
-        
-        p.setup = function() {
-            let canvas = p.createCanvas(600, 450, p.WEBGL);
-            canvas.parent('sketch-container2');
-            
-            diagColors = [
-                p.color(255, 100, 100),
-                p.color(100, 255, 120),
-                p.color(120, 150, 255),
-                p.color(255, 220, 120),
-                p.color(255, 150, 200),
-                p.color(150, 255, 255),
-                p.color(200, 150, 255),
-                p.color(255, 200, 100)
-            ];
-            
-            pts = [
-                p.createVector(L, 0, 0),
-                p.createVector(-L, 0, 0),
-                p.createVector(0, L, 0),
-                p.createVector(0, -L, 0),
-                p.createVector(0, 0, L),
-                p.createVector(0, 0, -L)
-            ];
-            
-            edges = [];
-            for (let i = 0; i < pts.length; i++) {
-                for (let j = i + 1; j < pts.length; j++) {
-                    if (p.abs(p5.Vector.dot(pts[i], pts[j])) < 0.001) {
-                        let isYZ = p.abs(pts[i].x) < 0.001 && p.abs(pts[j].x) < 0.001;
-                        let isXZ = p.abs(pts[i].y) < 0.001 && p.abs(pts[j].y) < 0.001;
-                        
-                        if (isYZ) {
-                            if (pts[i].y < pts[j].y || (p.abs(pts[i].y - pts[j].y) < 0.001 && pts[i].z < pts[j].z)) {
-                                edges.push([i, j]);
-                            } else {
-                                edges.push([j, i]);
-                            }
-                        } else if (isXZ) {
-                            if (pts[i].x < pts[j].x || (p.abs(pts[i].x - pts[j].x) < 0.001 && pts[i].z < pts[j].z)) {
-                                edges.push([i, j]);
-                            } else {
-                                edges.push([j, i]);
-                            }
-                        }
-                    }
-                }
-            }
-        }
-        
-        p.draw = function() {
-            p.background(40, 40, 40);
-            
-            if (p.millis() - lastInteractionTime > 2000) {
-                autoRotate = true;
-            }
-            
-            if (autoRotate) {
-                rotY += p.TWO_PI / 1200;
-            }
-            
-            p.translate(0, 0, -50 + zoom);
-            p.rotateX(rotX);
-            p.rotateY(rotY);
-            
-            p.strokeWeight(5);
-            p.stroke(0, 0, 0);
-            for (let pt of pts) {
-                p.line(0, 0, 0, pt.x, pt.y, pt.z);
-            }
-            
-            p.strokeWeight(0.45);
-            for (let idx = 0; idx < edges.length; idx++) {
-                let e = edges[idx];
-                let a = pts[e[0]];
-                let b = pts[e[1]];
-                let c = diagColors[idx];
-                
-                p.stroke(c);
-                p.line(a.x, a.y, a.z, b.x, b.y, b.z);
-                
-                for (let i = 0; i <= N; i++) {
-                    let t = i / N;
-                    let dpt = p5.Vector.lerp(a, b, t);
-                    
-                    let axis = -1;
-                    if (p.abs(a.x) < 0.001 && p.abs(b.x) < 0.001) axis = 0;
-                    else if (p.abs(a.y) < 0.001 && p.abs(b.y) < 0.001) axis = 1;
-                    else if (p.abs(a.z) < 0.001 && p.abs(b.z) < 0.001) axis = 2;
-                    
-                    let u = i / N;
-                    let armPos, armNeg;
-                    
-                    if (axis == 0) {
-                        armPos = p.createVector(L * u, 0, 0);
-                        armNeg = p.createVector(-L * u, 0, 0);
-                    }
-                    else if (axis == 1) {
-                        armPos = p.createVector(0, L * u, 0);
-                        armNeg = p.createVector(0, -L * u, 0);
-                    }
-                    else {
-                        armPos = p.createVector(0, 0, L * u);
-                        armNeg = p.createVector(0, 0, -L * u);
-                    }
-                    
-                    p.stroke(c);
-                    p.line(dpt.x, dpt.y, dpt.z, armPos.x, armPos.y, armPos.z);
-                    p.line(dpt.x, dpt.y, dpt.z, armNeg.x, armNeg.y, armNeg.z);
-                }
-            }
-            
-            p.push();
-            p.camera();
-            p.fill(255);
-            p.textSize(12);
-            p.textAlign(p.LEFT, p.TOP);
-            p.text("YZ + XZ planes", -p.width/2 + 10, -p.height/2 + 10);
-            p.pop();
-        }
-        
-        p.mousePressed = function() {
-            if (p.mouseX >= 0 && p.mouseX <= p.width && p.mouseY >= 0 && p.mouseY <= p.height) {
-                lastMouseX = p.mouseX;
-                lastMouseY = p.mouseY;
-                autoRotate = false;
-                lastInteractionTime = p.millis();
-            }
-        }
-        
-        p.touchStarted = function() {
-            if (p.touches.length > 0) {
-                lastMouseX = p.touches[0].x;
-                lastMouseY = p.touches[0].y;
-                autoRotate = false;
-                lastInteractionTime = p.millis();
-                return false;
-            }
-        }
-        
-        p.mouseDragged = function() {
-            if (p.mouseX >= 0 && p.mouseX <= p.width && p.mouseY >= 0 && p.mouseY <= p.height) {
-                autoRotate = false;
-                lastInteractionTime = p.millis();
-                let dx = (p.mouseX - lastMouseX) * 0.01;
-                let dy = (p.mouseY - lastMouseY) * 0.01;
-                rotY += dx;
-                rotX += dy;
-                lastMouseX = p.mouseX;
-                lastMouseY = p.mouseY;
-            }
-        }
-        
-        p.touchMoved = function() {
-            if (p.touches.length > 0) {
-                autoRotate = false;
-                lastInteractionTime = p.millis();
-                let dx = (p.touches[0].x - lastMouseX) * 0.01;
-                let dy = (p.touches[0].y - lastMouseY) * 0.01;
-                rotY += dx;
-                rotX += dy;
-                lastMouseX = p.touches[0].x;
-                lastMouseY = p.touches[0].y;
-                return false;
-            }
-        }
-        
-        p.mouseWheel = function(event) {
-            if (p.mouseX >= 0 && p.mouseX <= p.width && p.mouseY >= 0 && p.mouseY <= p.height) {
-                zoom += event.delta * 5;
-                return false;
-            }
-        }
-        
-        p.touchEnded = function() {
-            return false;
-        }
-    };
+    function switchMode(mode) {
+        window.crossViz.mode = parseInt(mode);
+        setupEdges();
+    }
     
-    // Third sketch - YZ + XZ + XY planes (all 12 diagonals)
-    let sketch3 = function(p) {
-        let L = 120;
-        let pts = [];
-        let edges = [];
-        let N = 40;
-        let rotX = 0, rotY = 0;
-        let lastMouseX, lastMouseY;
-        let zoom = 0;
-        let autoRotate = true;
-        let lastInteractionTime = 0;
-        let diagColors = [];
-        let lastTouchDist = 0;
-        
-        p.setup = function() {
-            let canvas = p.createCanvas(600, 450, p.WEBGL);
-            canvas.parent('sketch-container3');
-            
-            diagColors = [
-                p.color(255, 100, 100),
-                p.color(100, 255, 120),
-                p.color(120, 150, 255),
-                p.color(255, 220, 120),
-                p.color(255, 150, 200),
-                p.color(150, 255, 255),
-                p.color(200, 150, 255),
-                p.color(255, 200, 100),
-                p.color(150, 255, 150),
-                p.color(255, 255, 150),
-                p.color(150, 200, 255),
-                p.color(255, 180, 180)
-            ];
-            
-            pts = [
-                p.createVector(L, 0, 0),
-                p.createVector(-L, 0, 0),
-                p.createVector(0, L, 0),
-                p.createVector(0, -L, 0),
-                p.createVector(0, 0, L),
-                p.createVector(0, 0, -L)
-            ];
-            
-            edges = [];
-            for (let i = 0; i < pts.length; i++) {
-                for (let j = i + 1; j < pts.length; j++) {
-                    if (p.abs(p5.Vector.dot(pts[i], pts[j])) < 0.001) {
-                        let isYZ = p.abs(pts[i].x) < 0.001 && p.abs(pts[j].x) < 0.001;
-                        let isXZ = p.abs(pts[i].y) < 0.001 && p.abs(pts[j].y) < 0.001;
-                        let isXY = p.abs(pts[i].z) < 0.001 && p.abs(pts[j].z) < 0.001;
-                        
+    function setupEdges() {
+        const v = window.crossViz;
+        v.edgeList = [];
+        for (let i = 0; i < v.points.length; i++) {
+            for (let j = i + 1; j < v.points.length; j++) {
+                if (abs(p5.Vector.dot(v.points[i], v.points[j])) < 0.001) {
+                    let isYZ = abs(v.points[i].x) < 0.001 && abs(v.points[j].x) < 0.001;
+                    let isXZ = abs(v.points[i].y) < 0.001 && abs(v.points[j].y) < 0.001;
+                    let isXY = abs(v.points[i].z) < 0.001 && abs(v.points[j].z) < 0.001;
+                    
+                    let include = false;
+                    if (v.mode === 0 && isYZ) include = true;
+                    if (v.mode === 1 && (isYZ || isXZ)) include = true;
+                    if (v.mode === 2 && (isYZ || isXZ || isXY)) include = true;
+                    
+                    if (include) {
                         if (isYZ) {
-                            if (pts[i].y < pts[j].y || (p.abs(pts[i].y - pts[j].y) < 0.001 && pts[i].z < pts[j].z)) {
-                                edges.push([i, j]);
+                            if (v.points[i].y < v.points[j].y || (abs(v.points[i].y - v.points[j].y) < 0.001 && v.points[i].z < v.points[j].z)) {
+                                v.edgeList.push([i, j]);
                             } else {
-                                edges.push([j, i]);
+                                v.edgeList.push([j, i]);
                             }
                         } else if (isXZ) {
-                            if (pts[i].x < pts[j].x || (p.abs(pts[i].x - pts[j].x) < 0.001 && pts[i].z < pts[j].z)) {
-                                edges.push([i, j]);
+                            if (v.points[i].x < v.points[j].x || (abs(v.points[i].x - v.points[j].x) < 0.001 && v.points[i].z < v.points[j].z)) {
+                                v.edgeList.push([i, j]);
                             } else {
-                                edges.push([j, i]);
+                                v.edgeList.push([j, i]);
                             }
                         } else if (isXY) {
-                            if (pts[i].x < pts[j].x || (p.abs(pts[i].x - pts[j].x) < 0.001 && pts[i].y < pts[j].y)) {
-                                edges.push([i, j]);
+                            if (v.points[i].x < v.points[j].x || (abs(v.points[i].x - v.points[j].x) < 0.001 && v.points[i].y < v.points[j].y)) {
+                                v.edgeList.push([i, j]);
                             } else {
-                                edges.push([j, i]);
+                                v.edgeList.push([j, i]);
                             }
                         }
                     }
                 }
             }
         }
-        
-        p.draw = function() {
-            p.background(40, 40, 40);
-            
-            if (p.millis() - lastInteractionTime > 2000) {
-                autoRotate = true;
-            }
-            
-            if (autoRotate) {
-                rotY += p.TWO_PI / 2400;
-            }
-            
-            p.translate(0, 0, -50 + zoom);
-            p.rotateX(rotX);
-            p.rotateY(rotY);
-            
-            p.strokeWeight(5);
-            p.stroke(0, 0, 0);
-            for (let pt of pts) {
-                p.line(0, 0, 0, pt.x, pt.y, pt.z);
-            }
-            
-            p.strokeWeight(0.45);
-            for (let idx = 0; idx < edges.length; idx++) {
-                let e = edges[idx];
-                let a = pts[e[0]];
-                let b = pts[e[1]];
-                let c = diagColors[idx];
-                
-                p.stroke(c);
-                p.line(a.x, a.y, a.z, b.x, b.y, b.z);
-                
-                for (let i = 0; i <= N; i++) {
-                    let t = i / N;
-                    let dpt = p5.Vector.lerp(a, b, t);
-                    
-                    let axis = -1;
-                    if (p.abs(a.x) < 0.001 && p.abs(b.x) < 0.001) axis = 0;
-                    else if (p.abs(a.y) < 0.001 && p.abs(b.y) < 0.001) axis = 1;
-                    else if (p.abs(a.z) < 0.001 && p.abs(b.z) < 0.001) axis = 2;
-                    
-                    let u = i / N;
-                    let armPos, armNeg;
-                    
-                    if (axis == 0) {
-                        armPos = p.createVector(L * u, 0, 0);
-                        armNeg = p.createVector(-L * u, 0, 0);
-                    }
-                    else if (axis == 1) {
-                        armPos = p.createVector(0, L * u, 0);
-                        armNeg = p.createVector(0, -L * u, 0);
-                    }
-                    else {
-                        armPos = p.createVector(0, 0, L * u);
-                        armNeg = p.createVector(0, 0, -L * u);
-                    }
-                    
-                    p.stroke(c);
-                    p.line(dpt.x, dpt.y, dpt.z, armPos.x, armPos.y, armPos.z);
-                    p.line(dpt.x, dpt.y, dpt.z, armNeg.x, armNeg.y, armNeg.z);
-                }
-            }
-            
-            p.push();
-            p.camera();
-            p.fill(255);
-            p.textSize(12);
-            p.textAlign(p.LEFT, p.TOP);
-            p.text("All 3 planes (12 diagonals)", -p.width/2 + 10, -p.height/2 + 10);
-            p.pop();
-        }
-        
-        p.mousePressed = function() {
-            if (p.mouseX >= 0 && p.mouseX <= p.width && p.mouseY >= 0 && p.mouseY <= p.height) {
-                lastMouseX = p.mouseX;
-                lastMouseY = p.mouseY;
-                autoRotate = false;
-                lastInteractionTime = p.millis();
-            }
-        }
-        
-        p.touchStarted = function() {
-            if (p.touches.length > 0) {
-                lastMouseX = p.touches[0].x;
-                lastMouseY = p.touches[0].y;
-                autoRotate = false;
-                lastInteractionTime = p.millis();
-                return false;
-            }
-        }
-        
-        p.mouseDragged = function() {
-            if (p.mouseX >= 0 && p.mouseX <= p.width && p.mouseY >= 0 && p.mouseY <= p.height) {
-                autoRotate = false;
-                lastInteractionTime = p.millis();
-                let dx = (p.mouseX - lastMouseX) * 0.01;
-                let dy = (p.mouseY - lastMouseY) * 0.01;
-                rotY += dx;
-                rotX += dy;
-                lastMouseX = p.mouseX;
-                lastMouseY = p.mouseY;
-            }
-        }
-        
-        p.touchMoved = function() {
-            if (p.touches.length > 0) {
-                autoRotate = false;
-                lastInteractionTime = p.millis();
-                let dx = (p.touches[0].x - lastMouseX) * 0.01;
-                let dy = (p.touches[0].y - lastMouseY) * 0.01;
-                rotY += dx;
-                rotX += dy;
-                lastMouseX = p.touches[0].x;
-                lastMouseY = p.touches[0].y;
-                return false;
-            }
-        }
-        
-        p.mouseWheel = function(event) {
-            if (p.mouseX >= 0 && p.mouseX <= p.width && p.mouseY >= 0 && p.mouseY <= p.height) {
-                zoom += event.delta * 5;
-                return false;
-            }
-        }
-        
-        p.touchEnded = function() {
-            return false;
-        }
-    };
+    }
     
-    new p5(sketch1);
-    new p5(sketch2);
-    new p5(sketch3);
+    function setup() {
+        const v = window.crossViz;
+        let container = document.getElementById('container');
+        let canvas = createCanvas(container.offsetWidth, container.offsetHeight, WEBGL);
+        canvas.parent('container');
+        
+        v.colors = [
+            color(255, 100, 100), color(100, 255, 120), color(120, 150, 255), color(255, 220, 120),
+            color(255, 150, 200), color(150, 255, 255), color(200, 150, 255), color(255, 200, 100),
+            color(150, 255, 150), color(255, 255, 150), color(150, 200, 255), color(255, 180, 180)
+        ];
+        
+        v.points = [
+            createVector(v.armLength, 0, 0), createVector(-v.armLength, 0, 0),
+            createVector(0, v.armLength, 0), createVector(0, -v.armLength, 0),
+            createVector(0, 0, v.armLength), createVector(0, 0, -v.armLength)
+        ];
+        
+        setupEdges();
+    }
+    
+    function draw() {
+        const v = window.crossViz;
+        background(40, 40, 40);
+        
+        if (millis() - v.lastInteraction > 2000) {
+            v.isAutoRotating = true;
+        }
+        
+        if (v.isAutoRotating) {
+            v.rotationY += TWO_PI / 1200;
+        }
+        
+        translate(0, 0, -50 + v.zoomLevel);
+        rotateX(v.rotationX);
+        rotateY(v.rotationY);
+        
+        strokeWeight(5);
+        stroke(0, 0, 0);
+        for (let p of v.points) {
+            line(0, 0, 0, p.x, p.y, p.z);
+        }
+        
+        strokeWeight(0.45);
+        for (let idx = 0; idx < v.edgeList.length; idx++) {
+            let e = v.edgeList[idx];
+            let a = v.points[e[0]];
+            let b = v.points[e[1]];
+            let c = v.colors[idx];
+            
+            stroke(c);
+            line(a.x, a.y, a.z, b.x, b.y, b.z);
+            
+            for (let i = 0; i <= v.subdivisions; i++) {
+                let t = i / v.subdivisions;
+                let dpt = p5.Vector.lerp(a, b, t);
+                
+                let axis = -1;
+                if (abs(a.x) < 0.001 && abs(b.x) < 0.001) axis = 0;
+                else if (abs(a.y) < 0.001 && abs(b.y) < 0.001) axis = 1;
+                else if (abs(a.z) < 0.001 && abs(b.z) < 0.001) axis = 2;
+                
+                let u = i / v.subdivisions;
+                let armPos, armNeg;
+                
+                if (axis == 0) {
+                    armPos = createVector(v.armLength * u, 0, 0);
+                    armNeg = createVector(-v.armLength * u, 0, 0);
+                } else if (axis == 1) {
+                    armPos = createVector(0, v.armLength * u, 0);
+                    armNeg = createVector(0, -v.armLength * u, 0);
+                } else {
+                    armPos = createVector(0, 0, v.armLength * u);
+                    armNeg = createVector(0, 0, -v.armLength * u);
+                }
+                
+                stroke(c);
+                line(dpt.x, dpt.y, dpt.z, armPos.x, armPos.y, armPos.z);
+                line(dpt.x, dpt.y, dpt.z, armNeg.x, armNeg.y, armNeg.z);
+            }
+        }
+    }
+    
+    function touchStarted() {
+        const v = window.crossViz;
+        if (touches.length === 1) {
+            v.lastX = touches[0].x;
+            v.lastY = touches[0].y;
+            v.isAutoRotating = false;
+            v.lastInteraction = millis();
+        } else if (touches.length === 2) {
+            let dx = touches[1].x - touches[0].x;
+            let dy = touches[1].y - touches[0].y;
+            v.lastDistance = sqrt(dx * dx + dy * dy);
+            v.isAutoRotating = false;
+            v.lastInteraction = millis();
+        }
+        return false;
+    }
+    
+    function touchMoved() {
+        const v = window.crossViz;
+        if (touches.length === 1) {
+            v.isAutoRotating = false;
+            v.lastInteraction = millis();
+            let dx = (touches[0].x - v.lastX) * 0.01;
+            let dy = (touches[0].y - v.lastY) * 0.01;
+            v.rotationY += dx;
+            v.rotationX += dy;
+            v.lastX = touches[0].x;
+            v.lastY = touches[0].y;
+        } else if (touches.length === 2) {
+            v.isAutoRotating = false;
+            v.lastInteraction = millis();
+            let dx = touches[1].x - touches[0].x;
+            let dy = touches[1].y - touches[0].y;
+            let currentDist = sqrt(dx * dx + dy * dy);
+            let distChange = currentDist - v.lastDistance;
+            v.zoomLevel += distChange * 2;
+            v.lastDistance = currentDist;
+        }
+        return false;
+    }
+    
+    function mousePressed() {
+        const v = window.crossViz;
+        v.lastX = mouseX;
+        v.lastY = mouseY;
+        v.isAutoRotating = false;
+        v.lastInteraction = millis();
+    }
+    
+    function mouseDragged() {
+        const v = window.crossViz;
+        v.isAutoRotating = false;
+        v.lastInteraction = millis();
+        let dx = (mouseX - v.lastX) * 0.01;
+        let dy = (mouseY - v.lastY) * 0.01;
+        v.rotationY += dx;
+        v.rotationX += dy;
+        v.lastX = mouseX;
+        v.lastY = mouseY;
+    }
+    
+    function mouseWheel(event) {
+        window.crossViz.zoomLevel += event.delta * 5;
+        return false;
+    }
+    
+    function windowResized() {
+        let container = document.getElementById('container');
+        resizeCanvas(container.offsetWidth, container.offsetHeight);
+    }
 </script>
