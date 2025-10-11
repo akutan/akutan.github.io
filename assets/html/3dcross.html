@@ -1,0 +1,570 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <title>3D Cross Visualization</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.7.0/p5.min.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            overflow: hidden;
+            background-color: #282828;
+            font-family: Arial, sans-serif;
+            touch-action: manipulation;
+        }
+        #container {
+            width: 100vw;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .controls {
+            position: absolute;
+            top: 10px;
+            left: 50%;
+            transform: translateX(-50%);
+            z-index: 10;
+        }
+        select {
+            padding: 8px 12px;
+            background-color: rgba(255, 255, 255, 0.9);
+            color: #333;
+            border: 2px solid #4CAF50;
+            border-radius: 5px;
+            font-size: 14px;
+            cursor: pointer;
+        }
+        .info {
+            position: absolute;
+            bottom: 10px;
+            left: 10px;
+            color: white;
+            font-size: 11px;
+            z-index: 10;
+        }
+    </style>
+</head>
+<body>
+    <div class="controls">
+        <select id="modeSelect" onchange="switchMode(this.value)">
+            <option value="0">YZ Plane (4 diagonals)</option>
+            <option value="1">YZ + XZ Planes (8 diagonals)</option>
+            <option value="2">All 3 Planes (12 diagonals)</option>
+        </select>
+    </div>
+    <div class="info">Drag to rotate • Pinch to zoom</div>
+    <div id="container"></div>
+
+    <script>
+        // Use a namespace to avoid conflicts
+        window.crossViz = {
+            armLength: 120,
+            points: [],
+            edgeList: [],
+            subdivisions: 40,
+            rotationX: 0,
+            rotationY: 0,
+            lastX: 0,
+            lastY: 0,
+            zoomLevel: 0,
+            isAutoRotating: true,
+            lastInteraction: 0,
+            colors: [],
+            lastDistance: 0,
+            mode: 0
+        };
+        
+        function switchMode(mode) {
+            window.crossViz.mode = parseInt(mode);
+            setupEdges();
+        }
+        
+        function setupEdges() {
+            const v = window.crossViz;
+            v.edgeList = [];
+            for (let i = 0; i < v.points.length; i++) {
+                for (let j = i + 1; j < v.points.length; j++) {
+                    if (abs(p5.Vector.dot(v.points[i], v.points[j])) < 0.001) {
+                        let isYZ = abs(v.points[i].x) < 0.001 && abs(v.points[j].x) < 0.001;
+                        let isXZ = abs(v.points[i].y) < 0.001 && abs(v.points[j].y) < 0.001;
+                        let isXY = abs(v.points[i].z) < 0.001 && abs(v.points[j].z) < 0.001;
+                        
+                        let include = false;
+                        if (v.mode === 0 && isYZ) include = true;
+                        if (v.mode === 1 && (isYZ || isXZ)) include = true;
+                        if (v.mode === 2 && (isYZ || isXZ || isXY)) include = true;
+                        
+                        if (include) {
+                            if (isYZ) {
+                                if (v.points[i].y < v.points[j].y || (abs(v.points[i].y - v.points[j].y) < 0.001 && v.points[i].z < v.points[j].z)) {
+                                    v.edgeList.push([i, j]);
+                                } else {
+                                    v.edgeList.push([j, i]);
+                                }
+                            } else if (isXZ) {
+                                if (v.points[i].x < v.points[j].x || (abs(v.points[i].x - v.points[j].x) < 0.001 && v.points[i].z < v.points[j].z)) {
+                                    v.edgeList.push([i, j]);
+                                } else {
+                                    v.edgeList.push([j, i]);
+                                }
+                            } else if (isXY) {
+                                if (v.points[i].x < v.points[j].x || (abs(v.points[i].x - v.points[j].x) < 0.001 && v.points[i].y < v.points[j].y)) {
+                                    v.edgeList.push([i, j]);
+                                } else {
+                                    v.edgeList.push([j, i]);
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        
+        function setup() {
+            const v = window.crossViz;
+            let canvas = createCanvas(windowWidth, windowHeight, WEBGL);
+            canvas.parent('container');
+            
+            v.colors = [
+                color(255, 100, 100), color(100, 255, 120), color(120, 150, 255), color(255, 220, 120),
+                color(255, 150, 200), color(150, 255, 255), color(200, 150, 255), color(255, 200, 100),
+                color(150, 255, 150), color(255, 255, 150), color(150, 200, 255), color(255, 180, 180)
+            ];
+            
+            v.points = [
+                createVector(v.armLength, 0, 0), createVector(-v.armLength, 0, 0),
+                createVector(0, v.armLength, 0), createVector(0, -v.armLength, 0),
+                createVector(0, 0, v.armLength), createVector(0, 0, -v.armLength)
+            ];
+            
+            setupEdges();
+        }
+        
+        function draw() {
+            const v = window.crossViz;
+            background(40, 40, 40);
+            
+            if (millis() - v.lastInteraction > 2000) {
+                v.isAutoRotating = true;
+            }
+            
+            if (v.isAutoRotating) {
+                v.rotationY += TWO_PI / 1200;
+            }
+            
+            translate(0, 0, -50 + v.zoomLevel);
+            rotateX(v.rotationX);
+            rotateY(v.rotationY);
+            
+            strokeWeight(5);
+            stroke(0, 0, 0);
+            for (let p of v.points) {
+                line(0, 0, 0, p.x, p.y, p.z);
+            }
+            
+            strokeWeight(0.45);
+            for (let idx = 0; idx < v.edgeList.length; idx++) {
+                let e = v.edgeList[idx];
+                let a = v.points[e[0]];
+                let b = v.points[e[1]];
+                let c = v.colors[idx];
+                
+                stroke(c);
+                line(a.x, a.y, a.z, b.x, b.y, b.z);
+                
+                for (let i = 0; i <= v.subdivisions; i++) {
+                    let t = i / v.subdivisions;
+                    let dpt = p5.Vector.lerp(a, b, t);
+                    
+                    let axis = -1;
+                    if (abs(a.x) < 0.001 && abs(b.x) < 0.001) axis = 0;
+                    else if (abs(a.y) < 0.001 && abs(b.y) < 0.001) axis = 1;
+                    else if (abs(a.z) < 0.001 && abs(b.z) < 0.001) axis = 2;
+                    
+                    let u = i / v.subdivisions;
+                    let armPos, armNeg;
+                    
+                    if (axis == 0) {
+                        armPos = createVector(v.armLength * u, 0, 0);
+                        armNeg = createVector(-v.armLength * u, 0, 0);
+                    } else if (axis == 1) {
+                        armPos = createVector(0, v.armLength * u, 0);
+                        armNeg = createVector(0, -v.armLength * u, 0);
+                    } else {
+                        armPos = createVector(0, 0, v.armLength * u);
+                        armNeg = createVector(0, 0, -v.armLength * u);
+                    }
+                    
+                    stroke(c);
+                    line(dpt.x, dpt.y, dpt.z, armPos.x, armPos.y, armPos.z);
+                    line(dpt.x, dpt.y, dpt.z, armNeg.x, armNeg.y, armNeg.z);
+                }
+            }
+        }
+        
+        function touchStarted() {
+            const v = window.crossViz;
+            if (touches.length === 1) {
+                v.lastX = touches[0].x;
+                v.lastY = touches[0].y;
+                v.isAutoRotating = false;
+                v.lastInteraction = millis();
+            } else if (touches.length === 2) {
+                let dx = touches[1].x - touches[0].x;
+                let dy = touches[1].y - touches[0].y;
+                v.lastDistance = sqrt(dx * dx + dy * dy);
+                v.isAutoRotating = false;
+                v.lastInteraction = millis();
+            }
+            return false;
+        }
+        
+        function touchMoved() {
+            const v = window.crossViz;
+            if (touches.length === 1) {
+                v.isAutoRotating = false;
+                v.lastInteraction = millis();
+                let dx = (touches[0].x - v.lastX) * 0.01;
+                let dy = (touches[0].y - v.lastY) * 0.01;
+                v.rotationY += dx;
+                v.rotationX += dy;
+                v.lastX = touches[0].x;
+                v.lastY = touches[0].y;
+            } else if (touches.length === 2) {
+                v.isAutoRotating = false;
+                v.lastInteraction = millis();
+                let dx = touches[1].x - touches[0].x;
+                let dy = touches[1].y - touches[0].y;
+                let currentDist = sqrt(dx * dx + dy * dy);
+                let distChange = currentDist - v.lastDistance;
+                v.zoomLevel += distChange * 2;
+                v.lastDistance = currentDist;
+            }
+            return false;
+        }
+        
+        function mousePressed() {
+            const v = window.crossViz;
+            v.lastX = mouseX;
+            v.lastY = mouseY;
+            v.isAutoRotating = false;
+            v.lastInteraction = millis();
+        }
+        
+        function mouseDragged() {
+            const v = window.crossViz;
+            v.isAutoRotating = false;
+            v.lastInteraction = millis();
+            let dx = (mouseX - v.lastX) * 0.01;
+            let dy = (mouseY - v.lastY) * 0.01;
+            v.rotationY += dx;
+            v.rotationX += dy;
+            v.lastX = mouseX;
+            v.lastY = mouseY;
+        }
+        
+        function mouseWheel(event) {
+            window.crossViz.zoomLevel += event.delta * 5;
+            return false;
+        }
+        
+        function windowResized() {
+            resizeCanvas(windowWidth, windowHeight);
+        }
+    </script>
+</body>
+</html><!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <title>3D Cross Visualization</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.7.0/p5.min.js"></script>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color: #282828;
+            font-family: Arial, sans-serif;
+            touch-action: none;
+        }
+        #container {
+            width: 100vw;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .controls {
+            position: absolute;
+            top: 10px;
+            left: 50%;
+            transform: translateX(-50%);
+            z-index: 10;
+            pointer-events: auto;
+        }
+        select {
+            padding: 8px 12px;
+            background-color: rgba(255, 255, 255, 0.9);
+            color: #333;
+            border: 2px solid #4CAF50;
+            border-radius: 5px;
+            font-size: 14px;
+            cursor: pointer;
+            pointer-events: auto;
+        }
+        .info {
+            position: absolute;
+            bottom: 10px;
+            left: 10px;
+            color: white;
+            font-size: 11px;
+            z-index: 10;
+        }
+    </style>
+</head>
+<body>
+    <div class="controls">
+        <select id="modeSelect" onchange="switchMode(this.value)">
+            <option value="0">YZ Plane (4 diagonals)</option>
+            <option value="1">YZ + XZ Planes (8 diagonals)</option>
+            <option value="2">All 3 Planes (12 diagonals)</option>
+        </select>
+    </div>
+    <div class="info">Drag to rotate • Pinch to zoom</div>
+    <div id="container"></div>
+
+    <script>
+        // Use a namespace to avoid conflicts
+        window.crossViz = {
+            armLength: 120,
+            points: [],
+            edgeList: [],
+            subdivisions: 40,
+            rotationX: 0,
+            rotationY: 0,
+            lastX: 0,
+            lastY: 0,
+            zoomLevel: 0,
+            isAutoRotating: true,
+            lastInteraction: 0,
+            colors: [],
+            lastDistance: 0,
+            mode: 0
+        };
+        
+        function switchMode(mode) {
+            window.crossViz.mode = parseInt(mode);
+            setupEdges();
+        }
+        
+        function setupEdges() {
+            const v = window.crossViz;
+            v.edgeList = [];
+            for (let i = 0; i < v.points.length; i++) {
+                for (let j = i + 1; j < v.points.length; j++) {
+                    if (abs(p5.Vector.dot(v.points[i], v.points[j])) < 0.001) {
+                        let isYZ = abs(v.points[i].x) < 0.001 && abs(v.points[j].x) < 0.001;
+                        let isXZ = abs(v.points[i].y) < 0.001 && abs(v.points[j].y) < 0.001;
+                        let isXY = abs(v.points[i].z) < 0.001 && abs(v.points[j].z) < 0.001;
+                        
+                        let include = false;
+                        if (v.mode === 0 && isYZ) include = true;
+                        if (v.mode === 1 && (isYZ || isXZ)) include = true;
+                        if (v.mode === 2 && (isYZ || isXZ || isXY)) include = true;
+                        
+                        if (include) {
+                            if (isYZ) {
+                                if (v.points[i].y < v.points[j].y || (abs(v.points[i].y - v.points[j].y) < 0.001 && v.points[i].z < v.points[j].z)) {
+                                    v.edgeList.push([i, j]);
+                                } else {
+                                    v.edgeList.push([j, i]);
+                                }
+                            } else if (isXZ) {
+                                if (v.points[i].x < v.points[j].x || (abs(v.points[i].x - v.points[j].x) < 0.001 && v.points[i].z < v.points[j].z)) {
+                                    v.edgeList.push([i, j]);
+                                } else {
+                                    v.edgeList.push([j, i]);
+                                }
+                            } else if (isXY) {
+                                if (v.points[i].x < v.points[j].x || (abs(v.points[i].x - v.points[j].x) < 0.001 && v.points[i].y < v.points[j].y)) {
+                                    v.edgeList.push([i, j]);
+                                } else {
+                                    v.edgeList.push([j, i]);
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        
+        function setup() {
+            const v = window.crossViz;
+            let canvas = createCanvas(windowWidth, windowHeight, WEBGL);
+            canvas.parent('container');
+            
+            v.colors = [
+                color(255, 100, 100), color(100, 255, 120), color(120, 150, 255), color(255, 220, 120),
+                color(255, 150, 200), color(150, 255, 255), color(200, 150, 255), color(255, 200, 100),
+                color(150, 255, 150), color(255, 255, 150), color(150, 200, 255), color(255, 180, 180)
+            ];
+            
+            v.points = [
+                createVector(v.armLength, 0, 0), createVector(-v.armLength, 0, 0),
+                createVector(0, v.armLength, 0), createVector(0, -v.armLength, 0),
+                createVector(0, 0, v.armLength), createVector(0, 0, -v.armLength)
+            ];
+            
+            setupEdges();
+        }
+        
+        function draw() {
+            const v = window.crossViz;
+            background(40, 40, 40);
+            
+            if (millis() - v.lastInteraction > 2000) {
+                v.isAutoRotating = true;
+            }
+            
+            if (v.isAutoRotating) {
+                v.rotationY += TWO_PI / 1200;
+            }
+            
+            translate(0, 0, -50 + v.zoomLevel);
+            rotateX(v.rotationX);
+            rotateY(v.rotationY);
+            
+            strokeWeight(5);
+            stroke(0, 0, 0);
+            for (let p of v.points) {
+                line(0, 0, 0, p.x, p.y, p.z);
+            }
+            
+            strokeWeight(0.45);
+            for (let idx = 0; idx < v.edgeList.length; idx++) {
+                let e = v.edgeList[idx];
+                let a = v.points[e[0]];
+                let b = v.points[e[1]];
+                let c = v.colors[idx];
+                
+                stroke(c);
+                line(a.x, a.y, a.z, b.x, b.y, b.z);
+                
+                for (let i = 0; i <= v.subdivisions; i++) {
+                    let t = i / v.subdivisions;
+                    let dpt = p5.Vector.lerp(a, b, t);
+                    
+                    let axis = -1;
+                    if (abs(a.x) < 0.001 && abs(b.x) < 0.001) axis = 0;
+                    else if (abs(a.y) < 0.001 && abs(b.y) < 0.001) axis = 1;
+                    else if (abs(a.z) < 0.001 && abs(b.z) < 0.001) axis = 2;
+                    
+                    let u = i / v.subdivisions;
+                    let armPos, armNeg;
+                    
+                    if (axis == 0) {
+                        armPos = createVector(v.armLength * u, 0, 0);
+                        armNeg = createVector(-v.armLength * u, 0, 0);
+                    } else if (axis == 1) {
+                        armPos = createVector(0, v.armLength * u, 0);
+                        armNeg = createVector(0, -v.armLength * u, 0);
+                    } else {
+                        armPos = createVector(0, 0, v.armLength * u);
+                        armNeg = createVector(0, 0, -v.armLength * u);
+                    }
+                    
+                    stroke(c);
+                    line(dpt.x, dpt.y, dpt.z, armPos.x, armPos.y, armPos.z);
+                    line(dpt.x, dpt.y, dpt.z, armNeg.x, armNeg.y, armNeg.z);
+                }
+            }
+        }
+        
+        function touchStarted() {
+            const v = window.crossViz;
+            if (touches.length > 0) {
+                let dropdown = document.getElementById('modeSelect').getBoundingClientRect();
+                if (touches[0].x >= dropdown.left && touches[0].x <= dropdown.right &&
+                    touches[0].y >= dropdown.top && touches[0].y <= dropdown.bottom) {
+                    return true;
+                }
+            }
+            
+            if (touches.length === 1) {
+                v.lastX = touches[0].x;
+                v.lastY = touches[0].y;
+                v.isAutoRotating = false;
+                v.lastInteraction = millis();
+            } else if (touches.length === 2) {
+                let dx = touches[1].x - touches[0].x;
+                let dy = touches[1].y - touches[0].y;
+                v.lastDistance = sqrt(dx * dx + dy * dy);
+                v.isAutoRotating = false;
+                v.lastInteraction = millis();
+            }
+            return false;
+        }
+        
+        function touchMoved() {
+            const v = window.crossViz;
+            if (touches.length === 1) {
+                v.isAutoRotating = false;
+                v.lastInteraction = millis();
+                let dx = (touches[0].x - v.lastX) * 0.01;
+                let dy = (touches[0].y - v.lastY) * 0.01;
+                v.rotationY += dx;
+                v.rotationX += dy;
+                v.lastX = touches[0].x;
+                v.lastY = touches[0].y;
+            } else if (touches.length === 2) {
+                v.isAutoRotating = false;
+                v.lastInteraction = millis();
+                let dx = touches[1].x - touches[0].x;
+                let dy = touches[1].y - touches[0].y;
+                let currentDist = sqrt(dx * dx + dy * dy);
+                let distChange = currentDist - v.lastDistance;
+                v.zoomLevel += distChange * 2;
+                v.lastDistance = currentDist;
+            }
+            return false;
+        }
+        
+        function mousePressed() {
+            const v = window.crossViz;
+            v.lastX = mouseX;
+            v.lastY = mouseY;
+            v.isAutoRotating = false;
+            v.lastInteraction = millis();
+        }
+        
+        function mouseDragged() {
+            const v = window.crossViz;
+            v.isAutoRotating = false;
+            v.lastInteraction = millis();
+            let dx = (mouseX - v.lastX) * 0.01;
+            let dy = (mouseY - v.lastY) * 0.01;
+            v.rotationY += dx;
+            v.rotationX += dy;
+            v.lastX = mouseX;
+            v.lastY = mouseY;
+        }
+        
+        function mouseWheel(event) {
+            window.crossViz.zoomLevel += event.delta * 5;
+            return false;
+        }
+        
+        function windowResized() {
+            resizeCanvas(windowWidth, windowHeight);
+        }
+    </script>
+</body>
+</html>
