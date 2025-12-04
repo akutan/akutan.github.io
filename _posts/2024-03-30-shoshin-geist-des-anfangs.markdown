@@ -36,17 +36,17 @@ Konkret versetzt man sich in den Zustand eines Anfängers. Das erzeugt Leichtigk
 Vertieft man sich in einer Disziplin, folgt einer Spur, gräbt sich in ein Gebiet ein, kann man den Leitgedanken verlieren. In unserer Kultur gibt es nicht wirklich eine Wertschätzung für diesen Geist des ersten Mals. Die Fähigkeit sich zu begeistern ist Kindern vorbehalten und wird in großen Teilen auch nur ihnen zugestanden.
 Das Problem dabei ist dass die Lebensqualität (und ich vielen Bereichen auch die Qualität der Arbeit) leidet wenn man die ursprüngliche Motivation aus dem Auge verliert. Man ist uninspiriert, empfindet das Dasein als eine Pflicht.
 
-Die Begeisterung kommt nicht aus dem Kopf. Sie hat ihren Ursprung zwischen Herz und Bauch. Spruddelt von dort aus. Man kann sie auch nicht erdenken. Es hilft jedoch wenn man sich auf grundlegende, definierende, Ideen besinnt. Die können dann den Weg aus den Kopf nach unten finden und Blockaden aufheben.
+Die Begeisterung kommt nicht aus dem Kopf. Sie hat ihren Ursprung zwischen Herz und Bauch. Sprudelt von dort aus. Man kann sie auch nicht erdenken. Es hilft jedoch wenn man sich auf grundlegende, definierende, Ideen besinnt. Die können dann den Weg aus den Kopf nach unten finden und Blockaden aufheben.
 
 ### Beispiel 1:
 
-> Wir sind eine Horde nakter Affen, die ohne Aufsicht auf einem organischen Raumschiff um die Sonne fliegt. Zufällig haben wir gelernt die Molekülstruktur von Materie zu verändern. Ermöglicht wird unsere unbeschwerte Existenz durch einen elektromagnetischen Schutzschild, der durch Strömungen flüssigen Metals im Kern unserer Erde erzeugt wird. Er schützt uns vor der tödlichen Strahlung der Sonne. Wir stehen konstant im Stoffwechselaustausch mit einer unsichtbaren Schicht um unseren Planeten, der Atmosphäre. Sie schützt uns auch vor kleineren Meteoriten, die sonst ungebremst hier einschlagen würden. Unsere Sonne selber kreist um ein schwarzes Loch im Zentrum unserer Galaxy, das alles was ihm zu Nahe kommt, sogar Licht, in sich bindet. 
+> Wir sind eine Horde nackter Affen, die ohne Aufsicht auf einem organischen Raumschiff um die Sonne fliegt. Zufällig haben wir gelernt die Molekülstruktur von Materie zu verändern. Ermöglicht wird unsere unbeschwerte Existenz durch einen elektromagnetischen Schutzschild, der durch Strömungen flüssigen Metals im Kern unserer Erde erzeugt wird. Er schützt uns vor der tödlichen Strahlung der Sonne. Wir stehen konstant im Austausch mit einer unsichtbaren Schicht um unseren Planeten, der Atmosphäre. Sie schützt uns auch vor kleineren Meteoriten, die sonst ungebremst hier einschlagen würden. Unsere Sonne selber kreist um ein schwarzes Loch im Zentrum unserer Galaxy, das alles was ihm zu Nahe kommt, sogar Licht, in sich bindet. 
 Es gab auch mal Dinosaurier, tonnenschwere Echsenwesen, die genau hier unterwegs waren. Jetzt sind sie Erdöl.
 
 ### Shoshin in der Wissenschaft:
 
 Wir haben keine direkte Erfahrung gewisser Dinge, es sind aus Beobachtungen gewonnene Erkenntnisse der Wissenschaft. Beobachtungen mit Instrumenten, die Bereiche des elektromagnetischen Spektrums abbilden können, die uns mit den Augen nicht zugänglich sind. 
-Das ist Shoshin in der (Natur) Wissenschaft. Das Bewusstsein, dass man eigentlich keine Ahnung (Intuition) hat und die Sinne nicht ausreichend sind um die Realität zu erkennen. Diese Erkenntniss schafft die nötige *Bescheidenheit* um echten Fortschritt machen zu können.
+Das ist Shoshin in der (Natur) Wissenschaft. Das Bewusstsein, dass man eigentlich keine Ahnung (Intuition) hat und die Sinne nicht ausreichend sind um die Realität zu erkennen. Diese Erkenntnis schafft die nötige *Bescheidenheit* um echten Fortschritt machen zu können.
 Der Unterschied zwischen Spielen und Forschen ist nur, dass man aufschreibt was man macht und beobachtet.
 Das reine Bild der Wissenschaft hat *Wissen um des Wissens willen* als Kernidee. Das ist Antrieb für viele Wissenschaftler.
 
@@ -54,8 +54,8 @@ Die Befürchtung steht im Raum, dass das in der Postmoderne zu einem Simulakrum 
 
 ### Einen Pfad beschreiten
 
-Wie geht man am besten vor wenn man einen Pfad längere Zeit beschreiten will? Ein Karriere oder ein Wissensgebiet. Eine Familie oder eine politische Agenda. Erstmal gibt es eine Unzufriedenheit, das Gefühl dass etwas nicht passt. Eine Motivation etwas zu tun. Erforscht man wo dieses mulmige Gefühl herkommt landet man bei überraschenden, erschreckenden oder absurd komischen Stellen. Alle 3 sind ein Hinderniss weiterzugehen. 
-1. Die Überraschenden Erkenntnisse muss man vom Thron der Erkentniss nehmen und ins normale Weltbild einbauen, dann kann man normal weitergehen. 
+Wie geht man am besten vor wenn man einen Pfad längere Zeit beschreiten will? Ein Karriere oder ein Wissensgebiet. Eine Familie oder eine politische Agenda. Erstmal gibt es eine Unzufriedenheit, das Gefühl dass etwas nicht passt. Eine Motivation etwas zu tun. Erforscht man wo dieses mulmige Gefühl herkommt landet man bei überraschenden, erschreckenden oder absurd komischen Stellen. Alle 3 sind ein Hindernis weiterzugehen. 
+1. Die Überraschenden Erkenntnisse muss man vom Thron der Erkentnis nehmen und ins normale Weltbild einbauen, dann kann man normal weitergehen. 
 2. Um mit den erschreckenden beängstigenden umzugehen muss man Mut kultivieren. Oder akzeptieren, dass diese Pfade tatsächlich gefährlich sind und sie umgehen.
 3. Wie ist es mit dem Humor? Wenn etwas tatsächlich witzig ist, kann man sich zwingen es ernst zu nehmen?
 
