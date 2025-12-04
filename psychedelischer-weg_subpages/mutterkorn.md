@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Mutterkorn"
-permalink: /psychedlischer-weg_subpages/Mutterkorn/
+permalink: /psychedlischer-weg_subpages/mutterkorn/
 ---
 
 [Zurück](/psychedlischer-weg_subpages/zeitliche-abfolge/#return-mutterkorn)
