@@ -17,17 +17,30 @@ Von Ende der 1950er-Jahre bis Anfang der 1970er erlebte die Psychedelika-Forschu
 
 ## Die natürlichen Quellen: Von uralten Ritualen zur modernen Chemie
 
-Die psychedelischen Substanzen, die Hofmann im Labor isolierte und synthetisierte, hatten eine jahrtausendealte Geschichte in indigenen Kulturen.
-
-**Psilocybin** kommt natürlich in über 200 Pilzarten vor, vor allem in der Gattung *Psilocybe*. Archäologische Funde und Kunstwerke belegen, dass indigene Völker Mittelamerikas bereits um 2000 v. Chr. mit halluzinogenen Pilzen experimentierten. Die Azteken, Mayas und Tolteken nannten sie *Teonanácatl* – "das Fleisch der Götter". Sie glaubten, durch die Pilze mit ihren Göttern kommunizieren zu können. Spanische Missionare beobachteten im 16. Jahrhundert entsetzt die nächtlichen Rituale, bei denen Psilocybin-Pilze konsumiert wurden. Nach der Kolonisierung wurden diese Praktiken unterdrückt, überlebten aber im Verborgenen.
+Die psychedelischen Substanzen, die u.a. Hofmann im Labor isolierte und synthetisierte, hatten eine jahrtausendealte Geschichte in indigenen Kulturen. Es gab (mindestens) drei große Traditionen, geografisch getrennt, aber spirituell verwandt.
 
 **Meskalin**, das psychoaktive Alkaloid aus Kaktusarten, hat eine noch längere dokumentierte Geschichte. Der Peyote-Kaktus (*Lophophora williamsii*) wird seit fast 6.000 Jahren von den Ureinwohnern Nordamerikas genutzt – Spuren getrockneter Peyoteknöpfe am Rio Grande in Texas wurden auf 3780-3660 v. Chr. datiert. Indigene Gemeinschaften wie die Huicholen und Tarahumara in Mexiko nutzten Peyote in zeremoniellen Zusammenhängen: zur Sicherstellung der Fruchtbarkeit der Felder, zum Erbitten von Jagd- und Kriegserfolg, für Visionen und Wahrsagungen. In den 1870er Jahren verbreitete sich der Peyote-Kult auch unter den Indianerstämmen Nordamerikas und führte 1914 zur Gründung der Native American Church, die Peyote als heiliges Sakrament betrachtet. Meskalin kommt auch in anderen Kakteen vor, etwa im San-Pedro-Kaktus (*Echinopsis pachanoi*) der Andenregion.
 
-Die wissenschaftliche Entdeckung erfolgte im späten 19. Jahrhundert: Der deutsche Pharmakologe Arthur Heffter isolierte 1896 Meskalin aus dem Peyote-Kaktus, Ernst Späth synthetisierte es 1919. Diese chemischen Durchbrüche ermöglichten die kontrollierte Erforschung – lange bevor Hofmann seine Arbeit mit LSD begann.[^1]
+**Psilocybin** kommt natürlich in über 200 Pilzarten vor, vor allem in der Gattung *Psilocybe*. Archäologische Funde und Kunstwerke belegen, dass indigene Völker Mittelamerikas bereits um 2000 v. Chr. mit halluzinogenen Pilzen experimentierten. Die Azteken, Mayas und Tolteken nannten sie *Teonanácatl* – "das Fleisch der Götter". Sie glaubten, durch die Pilze mit ihren Göttern kommunizieren zu können. Spanische Missionare beobachteten im 16. Jahrhundert entsetzt die nächtlichen Rituale, bei denen Psilocybin-Pilze konsumiert wurden. Nach der Kolonisierung wurden diese Praktiken unterdrückt, überlebten aber im Verborgenen.
+
+**Ayahuasca** – "Liane der Geister" in Quechua – repräsentiert die komplexeste dieser Traditionen. Im Amazonasbecken entwickelten indigene Völker wie die Shipibo, Asháninka und Shuar über Jahrtausende ein bemerkenswertes pharmakologisches System: Sie kombinierten DMT-haltige Pflanzen (wie *Psychotria viridis*) mit der Liane *Banisteriopsis caapi*, die MAO-Hemmer enthält. Ohne diese Kombination würde das DMT beim oralen Konsum sofort abgebaut – eine biochemische Erkenntnis, die die westliche Wissenschaft erst im 20. Jahrhundert begriff. Archäologische Funde in Bolivien belegen die rituelle Nutzung für mindestens 1.000 Jahre, doch die Tradition ist vermutlich weitaus älter. Anders als Peyote und Psilocybin, die durch Kolonisierung unterdrückt wurden, blieb Ayahuasca im Regenwald geschützt – geografisch isoliert, aber kulturell lebendig bis heute.
+Die wissenschaftliche "Entdeckung" folgte einer eigenen Logik. Der deutsche Pharmakologe Arthur Heffter isolierte 1896 Meskalin aus dem Peyote-Kaktus, Ernst Späth synthetisierte es 1919. Richard Spruce identifizierte 1851 die Ayahuasca-Liane, doch seine Aufzeichnungen erschienen erst 1908. DMT wurde 1931 synthetisiert, aber seine psychedelische Wirkung blieb bis zu Stephen Száras Selbstversuchen in den 1950ern unbekannt. Psilocybin wurde erst 1958 durch Hofmann isoliert, nachdem Gordon Wasson die mexikanischen Pilze in den 1950ern "wiederentdeckt" hatte. Diese chemischen Durchbrüche ermöglichten die kontrollierte Erforschung – lange nachdem die Substanzen selbst ihre Macht bewiesen hatten.
+
+[Mehr zur zeitlichen Abfolge (inklusive LSD).](/psychedlischer-weg_subpages/zeitliche-abfolge/)
+Folgefrage: [Warum führte Meskalin (trotz seines wissenschaftlichen und historischen Vorsprungs) nicht zu dem kulturellen Effekt, den LSD später entfachte?](/psychedlischer-weg_subpages/warum-lsd-und-nicht-meskalin/)
+<span id="return-zeitliche-abfolge"></span>
+<span id="return-warum-lsd-und-nicht-meskalin"></span>
+
+
+Die psychedelische Geschichte endet nicht 1970; sie mutiert, verzweigt sich, findet neue Formen: [Das gerauchte/vaporisierte DMT; Der "Businessman's Trip](/psychedlischer-weg_subpages/businessman/) und  [5-MeO-DMT](/psychedlischer-weg_subpages/5-MeO-DMT/). Beide sind Tryptamine, beide sind kurz und intensiv, aber sie repräsentieren zwei verschiedene Facetten des Psychedelischen: DMT als "alien intelligence", 5-MeO als "dissolution into the void".
+<span id="return-businessman"></span> 
+<span id="return-5-MeO-DMT"></span>
 
 Es war eine Zeit des hoffnungsvollen Experimentierens. Therapeuten in den USA integrierten LSD in ihre Praxen und dokumentierten schnellere Erfolge bei ihren Klienten. Selbst Bill Wilson, der Gründer der Anonymen Alkoholiker, setzte sich für die Anerkennung von LSD als Mittel zur Suchtbekämpfung ein.
 
 Doch dann kam der Backlash. 1966 wurde LSD in den USA zur illegalen Droge erklärt und in die strengste Regulierungskategorie eingestuft – zusammen mit Heroin. 1971 rief Präsident Richard Nixon den berüchtigten "War on Drugs" aus und erklärte Drogenmissbrauch zum "öffentlichen Feind Nummer eins".
+
+Neben den genannten Psychedelika gibt es weitere[^1], die hier nicht weiter beleuchtet werden sollen.
 
 # Theorien des Verbots: Zwischen Macht und Moral
 
@@ -50,6 +63,10 @@ Roland Griffiths von Johns Hopkins wurde zur Schlüsselfigur bei der Überwindun
 Die Forschungslage ist mittlerweile beeindruckend. Eine Arbeit aus dem Januar 2022 kommt zu dem Schluss, dass Studien weitgehend die Hypothese stützen, dass wenige Behandlungen mit psychedelisch unterstützter Psychotherapie zu signifikanter und nachhaltiger Linderung verschiedener psychiatrischer Erkrankungen führen können.
 
 Dennoch warnt die neue Generation von Forschern vor übertriebener Euphorie. Die unkritische Übernahme von Praktiken aus dem rituellen Gebrauch birgt die Gefahr der Esoterisierung und der Verwischung zwischen wissenschaftlich fundierter Therapie und Psychonautik.
+
+Der psychedelische Weg verläuft nicht linear. Während LSD und Psilocybin den Weg der medizinischen Legitimierung gehen, repräsentiert Ayahuasca eine andere Vision: die Rückkehr zum Rituellen, zum Indigenen, zum Leiden-als-Heilung. Es zeigt die Spannung zwischen zwei Zukünften der Psychedelika – der klinischen und der schamanischen.
+[Ayahuascas späte, aber bedeutsame Rolle.](/psychedlischer-weg_subpages/ayahuasca/#warum-ayahuasca-jetzt)
+<span id="return-warum-ayahuasca-jetzt"></span>
 
 # Heilungspotentiale: Neuroplastizität und Transzendenz
 
@@ -90,41 +107,4 @@ Der psychedelische Weg ist ein Weg der Demut – Demut vor der Macht dieser Subs
 ---
 # Anmerkungen
 
-[^1]: 
-
-**Zur zeitlichen Abfolge – eine interessante Asymmetrie:** 
-
-## Bei den indigenen Völkern:
-
-**Meskalin/Peyote zuerst** (~6.000 Jahre, ca. 3780-3660 v. Chr.)
-- Älteste dokumentierte Nutzung psychedelischer Substanzen überhaupt
-- Kontinuierliche Tradition in Nord- und Mittelamerika
-- Archäologische Belege durch getrocknete Peyoteknöpfe am Rio Grande
-
-**Psilocybin-Pilze später** (~4.000 Jahre, ca. 2000 v. Chr.)
-- Mittelamerikanische Kulturen (Azteken, Maya, Tolteken)
-- Kulturell tief verankert (*Teonanácatl*)
-- Möglicherweise auch ältere Nutzung in anderen Weltregionen (Höhlenmalereien in Algerien werden auf 7.000-9.000 Jahre datiert, aber das ist umstrittener)
-
-## Bei den Chemikern – teilweiße umgekehrte Reihenfolge:
-
-**1. Meskalin** (1896/1919)
-- Arthur Heffter isoliert es 1896 aus Peyote
-- Ernst Späth synthetisiert es 1919
-- *Warum zuerst?* Peyote war den europäischen Forschern früher bekannt (spanische Berichte seit dem 16. Jh.), und Meskalin ist chemisch einfacher zu isolieren als die Tryptamine
-
-**2. LSD** (1938/1943)
-- Hofmann synthetisiert es 1938
-- Entdeckt die psychedelische Wirkung 1943
-- *Warum vor Psilocybin?* Reiner Zufall der Forschungsrichtung – Hofmann arbeitete an Mutterkorn-Alkaloiden, nicht an Pilzen
-
-**3. Psilocybin** (1958/1959)
-- Hofmann isoliert und benennt es 1958
-- Veröffentlicht die Struktur 1959
-- *Warum so spät?* Die mexikanischen Zauberpilze wurden der westlichen Wissenschaft erst in den 1950ern durch R. Gordon Wasson bekannt gemacht – obwohl indigene Völker sie seit Jahrtausenden kannten
-
-Die europäische Wissenschaft "entdeckte" diese Substanzen also in teilweiße umgekehrter Reihenfolge zu ihrer tatsächlichen historischen Bedeutung. Was am längsten bekannt war (Meskalin), wurde zuerst wissenschaftlich erfasst. Die Pilze, obwohl kulturell mindestens genauso bedeutsam, blieben der westlichen Wissenschaft länger verborgen, vielleicht weil sie nach der spanischen Kolonisierung im Untergrund praktiziert wurden.
-Und LSD? Das war die komplette Anomalie – eine Substanz ohne indigene Geschichte, ein reines Labor-Artefakt, das sich dann als strukturell verwandt mit den uralten pflanzlichen Psychedelika herausstellte. Hofmann nannte es nicht umsonst sein "Sorgenkind"; Es hatte keine jahrtausendealte rituelle Einbettung, keine kulturelle Weisheit über den richtigen Gebrauch.
-
-[Warum führte Meskalin (trotz seines wissenschaftlichen und historischen Vorsprungs) nicht zu dem kulturellen Effekt, den LSD später entfachte?](/psychedlischer-weg_subpages/warum-lsd-und-nicht-meskalin/)
-<span id="return-warum-lsd-und-nicht-meskalin"></span>
+[^1]: **Andere Psychedelika und Entaktogene:** Die psychedelische Landschaft ist breiter als die vier klassischen Substanzen. **MDMA (Ecstasy)**, 1912 von Merck synthetisiert und in den 1970ern von Alexander Shulgin wiederentdeckt, ist technisch ein "Entaktogen" – es fördert Empathie und emotionale Öffnung mehr als Halluzinationen. Nach kurzer therapeutischer Blüte in den 1980ern wurde es verboten, erlebt aber nun eine beeindruckende Renaissance in klinischen Studien, besonders für PTSD. **Ketamin**, ein Dissoziativum statt Serotonin-Psychedelikum, wurde als Esketamin das erste Psychedelikum mit medizinischer Zulassung für Depression – ein pragmatischer Vorreiter. **Alexander Shulgins synthetische Phenethylamine** (2C-B, DOM, DOI) sind für Psychonauten bedeutsam, erreichten aber nie kulturelle Prominenz. **Ibogain** aus afrikanischen Wurzeln zeigt faszinierendes Potential für Suchtbehandlung, ist jedoch gefährlich und schwer zu handhaben. **Salvia divinorum**, mit dem extrem potenten Salvinorin A, bietet kurze, bizarre Trips, blieb aber eher eine Kuriosität. Diese Substanzen erweitern das Feld, aber die vier Klassiker – Meskalin, LSD, Psilocybin, DMT/Ayahuasca – erzählen die Kerngeschichte vom psychedelischen Weg.
