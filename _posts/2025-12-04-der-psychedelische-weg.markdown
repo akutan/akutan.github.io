@@ -11,11 +11,11 @@ description: Der psychedelische Weg. Geschichtlicher Abriss, Renaissance der ers
 
 Das Wort "psychedelisch" entstand 1956 in einem Briefwechsel zwischen dem Psychiater Humphry Osmond und dem Schriftsteller Aldous Huxley. Osmond prägte den Begriff aus den altgriechischen Wörtern *psyche* (Seele, Geist) und *dēloûn* (offenbaren, sichtbar machen) – "das Offenbarmachen der Seele". Die Schreibweise mit "psyche-" wählte er bewusst, um negative Assoziationen zu vermeiden, die der Wortteil "psycho-" hätte wecken können. In diesem sprachlichen Akt liegt bereits eine Ahnung dessen, was folgen sollte: der Versuch, etwas Unsagbares in Worte zu fassen, einen Bewusstseinszustand zu benennen, der die Grenzen zwischen Selbst und Welt auflöst.
 
-# Die erste Welle im Westen, ihr Ursprung und ihr Untergang
+# Die erste Welle im Westen und ihr Ursprung
 
-Von Ende der 1950er-Jahre bis Anfang der 1970er erlebte die Psychedelika-Forschung eine erste intensive Phase. Albert Hofmann hatte 1938 als Chemiker bei Sandoz in Basel LSD erstmals synthetisiert – seine zufällige Selbsterfahrung am 19. April 1943, der legendäre "Bicycle Day", markierte die Entdeckung seiner psychedelischen Wirkung. 1958 gelang Hofmann gemeinsam mit dem französischen Mykologen Roger Heim die Isolation und Benennung von Psilocybin und Psilocin aus mexikanischen Zauberpilzen der Gattung *Psilocybe*, insbesondere *Psilocybe mexicana*. Die Pilzproben stammten von R. Gordon Wasson, der sie bei seinen ethnomykologischen Expeditionen in Mexiko gesammelt hatte. 1959 veröffentlichte Hofmann seine Erkenntnisse zur chemischen Struktur dieser Substanzen.
+Von Ende der 1950er-Jahre bis Anfang der 1970er erlebte die Psychedelika-Forschung eine erste intensive Phase. Albert Hofmann hatte 1938 als Chemiker bei Sandoz in Basel LSD erstmals synthetisiert – seine zufällige Selbsterfahrung am 19. April 1943, der legendäre "Bicycle Day", markierte die Entdeckung seiner psychedelischen Wirkung. 1958 gelang Hofmann gemeinsam mit dem französischen Mykologen Roger Heim die Isolation und Benennung von Psilocybin und Psilocin aus mexikanischen Zauberpilzen der Gattung *Psilocybe*, insbesondere *Psilocybe mexicana*. Die Pilzproben stammten von R. Gordon Wasson, der sie bei seinen ethnomykologischen Expeditionen in Mexiko gesammelt hatte. 1959 veröffentlichte Hofmann seine Erkenntnisse zur chemischen Struktur dieser Substanzen. Es war eine Zeit des hoffnungsvollen Experimentierens. Therapeuten in den USA integrierten LSD in ihre Praxen und dokumentierten schnellere Erfolge bei ihren Klienten. Selbst Bill Wilson, der Gründer der Anonymen Alkoholiker, setzte sich für die Anerkennung von LSD als Mittel zur Suchtbekämpfung ein. 
 
-## Die natürlichen Quellen: Von uralten Ritualen zur modernen Chemie
+# Die natürlichen Quellen: Von uralten Ritualen zur modernen Chemie
 
 Die psychedelischen Substanzen, die u.a. Hofmann im Labor isolierte und synthetisierte, hatten eine jahrtausendealte Geschichte in indigenen Kulturen. Es gab (mindestens) drei große Traditionen, geografisch getrennt, aber spirituell verwandt.
 
@@ -30,15 +30,13 @@ Die wissenschaftliche "Entdeckung" folgte einer eigenen Logik. Der deutsche Phar
 Naheliegende Folgefrage: [Warum führte Meskalin (trotz seines wissenschaftlichen und historischen Vorsprungs) nicht zu dem kulturellen Effekt, den LSD später entfachte?](/psychedlischer-weg_subpages/warum-lsd-und-nicht-meskalin/)
 <span id="return-zeitliche-abfolge"></span>
 <span id="return-warum-lsd-und-nicht-meskalin"></span>
-Die psychedelische Geschichte endet nicht 1970; sie mutiert, verzweigt sich, findet neue Formen: [Das gerauchte/vaporisierte DMT; Der "Businessman's Trip](/psychedlischer-weg_subpages/businessman/) und  [5-MeO-DMT](/psychedlischer-weg_subpages/5-MeO-DMT/). Beide sind Tryptamine, beide sind kurz und intensiv, aber sie repräsentieren zwei verschiedene Facetten des Psychedelischen: DMT als "alien intelligence", 5-MeO als "dissolution into the void".
+Die psychedelische Geschichte endet nicht 1970; sie mutiert, verzweigt sich, findet neue Formen: [Das gerauchte/vaporisierte DMT; Der "Businessman's Trip](/psychedlischer-weg_subpages/businessman/) und  [5-MeO-DMT](/psychedlischer-weg_subpages/5-MeO-DMT/). Beide sind Tryptamine, beide sind kurz und intensiv, aber sie repräsentieren zwei verschiedene Facetten des Psychedelischen: DMT als "alien intelligence", 5-MeO als "dissolution into the void". Neben den genannten Psychedelika gibt es weitere[^1], die hier nicht beleuchtet werden sollen.
 <span id="return-businessman"></span> 
 <span id="return-5-MeO-DMT"></span>
-Neben den genannten Psychedelika gibt es weitere[^1], die hier nicht weiter beleuchtet werden sollen.
-
----
-Die Zeit zwischen den 1950er-Jahren bis Anfang der 1970er war eine Zeit des hoffnungsvollen Experimentierens. Therapeuten in den USA integrierten LSD in ihre Praxen und dokumentierten schnellere Erfolge bei ihren Klienten. Selbst Bill Wilson, der Gründer der Anonymen Alkoholiker, setzte sich für die Anerkennung von LSD als Mittel zur Suchtbekämpfung ein. Doch der Backlash ließ nicht lange auf sich warten. 1966 wurde LSD in den USA zur illegalen Droge erklärt und in die strengste Regulierungskategorie eingestuft – zusammen mit Heroin. 1971 rief Präsident Richard Nixon den berüchtigten "War on Drugs" aus und erklärte Drogenmissbrauch zum "öffentlichen Feind Nummer eins".
 
 # Theorien des Verbots: Zwischen Macht und Moral
+
+Die Reaktionen der Herrschenden auf die erste Welle ließ nicht lange auf sich warten. 1966 wurde LSD in den USA zur illegalen Droge erklärt und in die strengste Regulierungskategorie eingestuft – zusammen mit Heroin. 1971 rief Präsident Richard Nixon den berüchtigten "War on Drugs" aus und erklärte Drogenmissbrauch zum "öffentlichen Feind Nummer eins".
 
 Warum wurden diese Substanzen verboten? Die Antwort ist komplex und hat wenig mit Gesundheit zu tun.
 
