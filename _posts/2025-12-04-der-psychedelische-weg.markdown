@@ -26,13 +26,11 @@ Die psychedelischen Substanzen, die u.a. Hofmann im Labor isolierte und syntheti
 **Ayahuasca** – "Liane der Geister" in Quechua – repräsentiert die komplexeste dieser Traditionen. Im Amazonasbecken entwickelten indigene Völker wie die Shipibo, Asháninka und Shuar über Jahrtausende ein bemerkenswertes pharmakologisches System: Sie kombinierten DMT-haltige Pflanzen (wie *Psychotria viridis*) mit der Liane *Banisteriopsis caapi*, die MAO-Hemmer enthält. Ohne diese Kombination würde das DMT beim oralen Konsum sofort abgebaut – eine biochemische Erkenntnis, die die westliche Wissenschaft erst im 20. Jahrhundert begriff. Archäologische Funde in Bolivien belegen die rituelle Nutzung für mindestens 1.000 Jahre, doch die Tradition ist vermutlich weitaus älter. Anders als Peyote und Psilocybin, die durch Kolonisierung unterdrückt wurden, blieb Ayahuasca im Regenwald geschützt – geografisch isoliert, aber kulturell lebendig bis heute.
 Die wissenschaftliche "Entdeckung" folgte einer eigenen Logik. Der deutsche Pharmakologe Arthur Heffter isolierte 1896 Meskalin aus dem Peyote-Kaktus, Ernst Späth synthetisierte es 1919. Richard Spruce identifizierte 1851 die Ayahuasca-Liane, doch seine Aufzeichnungen erschienen erst 1908. DMT wurde 1931 synthetisiert, aber seine psychedelische Wirkung blieb bis zu Stephen Száras Selbstversuchen in den 1950ern unbekannt. Psilocybin wurde erst 1958 durch Hofmann isoliert, nachdem Gordon Wasson die mexikanischen Pilze in den 1950ern "wiederentdeckt" hatte. Diese chemischen Durchbrüche ermöglichten die kontrollierte Erforschung – lange nachdem die Substanzen selbst ihre Macht bewiesen hatten.
 
-[Mehr zur zeitlichen Abfolge (inklusive LSD).](/psychedlischer-weg_subpages/zeitliche-abfolge/)
-Naheliegende Folgefrage: [Warum führte Meskalin (trotz seines wissenschaftlichen und historischen Vorsprungs) nicht zu dem kulturellen Effekt, den LSD später entfachte?](/psychedlischer-weg_subpages/warum-lsd-und-nicht-meskalin/)
-<span id="return-zeitliche-abfolge"></span>
-<span id="return-warum-lsd-und-nicht-meskalin"></span>
-Die psychedelische Geschichte endet nicht 1970; sie mutiert, verzweigt sich, findet neue Formen: [Das gerauchte/vaporisierte DMT; Der "Businessman's Trip](/psychedlischer-weg_subpages/businessman/) und  [5-MeO-DMT](/psychedlischer-weg_subpages/5-MeO-DMT/). Beide sind Tryptamine, beide sind kurz und intensiv, aber sie repräsentieren zwei verschiedene Facetten des Psychedelischen: DMT als "alien intelligence", 5-MeO als "dissolution into the void". Neben den genannten Psychedelika gibt es weitere[^1], die hier nicht beleuchtet werden sollen.
-<span id="return-businessman"></span> 
-<span id="return-5-MeO-DMT"></span>
+[Mehr zur zeitlichen Abfolge (inklusive LSD).](/psychedlischer-weg_subpages/zeitliche-abfolge/) Naheliegende Folgefrage: [Warum führte Meskalin (trotz seines wissenschaftlichen und historischen Vorsprungs) nicht zu dem kulturellen Effekt, den LSD später entfachte?](/psychedlischer-weg_subpages/warum-lsd-und-nicht-meskalin/)
+<span id="return-zeitliche-abfolge"></span><span id="return-warum-lsd-und-nicht-meskalin"></span>
+Die psychedelische Geschichte endet nicht 1970; sie mutiert, verzweigt sich, findet neue Formen: [Das gerauchte/vaporisierte DMT; Der "Businessman's Trip](/psychedlischer-weg_subpages/businessman/) und  [5-MeO-DMT](/psychedlischer-weg_subpages/5-MeO-DMT/). Beide sind Tryptamine, beide sind kurz und intensiv, aber sie repräsentieren zwei verschiedene Facetten des Psychedelischen: DMT als "alien intelligence", 5-MeO als "dissolution into the void". Neben den genannten Psychedelika gibt es weitere[^1], die hier nicht beleuchtet werden sollen. [Cannabis wird hier gesondert betrachtet](/psychedlischer-weg_subpages/cannabis-der-sonderfall/)
+<span id="return-businessman"></span> <span id="return-5-MeO-DMT"></span><span id="return-cannabis-der-sonderfall"></span>
+
 
 # Theorien des Verbots: Zwischen Macht und Moral
 
@@ -61,6 +59,9 @@ Dennoch warnt die neue Generation von Forschern vor übertriebener Euphorie. Die
 Der psychedelische Weg verläuft nicht linear. Während LSD und Psilocybin den Weg der medizinischen Legitimierung gehen, repräsentiert Ayahuasca eine andere Vision: die Rückkehr zum Rituellen, zum Indigenen, zum Leiden-als-Heilung. Es zeigt die Spannung zwischen zwei Zukünften der Psychedelika – der klinischen und der schamanischen.
 [Ayahuascas späte, aber bedeutsame Rolle.](/psychedlischer-weg_subpages/ayahuasca/#warum-ayahuasca-jetzt)
 <span id="return-warum-ayahuasca-jetzt"></span>
+
+Während die psychedelische Renaissance in kontrollierten klinischen Settings also voranschreitet, entwickelte sich in [Deutschland ab 2015 ein bizarres Paralleluniversum](/psychedlischer-weg_subpages/deutschland_prodrugs): ein legaler Markt für LSD-Derivate, sogenannte "Research Chemicals" oder Prodrugs, die im Körper zu LSD metabolisiert werden, aber durch minimale molekulare Modifikationen den geltenden Gesetzen entkamen.
+<span id="return-deutschland_prodrugs"></span>
 
 # Heilungspotentiale: Neuroplastizität und Transzendenz
 

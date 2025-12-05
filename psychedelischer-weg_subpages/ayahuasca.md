@@ -68,3 +68,5 @@ Ayahuasca passt perfekt zum zeitgenössischen Wellness-Zeitgeist:
 Wie ein Forscher es ausdrückte: *"Indem unsere Zivilisation die Welt durch Technik beherrschbarer zu machen versucht, haben wir uns von der Natur entfremdet. Das weckt eine Sehnsucht nach Pflanzenmedizin."*
 
 Ayahuasca ist das Psychedelikum, das die westliche Welt *zuletzt* entdeckte, obwohl es genauso alt ist wie die anderen. Es wartet jahrtausendelang im Regenwald, während der Westen erst Meskalin nimmt, dann LSD erfindet, dann Psilocybin "wiederentdeckt"; und *dann*, erschöpft von Synthetik und Schnelligkeit, endlich bereit ist für die komplizierteste, rituellste, schwerste aller psychedelischen Erfahrungen.
+
+[Zurück](/der-psychedelische-weg/#return-warum-ayahuasca-jetzt)
