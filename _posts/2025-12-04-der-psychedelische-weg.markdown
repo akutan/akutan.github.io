@@ -7,11 +7,11 @@ tags: drogen kultur psychedelisch
 description: Der psychedelische Weg. Geschichtlicher Abriss, Renaissance der ersten Welle, Chancen
 ---
 
-# Die Seele sichtbar machen
+# Die Seele sichtbar machen | die Grenzen zwischen Selbst und Welt auflösen
 
 Das Wort "psychedelisch" entstand 1956 in einem Briefwechsel zwischen dem Psychiater Humphry Osmond und dem Schriftsteller Aldous Huxley. Osmond prägte den Begriff aus den altgriechischen Wörtern *psyche* (Seele, Geist) und *dēloûn* (offenbaren, sichtbar machen) – "das Offenbarmachen der Seele". Die Schreibweise mit "psyche-" wählte er bewusst, um negative Assoziationen zu vermeiden, die der Wortteil "psycho-" hätte wecken können. In diesem sprachlichen Akt liegt bereits eine Ahnung dessen, was folgen sollte: der Versuch, etwas Unsagbares in Worte zu fassen, einen Bewusstseinszustand zu benennen, der die Grenzen zwischen Selbst und Welt auflöst.
 
-# Die erste Welle und ihr Untergang
+# Die erste Welle im Westen, ihr Ursprung und ihr Untergang
 
 Von Ende der 1950er-Jahre bis Anfang der 1970er erlebte die Psychedelika-Forschung eine erste intensive Phase. Albert Hofmann hatte 1938 als Chemiker bei Sandoz in Basel LSD erstmals synthetisiert – seine zufällige Selbsterfahrung am 19. April 1943, der legendäre "Bicycle Day", markierte die Entdeckung seiner psychedelischen Wirkung. 1958 gelang Hofmann gemeinsam mit dem französischen Mykologen Roger Heim die Isolation und Benennung von Psilocybin und Psilocin aus mexikanischen Zauberpilzen der Gattung *Psilocybe*, insbesondere *Psilocybe mexicana*. Die Pilzproben stammten von R. Gordon Wasson, der sie bei seinen ethnomykologischen Expeditionen in Mexiko gesammelt hatte. 1959 veröffentlichte Hofmann seine Erkenntnisse zur chemischen Struktur dieser Substanzen.
 
@@ -27,20 +27,16 @@ Die psychedelischen Substanzen, die u.a. Hofmann im Labor isolierte und syntheti
 Die wissenschaftliche "Entdeckung" folgte einer eigenen Logik. Der deutsche Pharmakologe Arthur Heffter isolierte 1896 Meskalin aus dem Peyote-Kaktus, Ernst Späth synthetisierte es 1919. Richard Spruce identifizierte 1851 die Ayahuasca-Liane, doch seine Aufzeichnungen erschienen erst 1908. DMT wurde 1931 synthetisiert, aber seine psychedelische Wirkung blieb bis zu Stephen Száras Selbstversuchen in den 1950ern unbekannt. Psilocybin wurde erst 1958 durch Hofmann isoliert, nachdem Gordon Wasson die mexikanischen Pilze in den 1950ern "wiederentdeckt" hatte. Diese chemischen Durchbrüche ermöglichten die kontrollierte Erforschung – lange nachdem die Substanzen selbst ihre Macht bewiesen hatten.
 
 [Mehr zur zeitlichen Abfolge (inklusive LSD).](/psychedlischer-weg_subpages/zeitliche-abfolge/)
-Folgefrage: [Warum führte Meskalin (trotz seines wissenschaftlichen und historischen Vorsprungs) nicht zu dem kulturellen Effekt, den LSD später entfachte?](/psychedlischer-weg_subpages/warum-lsd-und-nicht-meskalin/)
+Naheliegende Folgefrage: [Warum führte Meskalin (trotz seines wissenschaftlichen und historischen Vorsprungs) nicht zu dem kulturellen Effekt, den LSD später entfachte?](/psychedlischer-weg_subpages/warum-lsd-und-nicht-meskalin/)
 <span id="return-zeitliche-abfolge"></span>
 <span id="return-warum-lsd-und-nicht-meskalin"></span>
-
-
 Die psychedelische Geschichte endet nicht 1970; sie mutiert, verzweigt sich, findet neue Formen: [Das gerauchte/vaporisierte DMT; Der "Businessman's Trip](/psychedlischer-weg_subpages/businessman/) und  [5-MeO-DMT](/psychedlischer-weg_subpages/5-MeO-DMT/). Beide sind Tryptamine, beide sind kurz und intensiv, aber sie repräsentieren zwei verschiedene Facetten des Psychedelischen: DMT als "alien intelligence", 5-MeO als "dissolution into the void".
 <span id="return-businessman"></span> 
 <span id="return-5-MeO-DMT"></span>
-
-Es war eine Zeit des hoffnungsvollen Experimentierens. Therapeuten in den USA integrierten LSD in ihre Praxen und dokumentierten schnellere Erfolge bei ihren Klienten. Selbst Bill Wilson, der Gründer der Anonymen Alkoholiker, setzte sich für die Anerkennung von LSD als Mittel zur Suchtbekämpfung ein.
-
-Doch dann kam der Backlash. 1966 wurde LSD in den USA zur illegalen Droge erklärt und in die strengste Regulierungskategorie eingestuft – zusammen mit Heroin. 1971 rief Präsident Richard Nixon den berüchtigten "War on Drugs" aus und erklärte Drogenmissbrauch zum "öffentlichen Feind Nummer eins".
-
 Neben den genannten Psychedelika gibt es weitere[^1], die hier nicht weiter beleuchtet werden sollen.
+
+---
+Die Zeit zwischen den 1950er-Jahren bis Anfang der 1970er war eine Zeit des hoffnungsvollen Experimentierens. Therapeuten in den USA integrierten LSD in ihre Praxen und dokumentierten schnellere Erfolge bei ihren Klienten. Selbst Bill Wilson, der Gründer der Anonymen Alkoholiker, setzte sich für die Anerkennung von LSD als Mittel zur Suchtbekämpfung ein. Doch der Backlash ließ nicht lange auf sich warten. 1966 wurde LSD in den USA zur illegalen Droge erklärt und in die strengste Regulierungskategorie eingestuft – zusammen mit Heroin. 1971 rief Präsident Richard Nixon den berüchtigten "War on Drugs" aus und erklärte Drogenmissbrauch zum "öffentlichen Feind Nummer eins".
 
 # Theorien des Verbots: Zwischen Macht und Moral
 
