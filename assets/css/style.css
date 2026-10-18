@@ -18,20 +18,3 @@
     display: inline-block;
 }
 
-/* Deeply nested tree lists: compact indentation so they fit on phones */
-.tree-list,
-.tree-list ul {
-    padding-left: 1.2em;
-}
-
-.tree-list li {
-    overflow-wrap: anywhere;
-}
-
-@media (max-width: 600px) {
-    .tree-list,
-    .tree-list ul {
-        padding-left: 0.7em;
-    }
-}
-

@@ -7,6 +7,16 @@ tags: verstehen system utopie unterhaltung
 description: Was sind die Vor- und Nachteile des "Verstehens"? Wenn man es sich auf die Flagge für sein Leben geschrieben hat. Im privaten, im Intersubjektiven, und im Objektiven.
 ---
 
+<style>
+.tree-list, .tree-list ul { padding-left: 1.2em; }
+.tree-list li { overflow-wrap: anywhere; }
+@media (max-width: 600px) {
+  .tree-list { padding-left: 1em; }
+  .tree-list ul { padding-left: 0.6em; margin-left: 0.1em; border-left: 1px solid #ccc; }
+  .tree-list ul ul ul { padding-left: 0.25em; }
+}
+</style>
+
 Das Gespräch, aus dem dieser Beitrag entstanden ist, verlief nicht linear – die Fragen unten sind nur die, die ich besonders hervorheben will. Tatsächlich verzweigt sich das Gespräch an mehreren Stellen tiefer. Hier die vollständige Baumstruktur (★ = unten direkt verlinkt):
 
 - [Verstehen als Lebensprogramm](/versteher_subpages/verstehen-als-lebensprogramm/) ★
