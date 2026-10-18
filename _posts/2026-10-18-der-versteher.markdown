@@ -29,6 +29,7 @@ Das Gespräch, aus dem dieser Beitrag entstanden ist, verlief nicht linear – d
         - [Jenseits von Wachstum](/versteher_subpages/jenseits-von-wachstum/) ★
         - [Sprache als Krankheit](/versteher_subpages/sprache-als-krankheit/) ★
           - [Wittgenstein und Baudrillard](/versteher_subpages/wittgenstein-baudrillard/) ★
+{: .tree-list}
 
 # Hervorgehobene Frage - Antwort Paare:
 
