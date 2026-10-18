@@ -308,6 +308,21 @@ figcaption {
   <img class="marginauto" src='/assets/images/fragmentiert_transparent.png' width="400" style="background:none ; border:none; box-shadow:none"/>
   <figcaption>Fragmentiertes Ganzes</figcaption>
 </figure> </a></p>
+<style>
+.marginauto {
+    margin: 10px auto 20px;
+    display: block;
+}
+figcaption {
+  text-align: center;
+}
+</style><p>
+<a href="{% post_url 2026-10-18-warum-meditieren %}" title="Redirect to blogpage">
+<figure>
+  <img class="marginauto" src='/assets/images/wushhh.png' width="300" style="background:none ; border:none; box-shadow:none"/>
+  <figcaption> Wushhh
+</figcaption>
+</figure> </a></p>
 [![img]({{'/assets/images/keine-abenteuer.jpg' | relative_url }}){: .center-image }{:width="400px"}*Menschenbild in Wall-E (2008). (Quelle: Pixar)*]({% post_url 2020-08-21-keine-abenteuer %})
 <style>
 .marginauto {
